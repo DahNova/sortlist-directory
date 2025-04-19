@@ -1,0 +1,47 @@
+{
+  "nomeAgenzia": "Gusto Italian Design Studio S.R.L. (Studiogusto)",
+  "descrizioneBreve": "An international culture-first creative agency based in Italy and Germany, recognized as a boutique agency focused on excellence.",
+  "descrizioneCompleta": "Gusto IDS aka Studiogusto is a culture-first creative agency with over 20 years of experience creating all-round communication projects and boutique experiences. They specialize in strategic consulting and communication services, with a strong expertise in Made In Italy luxury and international excellence. Studiogusto is known for its passion for innovation, storytelling, and delivering high-quality creative solutions to clients worldwide.",
+  "sedePrincipale": {
+    "indirizzoCompleto": "Via Camillo Bozza, 14, 06073 - Corciano (Perugia)",
+    "citta": "Corciano",
+    "provincia": "PG",
+    "regione": "Umbria"
+  },
+  "altreSedi": [
+    {
+      "indirizzoCompleto": "Landsberger Strasse, 318d, 80687 - Munich, Germany",
+      "citta": "Munich",
+      "provincia": "",
+      "regione": "Bavaria"
+    },
+    {
+      "indirizzoCompleto": "Piazza Vetra, 21, 20123 – Milano",
+      "citta": "Milano",
+      "provincia": "MI",
+      "regione": "Lombardia"
+    }
+  ],
+  "sitoWeb": "https://www.studiogusto.com/",
+  "serviziOfferti": [
+    "Strategic Consulting",
+    "Communication Services",
+    "Branding",
+    "Digital Beauty",
+    "Creative Campaigns",
+    "Visual Storytelling",
+    "Content Production"
+  ],
+  "contatti": {
+    "telefono": "+39 075 79 21 621",
+    "emailGenerale": "info@studiogusto.com",
+    "emailLavoro": "jobs@studiogusto.com"
+  },
+  "socialMedia": {
+    "facebook": "https://www.facebook.com/gusto.ids/",
+    "instagram": "https://www.instagram.com/gustoids/",
+    "youtube": "https://www.youtube.com/@studiogustosrl848"
+  },
+  "tecnologieUtilizzate": "Creative digital production, strategic consulting, luxury brand communication",
+  "settoriSpecializzazione": "Made In Italy luxury, international excellence, culture-first creative projects"
+}

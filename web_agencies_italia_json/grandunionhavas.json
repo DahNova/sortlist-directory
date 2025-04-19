@@ -1,0 +1,36 @@
+{
+  "nomeAgenzia": "Grand Union - Havas",
+  "descrizioneBreve": "Marketing and communication agency part of Fullsix International Group and Havas Village Italy, specializing in synchronized marketing with digital at the core.",
+  "descrizioneCompleta": "Grand Union - Havas is an innovative marketing and communication agency in Italy, part of the Fullsix International Group and integrated within Havas Village Italy. They focus on synchronized marketing, placing digital at the core of brand intelligence, communication, and sales. The agency uses data to build actionable consumer profiles and emphasizes innovation through research and talent collaboration.",
+  "sedePrincipale": {
+    "indirizzoCompleto": "Via San Vito, 7, 20123 Milano",
+    "citta": "Milano",
+    "provincia": "MI",
+    "regione": "Lombardia"
+  },
+  "altreSedi": [
+    {
+      "indirizzoCompleto": "Salita di S. Nicola da Tolentino, 13, 00187 Roma",
+      "citta": "Roma",
+      "provincia": "RM",
+      "regione": "Lazio"
+    },
+    {
+      "indirizzoCompleto": "Corso Castelfidardo, 22, 10138 Torino",
+      "citta": "Torino",
+      "provincia": "TO",
+      "regione": "Piemonte"
+    }
+  ],
+  "sitoWeb": "https://it.havas.com/en/",
+  "serviziOfferti": [
+    "Creative",
+    "Media",
+    "Content",
+    "Data",
+    "Healthcare & Wellness",
+    "Public Relations"
+  ],
+  "tecnologieUtilizzate": "Synchronized marketing, data-driven consumer profiling, innovation through research and talent collaboration",
+  "settoriSpecializzazione": "Integrated communication, brand intelligence, and sales"
+}

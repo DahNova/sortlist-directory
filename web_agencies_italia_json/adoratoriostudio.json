@@ -1,0 +1,77 @@
+{
+  "name": "Adoratorio Studio",
+  "website": "https://adoratorio.studio/",
+  "location": "Brescia and Amsterdam, Italy (Somewhere in Italy, not Milan)",
+  "company_size": "Not explicitly stated",
+  "founded": 2014,
+  "type": "Independent Design Studio",
+  "industry": "Digital Creative Agency",
+  "description": "Adoratorio Studio is an award-winning independent design studio based in Brescia and Amsterdam. Recognized as Awwwards Studio of the Year in 2020, they specialize in creative strategy, art direction, brand and corporate identity, web design and development, and advanced digital art.",
+  "services_offered": [
+    "Creative Strategy",
+    "Art Direction",
+    "Brand and Corporate Identity",
+    "Web Design & Development",
+    "WebGL & Digital Experiments",
+    "Research & Development",
+    "Social Media Guidelines",
+    "Experimental Installations",
+    "Interactive Websites",
+    "Virtual Reality",
+    "3D Programming and Design",
+    "Creative Experiences",
+    "Digital Events",
+    "Virtual Showroom",
+    "Game, App and AR Filters",
+    "Advanced Digital Art",
+    "VFX",
+    "2D & 3D Animation",
+    "UI Design",
+    "UX Design",
+    "Metaverse",
+    "Motion"
+  ],
+  "client_portfolio": [
+    "Gucci",
+    "Netflix",
+    "Maserati",
+    "Off-White",
+    "Lufthansa",
+    "Ferragamo",
+    "Diesel",
+    "Taschen",
+    "Enel",
+    "Coordown"
+  ],
+  "specialties": [
+    "Creative Strategy",
+    "Art Direction",
+    "Brand and Corporate Identity",
+    "Web Design & Development",
+    "WebGL & Digital Experiments",
+    "Virtual Reality",
+    "3D Programming and Design",
+    "Advanced Digital Art",
+    "UI and UX Design",
+    "Metaverse",
+    "Motion Graphics"
+  ],
+  "recognition": "Awwwards Studio of the Year 2020",
+  "languages": [
+    "English",
+    "Italian",
+    "French"
+  ],
+  "status": "International",
+  "budget": "Over $30,000",
+  "open_to": [
+    "In House",
+    "Remote"
+  ],
+  "social_media": {
+    "facebook": "https://www.facebook.com/adoratorio.studio/",
+    "twitter": "https://www.twitter.com/adoratorio_std",
+    "linkedin": "https://www.linkedin.com/company/adoratoriostudio/",
+    "instagram": "https://www.instagram.com/adoratorio.studio"
+  }
+}

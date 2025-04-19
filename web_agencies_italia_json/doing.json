@@ -1,0 +1,38 @@
+{
+  "nomeAgenzia": "Doing Srl",
+  "descrizioneBreve": "Da oltre 20 anni nel campo ICT forniamo le soluzioni tecnologiche indispensabili al raggiungimento dei tuoi obiettivi di business.",
+  "descrizioneCompleta": "Dal 2007 ci dedichiamo allo sviluppo e all’implementazione di sistemi ERP (Enterprise Resource Planning), soluzioni software avanzate progettate per integrare e ottimizzare i processi aziendali tramite la condivisione di dati e flussi informativi. Offriamo servizi di sicurezza informatica, networking, assistenza sistemistica, cloud, virtualizzazione, web e social media marketing, e sviluppo di app web e mobile.",
+  "sedePrincipale": {
+    "indirizzoCompleto": "Via Napoli, 155 - 80013 Casalnuovo di Napoli",
+    "citta": "Casalnuovo di Napoli",
+    "provincia": "NA",
+    "regione": "Campania"
+  },
+  "altreSedi": [],
+  "sitoWeb": "https://doingsrl.it/",
+  "annoFondazione": "2007",
+  "numeroDipendentiApprox": "11-50",
+  "serviziOfferti": [
+    "ERP – Sistemi Gestionali – Business Intelligence – CRM",
+    "Sistemi POS e Software per Retail",
+    "Cloud Architect e Virtualizzazione",
+    "Veeam Cloud & Service Provider – Cloud Backup",
+    "Sicurezza Informatica & Networking",
+    "Assistenza Sistemistica e Software – Monitoring e Backup",
+    "Service – Delivery – Hardware – Servizio di Dispatching",
+    "Web – Social Media Marketing – Web/Mobile App"
+  ],
+  "tecnologieUtilizzate": "Non disponibile",
+  "settoriSpecializzazione": "Non disponibile",
+  "portfolioLink": "Non disponibile",
+  "contatti": {
+    "telefono": "+39 081 3175539",
+    "fax": "+39 081 5223863",
+    "email": "info@doingsrl.it"
+  },
+  "socialMedia": {
+    "facebook": "https://www.facebook.com/doingsmartsolutions",
+    "linkedin": "https://www.linkedin.com/company/doingsmartsolutions/",
+    "instagram": "https://www.instagram.com/doing.srl"
+  }
+}

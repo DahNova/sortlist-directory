@@ -1,0 +1,80 @@
+{
+  "nomeAgenzia": "SWSD Studio",
+  "descrizioneBreve": "Web agency e agenzia creativa specializzata in comunicazione, creazione siti web e grafica a Alessandria.",
+  "descrizioneCompleta": "SWSD Studio è una web agency e agenzia creativa di Alessandria, Piemonte, che offre servizi professionali di comunicazione, realizzazione siti web, grafica pubblicitaria e copywriting. Il team è composto da professionisti esperti in siti web WordPress ottimizzati per SEO, design pubblicitario, branding e servizi editoriali. L'agenzia si distingue per un approccio attento alla qualità, trasparenza, assistenza tecnica 24/7 e una forte attenzione alla user experience e all'immagine coordinata dei clienti.",
+  "sedePrincipale": {
+    "indirizzoCompleto": "Via Santuario 29, 15046 San Salvatore Monferrato, Alessandria, AL",
+    "citta": "San Salvatore Monferrato",
+    "provincia": "AL",
+    "regione": "Piemonte"
+  },
+  "altreSedi": [],
+  "sitoWeb": "https://www.swsd.it/",
+  "annoFondazione": "Non disponibile",
+  "numeroDipendentiApprox": "Non disponibile",
+  "serviziOfferti": [
+    "Sviluppo Web (Siti vetrina, gestionali)",
+    "SEO (Search Engine Optimization)",
+    "Content Marketing / Blogging",
+    "Email Marketing",
+    "Branding / Corporate Identity",
+    "UI/UX Design",
+    "Consulenza Digitale",
+    "Altro (grafica pubblicitaria, packaging, brochure, copywriting, assistenza tecnica 24/7)"
+  ],
+  "tecnologieUtilizzate": [
+    "WordPress",
+    "Google Analytics",
+    "Adobe Creative Suite",
+    "Altro (strumenti di grafica e web design)"
+  ],
+  "settoriSpecializzazione": [
+    "Industria / B2B",
+    "Food & Beverage",
+    "Fashion & Luxury",
+    "Altro (comunicazione aziendale e branding)"
+  ],
+  "portfolioLink": "https://www.swsd.it/portfolio.html",
+  "esempiLavori": [
+    {
+      "nomeProgetto": "Progetti vari per clienti locali",
+      "descrizioneBreveProgetto": "Realizzazione di siti web, grafica pubblicitaria, packaging, social media marketing e campagne SEO.",
+      "linkProgetto": "https://www.swsd.it/portfolio.html"
+    }
+  ],
+  "premiRiconoscimenti": [
+    "Non disponibile"
+  ],
+  "contatti": {
+    "telefono": "+39 0131 237574, +39 393 47605258",
+    "email": "info@swsd.it, info@sitiwebseodesign.com",
+    "formContattoLink": "https://www.swsd.it/#contatti"
+  },
+  "socialLinks": {
+    "linkedin": "https://www.linkedin.com/company/swsd-studio",
+    "facebook": "https://www.facebook.com/swsd.it",
+    "instagram": "Non disponibile",
+    "altro": {
+      "twitter": "https://www.twitter.com/swsdit",
+      "googlePlus": "https://www.google.com/search?q=swsd+studio",
+      "pinterest": "https://www.pinterest.com/swsdit/",
+      "vimeo": "https://vimeo.com/user41730672",
+      "youtube": "https://www.youtube.com/channel/UCY_io56lKmc3mv0qP5KezUQ"
+    }
+  },
+  "immagineLogoUrl": "https://www.swsd.it/img/swsd-studio-web-agency-alessandria-grafica-comunicazione-logo-a.png",
+  "immagineSecondariaUrl": "https://www.swsd.it/img/swsd-studio-grafica-comunicazione-alessandria-meeting-room-2.jpg",
+  "recensioniLink": {
+    "googleMaps": "https://www.google.com/maps/place/SWSD+Studio/@44.912123,8.610557,15z",
+    "trustpilot": "Non disponibile",
+    "altro": "Non disponibile"
+  },
+  "puntiDiForzaUnici": [
+    "Approccio attento alla qualità e trasparenza",
+    "Assistenza tecnica e servizio clienti 24/7",
+    "Team multidisciplinare con competenze in design, comunicazione e tecnologia",
+    "Forte focus sulla User Experience e immagine coordinata",
+    "Offerte personalizzate e consulenza editoriale SEO"
+  ],
+  "fonteDatiPrimaria": "https://www.swsd.it/"
+}

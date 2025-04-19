@@ -1,0 +1,32 @@
+{
+  "name": "Isobar Communications S.R.L.",
+  "website": "https://www.isobar.com",
+  "description": "Isobar Communications S.R.L. is part of the global Dentsu Creative network, offering integrated creative services including brand strategy, business transformation, digital experience, social media, performance creative, production, and public relations. The company is involved in research, design, development, and production of IT and telematics products, as well as training and conference organization.",
+  "services": [
+    "Brand",
+    "Strategy",
+    "Business Transformation",
+    "Experience",
+    "Social",
+    "Performance Creative",
+    "Production",
+    "Public Relations"
+  ],
+  "team": "A diverse team of creative and strategic experts dedicated to delivering transformative creativity and innovative solutions.",
+  "clients": "Various global and local clients across multiple industries.",
+  "location": {
+    "address": "Via Benigno Crespi, 23, 20159 Milano, Italy",
+    "city": "Milan",
+    "country": "Italy"
+  },
+  "contact": {
+    "email_general": "dentsu.creative.italia@dentsu.com",
+    "email_new_business": "dentsu.creative.nb.ita@dentsu.com"
+  },
+  "linkedin": "https://www.linkedin.com/company/isobar-communications-s.r.l/",
+  "notes": [
+    "Part of the Dentsu network.",
+    "Involved in IT, telematics, training, and conferences.",
+    "Located in the dentsu house in Milan, Italy."
+  ]
+}

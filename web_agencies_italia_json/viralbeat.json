@@ -1,0 +1,94 @@
+{
+  "nomeAgenzia": "Viralbeat Digital Agency",
+  "descrizioneBreve": "Digital Agency specializing in Digital PR, Performance Marketing, Development, and Social Media.",
+  "descrizioneCompleta": "Viralbeat is a digital agency offering consultancy, analysis, and strategic services to companies. Their approach is driven by passion for quality work and data-driven decision making. They specialize in Digital PR, Performance Marketing, Development, and Social Media, aiming to produce rapid and effective results. Viralbeat focuses on understanding data deeply to craft impactful marketing strategies and digital solutions.",
+  "sedePrincipale": {
+    "indirizzoCompleto": "Corso Magenta 46, 20123 Milano, MI",
+    "citta": "Milano",
+    "provincia": "MI",
+    "regione": "Lombardia"
+  },
+  "altreSedi": [
+    {
+      "indirizzoCompleto": "Via Irno 11, 84135 Salerno, SA",
+      "citta": "Salerno",
+      "provincia": "SA",
+      "regione": "Campania"
+    }
+  ],
+  "sitoWeb": "https://www.viralbeat.com/",
+  "annoFondazione": "Non disponibile",
+  "numeroDipendentiApprox": "Non disponibile",
+  "serviziOfferti": [
+    "Consulenza Digitale",
+    "Digital PR",
+    "Performance Marketing",
+    "Sviluppo Web",
+    "Social Media Marketing",
+    "Content Marketing",
+    "SEO",
+    "Altro (Analisi dati e strategie digitali)"
+  ],
+  "tecnologieUtilizzate": [
+    "WordPress",
+    "Google Analytics",
+    "Meta Business Partner tools",
+    "Google Partner tools",
+    "Altro (strumenti di analisi dati e marketing digitale)"
+  ],
+  "settoriSpecializzazione": [
+    "Turismo",
+    "Food & Beverage",
+    "Industria / B2B",
+    "Altro (Marketing digitale e comunicazione integrata)"
+  ],
+  "portfolioLink": "https://www.viralbeat.com/case-studies/",
+  "esempiLavori": [
+    {
+      "nomeProgetto": "Visit Monterosa",
+      "descrizioneBreveProgetto": "Strategia per aumentare la notorietà e attrarre turisti in target.",
+      "linkProgetto": "https://www.viralbeat.com/case-studies/visitmonterosa-digital-campaign/"
+    },
+    {
+      "nomeProgetto": "Supermercati Decò",
+      "descrizioneBreveProgetto": "Uso dei social per accrescere la community.",
+      "linkProgetto": "https://www.viralbeat.com/case-studies/supermercati-deco-digital-strategy/"
+    },
+    {
+      "nomeProgetto": "Mercato Centrale",
+      "descrizioneBreveProgetto": "Comunicazione di una nuova idea di food hall senza scadere nel food-porn.",
+      "linkProgetto": "https://www.viralbeat.com/case-studies/viralbeat-e-mercato-centrale-brand-awareness/"
+    }
+  ],
+  "premiRiconoscimenti": [
+    "Google Partner Premier",
+    "Meta Business Partner",
+    "ISO 9001:2015"
+  ],
+  "contatti": {
+    "telefono": "+39 089 214 8572",
+    "email": "info@viralbeat.com",
+    "formContattoLink": "https://www.viralbeat.com/contatti/"
+  },
+  "socialLinks": {
+    "linkedin": "https://it.linkedin.com/company/viralbeat",
+    "facebook": "https://www.facebook.com/viralbeat/",
+    "instagram": "https://www.instagram.com/viralbeat_italia/",
+    "altro": "https://twitter.com/Viralbeat"
+  },
+  "immagineLogoUrl": "https://www.viralbeat.com/wp-content/themes/ViralBeat/img/dark-logo.gif",
+  "immagineSecondariaUrl": "https://www.viralbeat.com/wp-content/uploads/2021/06/VB-case-study-img-cover-M.png",
+  "recensioniLink": {
+    "googleMaps": "https://www.google.com/maps/place/Viralbeat",
+    "trustpilot": "Non disponibile",
+    "altro": "Non disponibile"
+  },
+  "puntiDiForzaUnici": [
+    "Approccio data-driven.",
+    "Specializzazione verticale in turismo e food & beverage.",
+    "Team multidisciplinare interno.",
+    "Metodologia Agile.",
+    "Forte focus sulla User Experience."
+  ],
+  "fonteDatiPrimaria": "https://www.viralbeat.com/"
+}

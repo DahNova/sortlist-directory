@@ -1,0 +1,98 @@
+{
+  "nomeAgenzia": "Vanilla Marketing",
+  "descrizioneBreve": "Web agency professionale ad Ancona specializzata in strategie digitali creative e data-driven.",
+  "descrizioneCompleta": "Vanilla Marketing è un'agenzia digitale che crede nel valore del lavoro fatto con passione, umiltà e umanità. La loro missione è creare qualità che funziona, mettendo al centro le persone e le emozioni. Offrono servizi di sviluppo siti web, e-commerce, strategie social, campagne SEM e SEO, copywriting, branding e formazione. Il loro approccio si basa sull'Emotional Marketing e sul metodo Digital Creators®, un processo flessibile, orientato agli obiettivi, integrato nel marketing e focalizzato sulle emozioni, che garantisce risultati concreti e misurabili. Il team è composto da professionisti multidisciplinari che lavorano con passione, curiosità e consapevolezza per offrire soluzioni su misura e di valore.",
+  "sedePrincipale": {
+    "indirizzoCompleto": "Corso Garibaldi 91/b, 60121 Ancona, AN",
+    "citta": "Ancona",
+    "provincia": "AN",
+    "regione": "Marche"
+  },
+  "altreSedi": [],
+  "sitoWeb": "https://vanillamarketing.it/",
+  "annoFondazione": "Non disponibile",
+  "numeroDipendentiApprox": "10-50",
+  "serviziOfferti": [
+    "Emotional Marketing & Strategies",
+    "Content Production & Digital PR",
+    "SEO (Search Engine Optimization)",
+    "SEM / PPC (Google Ads, Meta Ads)",
+    "Social Media Marketing & Advertising",
+    "Branding / Corporate Identity",
+    "UI/UX Design",
+    "Web Design & Development",
+    "Consulenza Digitale",
+    "Formazione"
+  ],
+  "tecnologieUtilizzate": [
+    "WordPress",
+    "Google Analytics",
+    "SEO Tools",
+    "Social Media Platforms",
+    "Adobe Creative Suite",
+    "Figma",
+    "Altro (strumenti di digital marketing e sviluppo web)"
+  ],
+  "settoriSpecializzazione": [
+    "Turismo",
+    "Food & Beverage",
+    "Healthcare / Pharma",
+    "Industria / B2B",
+    "Tech / SaaS",
+    "No Profit",
+    "Pubblica Amministrazione"
+  ],
+  "portfolioLink": "https://vanillamarketing.it/progetti/",
+  "esempiLavori": [
+    {
+      "nomeProgetto": "Comune di Ancona",
+      "descrizioneBreveProgetto": "Branding e Graphic Design per enti pubblici.",
+      "linkProgetto": "https://vanillamarketing.it/comune-di-ancona/"
+    },
+    {
+      "nomeProgetto": "Perspirex",
+      "descrizioneBreveProgetto": "Content Production, Emotional Marketing e Social Media Advertising.",
+      "linkProgetto": "https://vanillamarketing.it/perspirex/"
+    },
+    {
+      "nomeProgetto": "Frolla Microbiscottificio",
+      "descrizioneBreveProgetto": "Branding, Social Media, Web Design e Development.",
+      "linkProgetto": "https://vanillamarketing.it/frolla-microbiscottificio/"
+    },
+    {
+      "nomeProgetto": "Giampaoli",
+      "descrizioneBreveProgetto": "Social Media Advertising.",
+      "linkProgetto": "https://vanillamarketing.it/giampaoli/"
+    }
+  ],
+  "premiRiconoscimenti": [],
+  "contatti": {
+    "telefono": "+39 071 204002",
+    "email": "info@vanillamarketing.it",
+    "formContattoLink": "https://vanillamarketing.it/contatti/"
+  },
+  "socialLinks": {
+    "linkedin": "https://www.linkedin.com/company/vanilla-marketing",
+    "facebook": "https://www.facebook.com/AgenziaVanillaMarketing",
+    "instagram": "https://www.instagram.com/vanilla.marketing/",
+    "altro": {
+      "tiktok": "https://www.tiktok.com/@vanillamarketing?lang=it-IT",
+      "spotify": "https://open.spotify.com/user/jq8rsmhffl01j9izazr9hx2yk?si=fJCM68DNRxuUxsYcWoay_g"
+    }
+  },
+  "immagineLogoUrl": "https://vanillamarketing.it/wp-content/uploads/2024/07/image-preview.png",
+  "immagineSecondariaUrl": "https://vanillamarketing.it/wp-content/uploads/2024/07/v2-copia.png",
+  "recensioniLink": {
+    "googleMaps": "",
+    "trustpilot": "",
+    "altro": ""
+  },
+  "puntiDiForzaUnici": [
+    "Approccio flessibile e orientato agli obiettivi.",
+    "Metodo Digital Creators® integrato con Emotional Marketing.",
+    "Team multidisciplinare con forte passione e consapevolezza.",
+    "Capacità di integrare dati analitici e soluzioni tecnologiche.",
+    "Forte focus sulla customer care e risultati misurabili."
+  ],
+  "fonteDatiPrimaria": "https://vanillamarketing.it/"
+}

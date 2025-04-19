@@ -1,0 +1,179 @@
+{
+  "name": "Intarget Group",
+  "website": "https://www.intarget.net/",
+  "description": "Intarget Group is a Benefit Corporation with over two decades of experience supporting companies in business and consumer markets. They focus on building effective, measurable brand strategies along the customer journey with a close-knit, diverse team of professionals.",
+  "services": [
+    {
+      "category": "Marketing Solutions",
+      "description": "Omnichannel strategies for business growth and brand strength, creating effective customer journeys to build communication between customers and brands.",
+      "link": "https://www.intarget.net/en/solutions/marketing-solutions-en/"
+    },
+    {
+      "category": "Data & Tech Solutions",
+      "description": "Tailored artificial intelligence solutions and technologically advanced platforms to optimize resources and results.",
+      "link": "https://www.intarget.net/en/solutions/data-tech-solutions-en/"
+    },
+    {
+      "category": "Creative Solutions",
+      "description": "Engaging content and intuitive interfaces to optimize conversions and search engine results.",
+      "link": "https://www.intarget.net/en/solutions/creative-solutions-en/"
+    }
+  ],
+  "locations": [
+    {
+      "city": "Pisa",
+      "address": "Via Giuntini, 25 Area 42, 56021 Navacchio (PI), Italy",
+      "phone": "+39 050 6200275",
+      "fax": "+39 050 6200279",
+      "map_link": "https://www.google.com/maps/dir/43.6830208,10.48576/intarget,+Via+Mario+Giuntini,+25+Polo+Tecnologico,+int.+42,+56021+Navacchio+PI/@43.6841366,10.4855116,18z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x12d58c2c83d3dda3:0x5f29e0f3e0d2fcc8!2m2!1d10.4880088!2d43.6853004"
+    },
+    {
+      "city": "Milan",
+      "address": "Via Adele Martignoni 25, 20124 Milan, Italy",
+      "phone": "+39 02 72095566",
+      "fax": "+39 02 72095294",
+      "map_link": "https://www.google.com/maps/dir/43.6830208,10.48576/Via+Adele+Martignoni,+20124+Milano+MI/@44.5729417,9.1452974,8z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x4786c6d4508c467d:0xfa6c55239228dd0!2m2!1d9.1967055!2d45.4932481"
+    },
+    {
+      "city": "Rome",
+      "address": "Via del Poggio Laurentino 118, 00144 Rome (RM), Italy",
+      "map_link": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x13258b0271a9bd3b:0xf3828fd6f17099f1?sa=X&ved=1t:8290&ictx=111"
+    },
+    {
+      "city": "Lugano",
+      "address": "Via Generale Guisan No. 6 – CP 735, 6902 Paradiso Lugano, Switzerland",
+      "map_link": "https://www.google.com/maps?hl=it&gl=it&um=1&ie=UTF-8&fb=1&sa=X&ftid=0x47842dbd90bcbdff:0x797862efa81f278f"
+    },
+    {
+      "city": "Shanghai",
+      "address": "1237 Fuxing Middle Road, 5F, Xuhui District, Shanghai, China",
+      "phone": "+86 (21) 54500132",
+      "map_link": "https://www.google.com/maps/dir/43.6830208,10.48576/Fuxing+Zhong+Lu+Cina,+Shanghai,+Xuhui+District,+Fuxing+Rd+(M),+1195%E5%8F%B7+%E9%82%AE%E6%94%BF%E7%BC%96%E7%A0%81:+200031/@31.6963749,29.4758685,3z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x35b27aa70f3a7f79:0x4d440080c5a8327f!2m2!1d121.4599425!2d31.2131774"
+    }
+  ],
+  "clients": [
+    {
+      "name": "Diesel",
+      "project": "Engaging the Online Community from the YouTube Runway",
+      "link": "https://www.intarget.net/en/works/diesel/"
+    },
+    {
+      "name": "Leica",
+      "project": "A 360-degree digital consultancy",
+      "link": "https://www.intarget.net/en/works/leica/"
+    },
+    {
+      "name": "BTicino",
+      "projects": [
+        {
+          "name": "Voice of Customer Gemini AI",
+          "link": "https://www.intarget.net/en/works/bticino-voc/"
+        },
+        {
+          "name": "Content strategy for new audience",
+          "link": "https://www.intarget.net/en/works/bticino/"
+        }
+      ]
+    },
+    {
+      "name": "Sammontana",
+      "project": "Go-to market strategy for China market",
+      "link": "https://www.intarget.net/en/works/sammontana/"
+    },
+    {
+      "name": "Mandarina Duck",
+      "project": "Influencer and Content Marketing to increase engagement",
+      "link": "https://www.intarget.net/en/works/mandarina-duck/"
+    },
+    {
+      "name": "Faema",
+      "project": "Content Marketing for Giro d'Italia Sponsorship",
+      "link": "https://www.intarget.net/en/works/faema/"
+    },
+    {
+      "name": "Benetton",
+      "project": "Digital transformation and Audience Strategy",
+      "link": "https://www.intarget.net/en/works/benetton/"
+    },
+    {
+      "name": "Corepla",
+      "project": "A Successful TikTok Campaign",
+      "link": "https://www.intarget.net/en/works/corepla/"
+    },
+    {
+      "name": "Autogrill",
+      "project": "New website, New Online presence",
+      "link": "https://www.intarget.net/en/works/autogrill/"
+    },
+    {
+      "name": "Lardini",
+      "project": "Content and social consultancy for a new positioning",
+      "link": "https://www.intarget.net/en/works/lardini/"
+    },
+    {
+      "name": "Santa Cristina",
+      "project": "Influencer Campaign in the Wine Industry",
+      "link": "https://www.intarget.net/en/works/santa-cristina/"
+    },
+    {
+      "name": "LaCimbali",
+      "project": "Content",
+      "link": "https://www.intarget.net/en/works/lacimbali/"
+    },
+    {
+      "name": "De'Longhi Group",
+      "project": "E-commerce Performance Dashboard",
+      "link": "https://www.intarget.net/en/works/delonghi-group/"
+    },
+    {
+      "name": "Casio",
+      "project": "Creating campaigns for G-Shock metal watches",
+      "link": "https://www.intarget.net/en/works/casio/"
+    },
+    {
+      "name": "Thun",
+      "project": "The digital potential to increase online sales",
+      "link": "https://www.intarget.net/en/works/thun/"
+    },
+    {
+      "name": "Fashion & Luxury",
+      "project": "Boost for Peak Season Performance",
+      "link": "https://www.intarget.net/en/works/fashion-luxury-house/"
+    },
+    {
+      "name": "Consumer Goods",
+      "project": "Advertising technology",
+      "link": "https://www.intarget.net/en/works/confectionery-brand/"
+    }
+  ],
+  "social_media": {
+    "facebook": "https://www.facebook.com/intargetnet/",
+    "instagram": "https://www.instagram.com/intargetnet/",
+    "youtube": "https://www.youtube.com/user/InTargetGroup",
+    "linkedin": "https://www.linkedin.com/company/624089/admin/",
+    "twitter": "https://twitter.com/intargetnet"
+  },
+  "certifications_and_partners": [
+    "Google Premier Partner",
+    "Meta Business Partner",
+    "TikTok Partner",
+    "Tag Commander",
+    "Commanders Act",
+    "Sprinklr",
+    "Accessiway",
+    "Tencent",
+    "Criteo",
+    "Salesforce"
+  ],
+  "legal_info": {
+    "company_name": "Intarget Group S.r.l. - Società Benefit",
+    "headquarters": "Via Giuntini, 25 zone 42 - 56021 Navacchio (PI) Italy",
+    "vat_number": "01225430451",
+    "cciaa": "Pisa - R.E.A. PI 168944",
+    "share_capital": "Euro 510.000",
+    "management": "Subject to the management and coordination of Neomedia S.r.l. based in Navacchio Via Giuntini 25",
+    "neomedia_vat_number": "01219830450",
+    "neomedia_share_capital": "€ 100.000,00",
+    "neomedia_cciaa": "Companies Register of Pisa n. 16829"
+  }
+}

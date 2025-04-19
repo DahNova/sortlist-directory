@@ -1,0 +1,120 @@
+{
+  "nomeAgenzia": "Obliquo Design - Agenzia di Comunicazione grafica e siti web a Padova",
+  "descrizioneBreve": "Agenzia di comunicazione, grafica e siti web, con sede a Padova.",
+  "descrizioneCompleta": "Obliquo Design è una agenzia di comunicazione, grafica e siti web con sede a Padova. Offre servizi di brand identity, creazione siti internet, fotografia, SEO, campagne di web marketing, sistemi di newsletter integrati con siti web e piattaforme CRM, creazione di loghi, brochure e soluzioni di hosting. L'agenzia si distingue per un approccio collaborativo con il cliente, un team multidisciplinare di creativi e una cura attenta ai dettagli estetici e funzionali in tutte le fasi del progetto, dalla analisi preliminare alla pubblicazione e assistenza post-pubblicazione.",
+  "sedePrincipale": {
+    "indirizzoCompleto": "Via Giovanni Savelli 1, 35129, Padova, Pd",
+    "citta": "Padova",
+    "provincia": "Pd",
+    "regione": "Veneto"
+  },
+  "altreSedi": [],
+  "sitoWeb": "https://www.obliquodesign.com/",
+  "annoFondazione": "Non disponibile",
+  "numeroDipendentiApprox": "Non disponibile",
+  "serviziOfferti": [
+    "Brand identity",
+    "Siti internet (siti vetrina, e-commerce, landing page)",
+    "SEO (posizionamento su Google)",
+    "Web marketing (campagne Google, Facebook)",
+    "Newsletter e integrazione CRM",
+    "Creazione logo e immagine coordinata",
+    "Brochure e materiali stampati",
+    "Hosting e assistenza WordPress",
+    "Social media marketing",
+    "Fotografia e video shooting",
+    "Rendering 3D",
+    "Copywriting",
+    "Altro (specificare)"
+  ],
+  "tecnologieUtilizzate": [
+    "WordPress",
+    "Open source technologies",
+    "SEO tools",
+    "Google Analytics",
+    "Adobe Creative Suite",
+    "Rendering 3D software",
+    "Photography and video equipment",
+    "Altro (specificare)"
+  ],
+  "settoriSpecializzazione": [
+    "Turismo",
+    "Food & Beverage",
+    "Fashion & Luxury",
+    "Industria / B2B",
+    "Healthcare / Pharma",
+    "Tech / SaaS",
+    "No Profit",
+    "Pubblica Amministrazione",
+    "Altro (specificare)"
+  ],
+  "portfolioLink": "https://www.obliquodesign.com/portfolio-lavori/",
+  "esempiLavori": [
+    {
+      "nomeProgetto": "Ridemovi by Mobike",
+      "descrizioneBreveProgetto": "Sito web per servizio di bike sharing",
+      "linkProgetto": "https://www.obliquodesign.com/portfolio-progetti/ridemovi-by-mobike-sito-web/"
+    },
+    {
+      "nomeProgetto": "Veneta Cucine",
+      "descrizioneBreveProgetto": "Servizio fotografico e postproduzione",
+      "linkProgetto": "https://www.obliquodesign.com/portfolio-progetti/servizio-fotografico-postproduzione-pavese-veneta-cucine/"
+    },
+    {
+      "nomeProgetto": "Enex S.p.A.",
+      "descrizioneBreveProgetto": "Sistemi frigoriferi per Treviso",
+      "linkProgetto": "https://www.obliquodesign.com/portfolio-progetti/enex-spa-sistemi-frigoriferi-treviso/"
+    },
+    {
+      "nomeProgetto": "Porta Portello",
+      "descrizioneBreveProgetto": "ADV servizio fotografico",
+      "linkProgetto": "https://www.obliquodesign.com/portfolio-progetti/porta-portello/"
+    },
+    {
+      "nomeProgetto": "Piero Massaro Occhiali",
+      "descrizioneBreveProgetto": "Identity, grafica e sito web",
+      "linkProgetto": "https://www.obliquodesign.com/portfolio-progetti/piero-massaro-sito-web-designer-occhiali-mirano-venezia/"
+    },
+    {
+      "nomeProgetto": "Gallo macellerie",
+      "descrizioneBreveProgetto": "Sito web per macelleria",
+      "linkProgetto": "https://www.obliquodesign.com/portfolio-progetti/gallo-macellerie/"
+    },
+    {
+      "nomeProgetto": "Ristorante Galleria24",
+      "descrizioneBreveProgetto": "Sito web per ristorante",
+      "linkProgetto": "https://www.obliquodesign.com/portfolio-progetti/sito-internet-ristorante-galleria24-dolo-venezia/"
+    },
+    {
+      "nomeProgetto": "Digital rockers",
+      "descrizioneBreveProgetto": "Software personalizzato",
+      "linkProgetto": "https://www.obliquodesign.com/portfolio-progetti/digital-rockers-software-personalizzato/"
+    }
+  ],
+  "premiRiconoscimenti": [],
+  "contatti": {
+    "telefono": "+39 049 4907655",
+    "email": "info@obliquodesign.com",
+    "formContattoLink": "https://www.obliquodesign.com/contatti/"
+  },
+  "socialLinks": {
+    "linkedin": "https://www.linkedin.com/company/obliquo-design",
+    "facebook": "https://www.facebook.com/Obliquodesign",
+    "instagram": "https://www.instagram.com/obliquodesign/",
+    "altro": "https://twitter.com/obliquodesign, https://www.pinterest.com/obliquodesign"
+  },
+  "immagineLogoUrl": "https://www.obliquodesign.com/wp-content/uploads/2014/08/obliquo-design-logo-nero.png",
+  "immagineSecondariaUrl": "https://www.obliquodesign.com/wp-content/uploads/2022/01/quadrato-porta-portello-01.jpg",
+  "recensioniLink": {
+    "googleMaps": "https://goo.gl/maps/rYE2h4v8zFo",
+    "trustpilot": "",
+    "altro": ""
+  },
+  "puntiDiForzaUnici": [
+    "Approccio collaborativo con il cliente",
+    "Team multidisciplinare di creativi",
+    "Attenzione ai dettagli estetici e funzionali",
+    "Servizio completo dalla analisi alla pubblicazione e assistenza post-pubblicazione"
+  ],
+  "fonteDatiPrimaria": "https://www.obliquodesign.com/"
+}

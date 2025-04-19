@@ -1,0 +1,42 @@
+{
+  "agencyName": "Cose Agency",
+  "websiteURL": "https://www.coseagency.com/",
+  "description": "Cose Agency is a digital marketing and communication agency based in Rome, Italy, offering integrated and customized services for companies, SMEs, entities, and organizations. They specialize in data-driven marketing strategies and provide a wide range of services to enhance brand visibility and business performance nationally and internationally.",
+  "services": [
+    "Branding",
+    "Communication",
+    "Events",
+    "Digital Marketing",
+    "SEO",
+    "SEM",
+    "Social Media",
+    "Video Production",
+    "Photo Shooting",
+    "Web Development",
+    "eCommerce",
+    "Graphic Design",
+    "Press Office & PR",
+    "Influencer Marketing",
+    "DOOH (Digital Out of Home)"
+  ],
+  "clientFocus": "Personalized, data-driven approach to communication and marketing, supporting clients step-by-step to achieve business goals with innovative and effective strategies.",
+  "customerService": "Offers tailored consultancy and ongoing support to ensure project feasibility, timely delivery, and achievement of objectives.",
+  "employeeSatisfaction": "Not publicly disclosed.",
+  "additionalInfo": {
+    "location": {
+      "operationalOffice": "Via Latina 174, Rome, Italy",
+      "legalOffice": "Via Francesco Carrara 24, Rome, Italy"
+    },
+    "contact": {
+      "email": "info@coseagency.com",
+      "phone": "+39 06 49778048"
+    },
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/coseagencymarketing",
+      "instagram": "https://www.instagram.com/coseagency/",
+      "linkedin": "https://www.linkedin.com/company/cose-creativengine/about/",
+      "youtube": "https://www.youtube.com/channel/UCCM6KaQzp63P2Y6vagTG3Mg?view_as=subscriber"
+    },
+    "companyProfilePDF": "https://www.coseagency.com/wp-content/uploads/2024/04/Cose-Agency-Company-Profile.pdf"
+  }
+}

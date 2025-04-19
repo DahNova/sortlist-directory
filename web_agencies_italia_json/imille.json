@@ -1,0 +1,94 @@
+{
+  "nomeAgenzia": "I MILLE",
+  "descrizioneBreve": "Global independent creative consultancy shaping meaningful brand trajectories.",
+  "descrizioneCompleta": "I MILLE is a global independent creative consultancy and a formally recognized benefit corporation embedding sustainability into its culture. They use the transformative power of creativity to shape meaningful brand trajectories and deliver business value. Their approach is centered on senseful value creation, challenging brands to define and communicate how they contribute to our lives and the world around us. They emphasize strategic foresight, design excellence, engineering innovation, and marketing & media expertise to grow businesses and create impactful experiences. Their culture is built on values such as no bullshit, no compromise, no hierarchy, and radical transparency.",
+  "sedePrincipale": {
+    "indirizzoCompleto": "Viale Francesco Restelli 1, 20124 Milano, MI",
+    "citta": "Milano",
+    "provincia": "MI",
+    "regione": "Lombardia"
+  },
+  "altreSedi": [
+    "Roma",
+    "Trento",
+    "Madrid",
+    "Santiago de Chile",
+    "São Paulo"
+  ],
+  "sitoWeb": "https://imille.co/",
+  "annoFondazione": 2004,
+  "numeroDipendentiApprox": "100-150",
+  "serviziOfferti": [
+    "Strategy (Strategic foresight, Brand positioning, Brand purpose, Employer branding, Innovation design)",
+    "Design (Naming and tagline, Verbal identity, Visual identity, Art direction, Experience design, Interface design, Motion design)",
+    "Engineering (User research, User testing, Prototyping, Design systems, Full stack programming, CRO)",
+    "Marketing & Media (Content strategy, Advertising, Performance marketing, Influencer marketing, Social media, SEO & analytics, Reporting & improvement)"
+  ],
+  "tecnologieUtilizzate": [
+    "Full stack programming (likely JavaScript frameworks, backend languages)",
+    "SEO & analytics tools",
+    "Design tools (Adobe Creative Suite, Figma likely)",
+    "Motion design tools"
+  ],
+  "settoriSpecializzazione": [
+    "Corporate",
+    "Consumer Goods",
+    "Technology",
+    "Travel & Leisure",
+    "Healthcare",
+    "Non Profit"
+  ],
+  "portfolioLink": "https://imille.co/work",
+  "esempiLavori": [
+    {
+      "nomeProgetto": "MSC Cruises",
+      "descrizioneBreveProgetto": "Creative consultancy and brand communication.",
+      "linkProgetto": "https://imille.co/work"
+    },
+    {
+      "nomeProgetto": "Cosmico",
+      "descrizioneBreveProgetto": "Branding and strategic design.",
+      "linkProgetto": "https://imille.co/work"
+    }
+  ],
+  "premiRiconoscimenti": [
+    "ADC x1",
+    "ADCI Awards x2",
+    "Communicator Awards x1",
+    "Davey Awards x10",
+    "IKA x21",
+    "Italia che comunica x4",
+    "LUUM x2",
+    "NC Digital x6",
+    "Touchpoint Awards x3",
+    "W3 x4",
+    "WINA x8"
+  ],
+  "contatti": {
+    "telefono": "Non disponibile",
+    "email": "hello@imille.co",
+    "formContattoLink": "https://imille.co/contact"
+  },
+  "socialLinks": {
+    "linkedin": "https://www.linkedin.com/company/imille-agency",
+    "facebook": "Non disponibile",
+    "instagram": "https://www.instagram.com/imille.cc/",
+    "altro": "Non disponibile"
+  },
+  "immagineLogoUrl": "https://imille.co/wp-content/uploads/2022/07/Logo-2.png",
+  "immagineSecondariaUrl": "https://imille.co/wp-content/uploads/2023/03/010_31A2763.jpg",
+  "recensioniLink": {
+    "googleMaps": "Non disponibile",
+    "trustpilot": "Non disponibile",
+    "altro": "Non disponibile"
+  },
+  "puntiDiForzaUnici": [
+    "Approccio data-driven.",
+    "Specializzazione verticale in brand strategy and creative consultancy.",
+    "Team multidisciplinare interno.",
+    "Metodologia Agile.",
+    "Forte focus sulla User Experience.",
+    "Sostenibilità integrata come Benefit Corporation."
+  ],
+  "fonteDatiPrimaria": "https://imille.co/about"
+}

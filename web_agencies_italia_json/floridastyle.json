@@ -1,0 +1,104 @@
+{
+  "nomeAgenzia": "Florida Style Agency",
+  "descrizioneBreve": "Agenzia creativa, marketing e siti web con oltre 20 anni di esperienza.",
+  "descrizioneCompleta": "Florida Style Agency è un'agenzia marketing e creativa del Nord Italia con oltre 20 anni di esperienza. Il team di esperti si dedica a sviluppare soluzioni digitali su misura per brand che vogliono distinguersi, con un'attenzione particolare ai dettagli e alla passione per l'innovazione. L'agenzia offre servizi di marketing, comunicazione, design e sviluppo siti web, aiutando imprese di Alessandria, Torino, Milano e tutto il Nord Italia a raggiungere il loro massimo potenziale online.",
+  "sedePrincipale": {
+    "indirizzoCompleto": "Via Dei Martiri 3, 15121 Alessandria, AL",
+    "citta": "Alessandria",
+    "provincia": "AL",
+    "regione": "Piemonte"
+  },
+  "altreSedi": [],
+  "sitoWeb": "https://www.floridastyle.it/",
+  "annoFondazione": "Non disponibile",
+  "numeroDipendentiApprox": "Non disponibile",
+  "serviziOfferti": [
+    "Sviluppo Web (Siti vetrina, gestionali)",
+    "E-commerce (Piattaforme come Shopify, Magento, custom)",
+    "SEO (Search Engine Optimization)",
+    "SEM / PPC (Google Ads, Meta Ads)",
+    "Social Media Marketing",
+    "Content Marketing / Blogging",
+    "Email Marketing",
+    "Branding / Corporate Identity",
+    "UI/UX Design",
+    "Consulenza Digitale",
+    "Foto & Video",
+    "Eventi"
+  ],
+  "tecnologieUtilizzate": [
+    "Shopify",
+    "Google Analytics",
+    "Adobe Creative Suite",
+    "Figma"
+  ],
+  "settoriSpecializzazione": [
+    "Turismo",
+    "Food & Beverage",
+    "Fashion & Luxury",
+    "Industria / B2B",
+    "Tech / SaaS",
+    "Altro (Marketing e Comunicazione)"
+  ],
+  "portfolioLink": "https://www.floridastyle.it/portfolio/",
+  "esempiLavori": [
+    {
+      "nomeProgetto": "D’Oriani Gioielli Milano",
+      "descrizioneBreveProgetto": "Progettazione e sviluppo sito web e-commerce per gioielleria.",
+      "linkProgetto": "https://www.floridastyle.it/progetto/doriani-gioielli-milano/"
+    },
+    {
+      "nomeProgetto": "Pasetti Gioielli",
+      "descrizioneBreveProgetto": "Realizzazione sito web e-commerce per gioielleria.",
+      "linkProgetto": "https://www.floridastyle.it/progetto/pasetti-gioielli/"
+    },
+    {
+      "nomeProgetto": "Agata Home Design",
+      "descrizioneBreveProgetto": "Sviluppo sito web per design d'interni.",
+      "linkProgetto": "https://www.floridastyle.it/progetto/agata-home-design/"
+    },
+    {
+      "nomeProgetto": "Motostore",
+      "descrizioneBreveProgetto": "Creazione sito e-commerce per negozio di moto.",
+      "linkProgetto": "https://www.floridastyle.it/progetto/motostore/"
+    },
+    {
+      "nomeProgetto": "Studio Acqua",
+      "descrizioneBreveProgetto": "Sito web per studio professionale.",
+      "linkProgetto": "https://www.floridastyle.it/progetto/studio-acqua/"
+    },
+    {
+      "nomeProgetto": "Ekom TuttoFresco",
+      "descrizioneBreveProgetto": "Sviluppo sito e-commerce per prodotti freschi.",
+      "linkProgetto": "https://www.floridastyle.it/progetto/ekom-tutto-fresco/"
+    }
+  ],
+  "premiRiconoscimenti": [
+    "Non disponibile"
+  ],
+  "contatti": {
+    "telefono": "0131 48 06 69",
+    "email": "info@floridastyle.it",
+    "formContattoLink": "https://www.floridastyle.it/contatti/"
+  },
+  "socialLinks": {
+    "linkedin": "https://www.linkedin.com/company/florida-style-agency/",
+    "facebook": "https://www.facebook.com/floridastyleagency/",
+    "instagram": "https://www.instagram.com/florida_style_agency/",
+    "altro": "https://api.whatsapp.com/send?phone=393335750026"
+  },
+  "immagineLogoUrl": "https://www.floridastyle.it/wp-content/uploads/2023/06/Florida-Logo-google.jpg",
+  "immagineSecondariaUrl": "https://www.floridastyle.it/wp-content/uploads/2023/05/foto-con-testo-a-scorrimento-MOD.webp",
+  "recensioniLink": {
+    "googleMaps": "https://www.google.it/maps/place/Florida+Style+Agency/@44.9137108,8.6125611,17z/data=!4m8!3m7!1s0x4787743eac76d95f:0x2f4b552eff27138e!8m2!3d44.913707!4d8.615136!9m1!1b1!16s%2Fg%2F1tr8kg0h?entry=ttu",
+    "trustpilot": "Non disponibile",
+    "altro": "Non disponibile"
+  },
+  "puntiDiForzaUnici": [
+    "Approccio data-driven.",
+    "Team multidisciplinare interno.",
+    "Forte focus sulla User Experience.",
+    "Passione per l'innovazione e attenzione ai dettagli."
+  ],
+  "fonteDatiPrimaria": "https://www.floridastyle.it/"
+}

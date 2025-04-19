@@ -1,0 +1,111 @@
+{
+  "nomeAgenzia": "Multimedia Web",
+  "descrizioneBreve": "Web Designer Ancona agenzia web realizzazione siti web agency",
+  "descrizioneCompleta": "Multimedia Web è una Web Agency con sede ad Ancona, Marche, Italia, attiva dal 1992. Si occupa di realizzazione di siti web professionali, e-commerce, promozione e ottimizzazione SEO, video con drone e video 360°, app personalizzate per iOS e Android, grafica e animazioni 2D e 3D, e molto altro. L'agenzia unisce competenze tecniche e business knowledge per offrire soluzioni personalizzate e innovative, con un forte focus su qualità, sostenibilità e intelligenza artificiale applicata.",
+  "sedePrincipale": {
+    "indirizzoCompleto": "Via Tiziano, 27, 60125, Ancona, AN",
+    "citta": "Ancona",
+    "provincia": "AN",
+    "regione": "Marche"
+  },
+  "altreSedi": [],
+  "sitoWeb": "https://www.multimediaweb.eu/",
+  "annoFondazione": 1992,
+  "numeroDipendentiApprox": "10-50",
+  "serviziOfferti": [
+    "Sviluppo Web (Siti vetrina, gestionali)",
+    "E-commerce (Piattaforme come Shopify, Magento, custom)",
+    "SEO (Search Engine Optimization)",
+    "SEM / PPC (Google Ads, Meta Ads)",
+    "Social Media Marketing",
+    "Content Marketing / Blogging",
+    "Email Marketing",
+    "Branding / Corporate Identity",
+    "UI/UX Design",
+    "Sviluppo App Mobile",
+    "Consulenza Digitale",
+    "Produzione Video (Drone, 360°)",
+    "Altro (Creazione logo, Animazioni 2D/3D, CD-ROM e DVD multimediali)"
+  ],
+  "tecnologieUtilizzate": [
+    "WordPress",
+    "HTML",
+    "PHP",
+    "CMS",
+    "Joomla",
+    "Intelligenza Artificiale",
+    "Google Analytics",
+    "Adobe Creative Suite",
+    "Figma",
+    "Altro (Video editing, Drone technology)"
+  ],
+  "settoriSpecializzazione": [
+    "Turismo",
+    "Food & Beverage",
+    "Fashion & Luxury",
+    "Industria / B2B",
+    "Healthcare / Pharma",
+    "Tech / SaaS",
+    "No Profit",
+    "Pubblica Amministrazione"
+  ],
+  "portfolioLink": "https://www.multimediaweb.eu/portfolio/",
+  "esempiLavori": [
+    {
+      "nomeProgetto": "Barbara Lombardo",
+      "descrizioneBreveProgetto": "Sito Web Design",
+      "linkProgetto": "https://www.multimediaweb.eu/portfolio/portfolio/nuova-psc-3/"
+    },
+    {
+      "nomeProgetto": "Nuova Psc",
+      "descrizioneBreveProgetto": "Sito Web Design",
+      "linkProgetto": "https://www.multimediaweb.eu/portfolio/portfolio/nuova-psc/"
+    },
+    {
+      "nomeProgetto": "Made Architecture & Interiors",
+      "descrizioneBreveProgetto": "Sito Web Design",
+      "linkProgetto": "https://www.multimediaweb.eu/portfolio/portfolio/made-architecture-interiors/"
+    },
+    {
+      "nomeProgetto": "Cessione di credito",
+      "descrizioneBreveProgetto": "Sito Web Design",
+      "linkProgetto": "https://www.multimediaweb.eu/portfolio/portfolio/cessione-di-credito/"
+    },
+    {
+      "nomeProgetto": "Gregory Clinic",
+      "descrizioneBreveProgetto": "Sito Web Design",
+      "linkProgetto": "https://www.multimediaweb.eu/portfolio/portfolio/gregory-clinic/"
+    }
+  ],
+  "premiRiconoscimenti": [
+    "Non disponibile"
+  ],
+  "contatti": {
+    "telefono": "+39 347 2625439",
+    "email": "info@multimediaweb.eu",
+    "formContattoLink": "https://www.multimediaweb.eu/richiesta-preventivo/"
+  },
+  "socialLinks": {
+    "linkedin": "https://www.linkedin.com/pub/savino-lattanzio/1a/717/411",
+    "facebook": "https://www.facebook.com/multimediawebstudio/",
+    "instagram": "https://www.instagram.com/multimediaweb/",
+    "altro": {
+      "youtube": "https://www.youtube.com/user/multimediawebstudio",
+      "twitter": "https://twitter.com/multimediaweb"
+    }
+  },
+  "immagineLogoUrl": "https://www.multimediaweb.eu/wp-content/uploads/2016/04/multimediaweb1.png",
+  "immagineSecondariaUrl": "https://www.multimediaweb.eu/wp-content/uploads/2015/04/azienda-web-design.jpg",
+  "recensioniLink": {
+    "googleMaps": "https://www.google.com/search?hl=it-AU&gl=au&q=Multimedia+Web,+Via+Tiziano,+27,+Ancona&ludocid=15918370892648332480#lrd=0x132d7f909d8127e3:0xdce969fcdb38bcc0,1,,,"
+  },
+  "puntiDiForzaUnici": [
+    "Approccio personalizzato e su misura per ogni cliente.",
+    "Oltre 1200 siti web realizzati con successo.",
+    "Integrazione di intelligenza artificiale per testi, immagini, video e loghi personalizzati.",
+    "Forte attenzione alla sostenibilità e innovazione tecnologica.",
+    "Team di professionisti e collaboratori multidisciplinari.",
+    "Assistenza H/24 e supporto continuo."
+  ],
+  "fonteDatiPrimaria": "https://www.multimediaweb.eu/"
+}

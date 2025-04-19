@@ -1,0 +1,69 @@
+{
+  "nomeAgenzia": "Greenbubble Agency",
+  "descrizioneBreve": "Digital Creative Agency",
+  "descrizioneCompleta": "Siamo un’agenzia digitale, uniamo creatività, tecnologia e marketing per creare esperienze uniche. Grazie ad un team di talenti dinamici e motivati, realizziamo progetti personalizzati offrendo soluzioni tecnologiche su misura dal design elegante e funzionale. Attenti alle tendenze, ai cambiamenti, alle nuove forme visive e tecnologiche di comunicazione, lasciamo più spazio possibile alla sperimentazione e alla ricerca per offrire i migliori servizi ai nostri Clienti.",
+  "sedePrincipale": {
+    "indirizzoCompleto": "Via della Stazione, 6, 60021 Camerano AN - Italia",
+    "citta": "Camerano",
+    "provincia": "AN",
+    "regione": "Marche"
+  },
+  "altreSedi": [],
+  "sitoWeb": "https://www.greenbubble.it/",
+  "annoFondazione": "Non disponibile",
+  "numeroDipendentiApprox": "Non disponibile",
+  "serviziOfferti": [
+    "websites",
+    "brand identity",
+    "app",
+    "visual design",
+    "cms",
+    "print design",
+    "software",
+    "interactive book",
+    "social media",
+    "e-books",
+    "e-commerce",
+    "seo",
+    "b2b",
+    "photo/video",
+    "games",
+    "consultancy",
+    "website accessibility",
+    "problem solving",
+    "augmented reality",
+    "microcontrollers",
+    "artificial intelligence"
+  ],
+  "tecnologieUtilizzate": "Non disponibile",
+  "settoriSpecializzazione": "Non disponibile",
+  "portfolioLink": "Non disponibile",
+  "esempiLavori": [],
+  "premiRiconoscimenti": [],
+  "contatti": {
+    "telefono": "+39 071 744970",
+    "email": "agency@greenbubble.it",
+    "formContattoLink": "https://www.greenbubble.it/#contatti"
+  },
+  "socialLinks": {
+    "linkedin": "https://www.linkedin.com/company/359414/",
+    "facebook": "https://www.facebook.com/Greenbubble.it/",
+    "instagram": "https://www.instagram.com/greenbubble.agency/",
+    "altro": ""
+  },
+  "immagineLogoUrl": "https://www.greenbubble.it/gb/img/logo.png",
+  "immagineSecondariaUrl": "https://www.greenbubble.it/gb/img/_default/trollolo.gif",
+  "recensioniLink": {
+    "googleMaps": "https://goo.gl/maps/8xGM2Nq4bn92",
+    "trustpilot": "",
+    "altro": ""
+  },
+  "puntiDiForzaUnici": [
+    "Approccio data-driven.",
+    "Team multidisciplinare interno.",
+    "Forte focus sulla User Experience.",
+    "Metodologia Agile.",
+    "Altro: Attenzione alla sperimentazione e ricerca."
+  ],
+  "fonteDatiPrimaria": "https://www.greenbubble.it/"
+}

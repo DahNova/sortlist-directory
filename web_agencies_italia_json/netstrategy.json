@@ -1,0 +1,185 @@
+{
+  "name": "NetStrategy",
+  "description": "NetStrategy is a web marketing agency with over 10 years of experience, based in Verona and Milan, Italy. They have a team of more than 30 professionals specializing in data-driven and AI-integrated strategies to support companies in online growth and maximizing ROI.",
+  "website": "https://www.netstrategy.it/",
+  "services": [
+    {
+      "category": "SEO",
+      "details": [
+        "Search Engine Optimization",
+        "Advanced SEO Audits",
+        "Organic Traffic Growth",
+        "SEO Consulting"
+      ]
+    },
+    {
+      "category": "Ecommerce",
+      "details": [
+        "Ecommerce Strategy",
+        "Sales Increase",
+        "Paid Advertising for Ecommerce"
+      ]
+    },
+    {
+      "category": "Social Media",
+      "details": [
+        "Social Media Marketing",
+        "Community Engagement",
+        "Lead Generation via Social Channels"
+      ]
+    },
+    {
+      "category": "Website",
+      "details": [
+        "Website Design",
+        "Branding",
+        "User Experience Optimization"
+      ]
+    },
+    {
+      "category": "CRM",
+      "details": [
+        "CRM Implementation",
+        "Sales Network Efficiency",
+        "Lead and Customer Management"
+      ]
+    },
+    {
+      "category": "Communication",
+      "details": [
+        "Brand Identity",
+        "Corporate Communication",
+        "Multichannel Communication"
+      ]
+    },
+    {
+      "category": "Inbound Marketing",
+      "details": [
+        "Lead Generation",
+        "Content Marketing",
+        "Customer Acquisition"
+      ]
+    },
+    {
+      "category": "Web Marketing",
+      "details": [
+        "Digital Advertising",
+        "ROI Maximization",
+        "Data-Driven Marketing Strategies"
+      ]
+    },
+    {
+      "category": "SEM & ADV",
+      "details": [
+        "Search Engine Marketing",
+        "Paid Advertising Campaigns",
+        "Performance Marketing"
+      ]
+    },
+    {
+      "category": "Artificial Intelligence",
+      "details": [
+        "AI-Integrated Marketing Strategies",
+        "Automation",
+        "Advanced Data Analysis"
+      ]
+    }
+  ],
+  "methodology": [
+    "Focus on measurable results and clear indicators.",
+    "Maximize ROI by valuing every click.",
+    "Data-driven strategies tailored to client goals.",
+    "Continuous collaboration and transparency.",
+    "Leveraging AI and advanced technologies."
+  ],
+  "location": {
+    "addresses": [
+      {
+        "address": "Via Carlo Cipolla snc, 37045, Legnago (VR), Italy",
+        "phone": "+39 0442 321 391"
+      },
+      {
+        "address": "Via San Raffaele 1, 20121, Milano (MI), Italy",
+        "phone": "+39 02 800 12162"
+      }
+    ]
+  },
+  "contact": {
+    "phone_1": "+39 0442 321 391",
+    "phone_2": "+39 02 800 12162",
+    "whatsapp": "+39 328 256 2016",
+    "email": "info@netstrategy.it",
+    "contact_page": "https://www.netstrategy.it/contatti",
+    "social": {
+      "linkedin": "https://www.linkedin.com/company/netstrategy",
+      "facebook": "https://it-it.facebook.com/NetStrategy.it/",
+      "instagram": "https://www.instagram.com/netstrategy.agency/",
+      "youtube": "https://www.youtube.com/@NetstrategyIt"
+    }
+  },
+  "team": [
+    {
+      "name": "Stefano Robbi",
+      "role": "Chief Executive Officer",
+      "description": "Passionate about digital marketing with a strong quantitative data analysis approach. Founder of NetStrategy in 2009. Holds an M.Sc. in Marketing Management from Bocconi University and previous experience at Microsoft Italy.",
+      "email": "robbi@netstrategy.it",
+      "linkedin": "https://www.linkedin.com/in/stefanorobbi/"
+    }
+  ],
+  "success_stories": [
+    {
+      "name": "Cicalia",
+      "category": "Ecommerce",
+      "result": "+615% revenue increase in 12 months",
+      "url": "https://www.netstrategy.it/successi/cicalia-come-abbiamo-portato-al-successo-il-primo-supermercato-online"
+    },
+    {
+      "name": "L’Arena",
+      "category": "SEO",
+      "result": "+267% organic visits after advanced SEO audit",
+      "url": "https://www.netstrategy.it/successi/larena-in-prima-posizione-su-google-grazie-a-netstrategy"
+    },
+    {
+      "name": "Pulimav",
+      "category": "Branding & Website",
+      "result": "New communication for 20 years of activity",
+      "url": "https://www.netstrategy.it/successi/celebriamo-il-successo-e-la-semplicita-una-nuova-comunicazione-per-pulimav-in-occasione-dei-ventanni-di-attivita"
+    },
+    {
+      "name": "Anteo Spazio Cinema",
+      "category": "ADV & SEM",
+      "result": "+50% ticket sales in one year",
+      "url": "https://www.netstrategy.it/successi/anteo-aumenta-del-50-per-cento-le-vendite-dei-biglietti-in-un-anno-di-strategia"
+    },
+    {
+      "name": "Cugola Green Center",
+      "category": "Ecommerce",
+      "result": "+840% transactions in one year of Paid Adv strategy",
+      "url": "https://www.netstrategy.it/successi/cugola-aumenta-gli-acquisti-in-un-solo-anno-di-strategia-marketing-ecommerce"
+    },
+    {
+      "name": "MEC",
+      "category": "SEO",
+      "result": "+207% qualified contacts thanks to SEO",
+      "url": "https://www.netstrategy.it/successi/mec-ecco-i-risultati-raggiunti-dal-team-di-seo-specialist-di-netstrategy"
+    },
+    {
+      "name": "Juice",
+      "category": "Branding & Website",
+      "result": "New way to communicate brand to clients and collaborators",
+      "url": "https://www.netstrategy.it/successi/juice-apple-premium-reseller-un-nuovo-modo-di-comunicare-il-brand"
+    },
+    {
+      "name": "Pronto Diploma",
+      "category": "ADV & SEM",
+      "result": "Over 2,900 conversions on the online school portal",
+      "url": "https://www.netstrategy.it/successi/prontodiploma-oltre-2900-conversioni-sul-portale-grazie-a-netstrategy"
+    }
+  ],
+  "certifications": [
+    "Google Analytics Certified",
+    "Hubspot Partner",
+    "TUV Certified",
+    "Sky Partner"
+  ]
+}

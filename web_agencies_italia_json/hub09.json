@@ -1,0 +1,32 @@
+{
+  "nomeAgenzia": "HUB09 S.r.l.",
+  "descrizioneBreve": "Creative communication, branding, and digital agency known as \"Brand People.\"",
+  "descrizioneCompleta": "Creative communication, branding, and digital agency known as \"Brand People.\"",
+  "sedePrincipale": {
+    "indirizzoCompleto": "Corso Casale 295, Torino, Italy",
+    "citta": "Torino",
+    "provincia": "TO",
+    "regione": "Piemonte"
+  },
+  "altreSedi": [],
+  "sitoWeb": "https://hub09.it/",
+  "annoFondazione": "Non disponibile",
+  "numeroDipendentiApprox": "Non disponibile",
+  "serviziOfferti": [
+    "Consultancy services in advertising campaign creation"
+  ],
+  "tecnologieUtilizzate": "Non disponibile",
+  "settoriSpecializzazione": "Non disponibile",
+  "portfolioLink": "Non disponibile",
+  "contatti": {
+    "telefono": "0118994766",
+    "email": "info@hub09.it",
+    "pec": "hub09@pec.it"
+  },
+  "personeChiave": [
+    {
+      "nome": "Sergio Cristiglio",
+      "ruolo": "Digital Media Specialist"
+    }
+  ]
+}

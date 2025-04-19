@@ -1,0 +1,29 @@
+{
+  "agencyName": "Awd Agency",
+  "websiteURL": "https://www.awdagency.com/en/",
+  "description": "AWD is an award-winning Italian communication agency specialized in digital creative experiences, combining creativity, strategy, and technology to deliver cutting-edge projects.",
+  "location": "Italy",
+  "services": [
+    "Digital Projects",
+    "Branding",
+    "Strategy",
+    "Art Direction",
+    "Web & Digital Design",
+    "Shooting",
+    "Video Production",
+    "Advertising Campaigns",
+    "Ecommerce Websites",
+    "Corporate Websites",
+    "Personal Websites",
+    "Fashion Film",
+    "Creative Content",
+    "Social Media Marketing & Strategy"
+  ],
+  "socialMedia": {
+    "Facebook": "https://www.facebook.com/awdagency",
+    "Instagram": "https://www.instagram.com/awdagency/",
+    "LinkedIn": "https://it.linkedin.com/company/awdagency"
+  },
+  "contactEmail": "hello@awdagency.com",
+  "notes": "AWD Agency has 22 years of experience, has won 176 awards, and has a team of 18 people focused on creativity and innovation."
+}

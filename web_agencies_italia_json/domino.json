@@ -1,0 +1,74 @@
+{
+  "name": "Domino",
+  "website": "https://www.domino.it/en/",
+  "description": "Domino Proudly Interactive is an agency specializing in Customer Experience and Inbound Marketing, based in Turin and Venice. They focus on simplifying complexity and unlocking potential through innovative digital business solutions.",
+  "italian_studios": [
+    {
+      "city": "Turin",
+      "address": "Via Agostino da Montefeltro, 2, 10134 Turin, Italy",
+      "phone": "+39 011 544770",
+      "managing_director": "Andrea Bosso",
+      "location_description": "Located in Turin, Domino unifies the north of Italy from Torino to Venice and gladly travels to the south.",
+      "services": "Service Design, Digital Marketing and Customer Experience, Digital Products, Information Technology.",
+      "careers_url": "https://www.domino.it/en/work-with-us",
+      "employee_benefits_url": ""
+    },
+    {
+      "city": "Venice",
+      "address": "Sestiere Santa Croce, 466/G, 30135 Venice, Italy",
+      "phone": "+39 041 0991410",
+      "managing_director": "Emiliano Cianci",
+      "location_description": "Venice office complements the Turin location, focusing on delivering customer-centered digital solutions.",
+      "services": "Service Design, Digital Marketing and Customer Experience, Digital Products, Information Technology.",
+      "careers_url": "https://www.domino.it/en/work-with-us",
+      "employee_benefits_url": ""
+    }
+  ],
+  "key_people": [
+    {
+      "name": "Andrea Bosso",
+      "role": "Strategy and consulting director",
+      "email": "ab@domino.it",
+      "linkedin": "https://www.linkedin.com/in/andreabosso/it"
+    },
+    {
+      "name": "Emiliano Cianci",
+      "role": "Product Director",
+      "email": "emiliano@domino.it",
+      "linkedin": "https://www.linkedin.com/in/emiliano/it"
+    },
+    {
+      "name": "Giovanni Borgna",
+      "role": "Administration and Finance director",
+      "email": "gianni.borgna@domino.it",
+      "linkedin": "https://www.linkedin.com/in/giovanni-borgna-b1210a2/it"
+    }
+  ],
+  "services": [
+    "Service Design: Digital Transformation, new services, Design Sprint, Personas Design, User Experience.",
+    "Marketing and Customer Experience: Campaigns, lead generation, marketing automation, analytics, omnichannel sales paths, inbound marketing, data science, storytelling.",
+    "Digital Products: Website, intranet, mobile app, reserved areas, social network.",
+    "Information Technology: CMS, CRM, ad-hoc integrations, platform management, hosting, cloud migration, security, development."
+  ],
+  "notable_clients": [
+    "Fiat Emea",
+    "IPI Agency",
+    "Iveco",
+    "Costa Crociere",
+    "Stellantis",
+    "Juventus",
+    "Comau",
+    "Fondazione Torino Musei",
+    "Veritas Scoasse",
+    "Lierac",
+    "Phyto",
+    "Askoll",
+    "Contship Italia Group",
+    "Ales Group"
+  ],
+  "social_media": {
+    "linkedin": "https://www.linkedin.com/company/domino",
+    "facebook": "https://www.facebook.com/domino.proudly.interactive",
+    "instagram": "https://www.instagram.com/domino_proudly_interactive"
+  }
+}

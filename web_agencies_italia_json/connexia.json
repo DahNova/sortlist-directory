@@ -1,0 +1,88 @@
+{
+  "name": "Connexia",
+  "website": "https://www.connexia.com/",
+  "description": "Connexia is an Italian data-driven creativity agency blending data, creativity, and technology. Part of the Doxa Group, they offer services including content production, data analysis, search marketing, paid media management, and corporate communication.",
+  "services": {
+    "Strategy": [
+      "Industry benchmark",
+      "Online conversation monitoring",
+      "Consumer Insight",
+      "Sentiment analysis",
+      "Communication strategy",
+      "Digital strategy",
+      "Social media strategy",
+      "Brand positioning"
+    ],
+    "Creativity": [
+      "ADV creativity",
+      "Campaign",
+      "Social media marketing campaigns",
+      "Web & UX design",
+      "Content production",
+      "Storytelling",
+      "Branding"
+    ],
+    "Technology & Innovation": [
+      "Innovation consultancy",
+      "Data strategy",
+      "Mobile development",
+      "Web development",
+      "CRM consultancy",
+      "Open innovation",
+      "Collaboration with Microsoft 365, Google Workspace, Cisco Webex, Zoom"
+    ],
+    "Media Relations, Influencer & Events": [
+      "Influencer marketing",
+      "Media Relations",
+      "PR",
+      "Corporate communication",
+      "Personal branding",
+      "Crisis management",
+      "Events & Experiences management",
+      "Content production via Connexia Media House"
+    ],
+    "Media, Measurement & Optimization": [
+      "Search marketing",
+      "Media buying & planning",
+      "Digital advertising",
+      "Conversion marketing",
+      "Performance analysis",
+      "Data governance",
+      "Data analytics",
+      "Data Solution"
+    ]
+  },
+  "team": {
+    "size": 140,
+    "description": "A multicultural and multidisciplinary team passionate about creativity, data-driven thinking, media management, and technological innovation. They emphasize co-creative processes and measurable campaign effectiveness."
+  },
+  "values": {
+    "Benefit Corporation": "Balances economic, social, and environmental impact equally.",
+    "Inclusive agency model": "Focuses on talent, collaboration, and creating an ideal work ecosystem."
+  },
+  "locations": {
+    "Legal headquarters": "Via Gaetano de Castillia 23 - 20124 Milan (MI), Italy",
+    "Operating headquarters": "Via Monte Rosa 91 – 20149 Milan (MI), Italy",
+    "Additional office": "Largo di Torre Argentina, 11 – 00186 Rome"
+  },
+  "contact": {
+    "phone": "+39 02 8135541",
+    "email": "info@connexia.retex.com"
+  },
+  "notable_clients": [
+    "Barilla",
+    "Togo",
+    "Rovagnati",
+    "Gemmo",
+    "Buondì",
+    "Biorepack"
+  ],
+  "social_media": {
+    "facebook": "https://www.facebook.com/Connexia/",
+    "instagram": "https://www.instagram.com/connexia/",
+    "linkedin": "https://www.linkedin.com/company/connexia/",
+    "tiktok": "https://www.tiktok.com/@connexia",
+    "twitter": "https://twitter.com/connexia",
+    "youtube": "https://www.youtube.com/user/ConnexiaAgenzia"
+  }
+}

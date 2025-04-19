@@ -1,0 +1,55 @@
+{
+  "name": "Bliss Agency",
+  "website": "https://blissagency.it/",
+  "description": "Bliss Agency is a Marketing and Communication agency operating in Italy with both national and international clients. They offer tailored marketing and communication solutions to drive digital transformation, focusing on a 360-degree digital management approach that ensures better and more stable results, fostering innovation and continuous growth.",
+  "services": [
+    "Marketing Consulting",
+    "Photography & Videomaking",
+    "ADS & SEO",
+    "Graphic Design",
+    "Web Design & Development",
+    "Social Media Management",
+    "App Development",
+    "VFX",
+    "Events Planning",
+    "Team Building"
+  ],
+  "locations": [
+    {
+      "city": "Rome",
+      "address": "Via del Mandrione, 63, 00181 RM"
+    },
+    {
+      "city": "Milan",
+      "address": "Via Brembo 5, 20139 MI"
+    }
+  ],
+  "contact": {
+    "phone": "06 8635 7195",
+    "email": "contatti@blissagency.it",
+    "careers_email": "candidature@blissagency.it",
+    "whatsapp": "+39 3772117290"
+  },
+  "social_media": {
+    "facebook": "https://www.facebook.com/blissagency.roma/",
+    "youtube": "https://www.youtube.com/@bliss.agency",
+    "instagram": "https://www.instagram.com/blissagency_clienti/",
+    "tiktok": "https://www.tiktok.com/@blissagency",
+    "linkedin": "https://www.linkedin.com/company/blissus/"
+  },
+  "certifications": [
+    "Google Partner",
+    "Meta Partner",
+    "Instagram Partner",
+    "TikTok Partner"
+  ],
+  "client_logos": [
+    "Pandora",
+    "IIT Restaurant",
+    "Yamamoto",
+    "Doreca",
+    "Wanted Watch",
+    "CPM"
+  ],
+  "reviews_summary": "Bliss Agency has over 180 reviews with a 5-star rating. Clients praise their professionalism, expertise, creativity, and dedication. They are recognized as a young, dynamic, and passionate team that delivers tailored marketing solutions and exceptional results."
+}

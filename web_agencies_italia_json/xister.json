@@ -1,0 +1,114 @@
+{
+  "nomeAgenzia": "Xister - ideas and inventions. Made in Italy.",
+  "descrizioneBreve": "We co-design persuasive, disruptive customer experiences with innovative thinking and Italian style.",
+  "descrizioneCompleta": "Xister is a digital creative agency founded in 2003 with 80 people and three offices in Rome, Milan, and Turin. Part of the Reply Digital Experience Network, Xister provides capabilities and custom tools to marketers to capitalize on new opportunities and create consistent brand experiences aligned with the brand’s DNA and effective from a sales perspective. They combine updated marketing technologies with smart data to craft end-to-end customer journeys that attract new prospects and convert them into real customers.",
+  "sedePrincipale": {
+    "indirizzoCompleto": "Via Giovanni da Castel Bolognese, 81, 00153 Roma, Italia",
+    "citta": "Roma",
+    "provincia": "RM",
+    "regione": "Lazio"
+  },
+  "altreSedi": [
+    {
+      "indirizzoCompleto": "Non disponibile",
+      "citta": "Milano",
+      "provincia": "MI",
+      "regione": "Lombardia"
+    },
+    {
+      "indirizzoCompleto": "Non disponibile",
+      "citta": "Torino",
+      "provincia": "TO",
+      "regione": "Piemonte"
+    }
+  ],
+  "sitoWeb": "https://www.xister.com/en",
+  "annoFondazione": 2003,
+  "numeroDipendentiApprox": "80",
+  "serviziOfferti": [
+    "Strategy",
+    "Social & Content Strategy",
+    "Social Innovation",
+    "Integrated campaigns",
+    "UX/UI Research & Design",
+    "Mobile & App",
+    "Frontend & Backend Development",
+    "Branded Content",
+    "Digital Campaigns",
+    "Digital Advertising",
+    "Brand Activations",
+    "Illustration",
+    "Photography & Video",
+    "3D & Virtual production",
+    "SEO, CRO & Analytics",
+    "Fortnite custom islands & Unreal Engine 5"
+  ],
+  "tecnologieUtilizzate": [
+    "React",
+    "Angular",
+    "Vue.js",
+    "Node.js",
+    "PHP",
+    "SEO tools",
+    "Google Analytics",
+    "Adobe Creative Suite",
+    "Figma",
+    "Unreal Engine 5",
+    "3D production tools"
+  ],
+  "settoriSpecializzazione": [
+    "Fashion & Luxury",
+    "Tech / SaaS",
+    "Food & Beverage",
+    "Entertainment",
+    "Advertising & Marketing"
+  ],
+  "portfolioLink": "https://www.xister.com/en/works/",
+  "esempiLavori": [
+    {
+      "nomeProgetto": "Pringles Pop To The Top",
+      "descrizioneBreveProgetto": "Digital campaign and content creation for Kellogg's Pringles.",
+      "linkProgetto": "https://www.xister.com/en/works/Pringles-PopToTheTop"
+    },
+    {
+      "nomeProgetto": "PPG",
+      "descrizioneBreveProgetto": "Creative digital solutions for Sigma Coatings.",
+      "linkProgetto": "https://www.xister.com/en/works/PPG-Metahuman"
+    },
+    {
+      "nomeProgetto": "Mac Locked Kiss Ink",
+      "descrizioneBreveProgetto": "Brand activation and digital content for Mac.",
+      "linkProgetto": "https://www.xister.com/en/works/Mac-LockedKissInk"
+    }
+  ],
+  "premiRiconoscimenti": [
+    "Non disponibile"
+  ],
+  "contatti": {
+    "telefono": "+39 06 58 33 59 26",
+    "email": "inquiry@xister.com",
+    "formContattoLink": "https://www.xister.com/en/contact/"
+  },
+  "socialLinks": {
+    "linkedin": "https://it.linkedin.com/company/xister",
+    "facebook": "https://www.facebook.com/xisterreply/",
+    "instagram": "Non disponibile",
+    "altro": "Non disponibile"
+  },
+  "immagineLogoUrl": "https://www.xister.com/assets/dist/img/favicon.png",
+  "immagineSecondariaUrl": "https://www.xister.com/assets/dist/img/reply_xister.svg",
+  "recensioniLink": {
+    "googleMaps": "Non disponibile",
+    "trustpilot": "Non disponibile",
+    "altro": "Non disponibile"
+  },
+  "puntiDiForzaUnici": [
+    "Approccio data-driven.",
+    "Parte della Digital Experience Network di Reply.",
+    "Team multidisciplinare interno.",
+    "Metodologia Agile.",
+    "Forte focus sulla User Experience.",
+    "Innovazione con tecnologie avanzate come Unreal Engine 5."
+  ],
+  "fonteDatiPrimaria": "https://www.xister.com/en"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Figment immagina, progetta, crea",
+  "website_url": "https://figment.it/",
+  "description": "Figment offers consulting and design services across various creative fields including Web, Product, Architecture/Design, and Social Marketing. They combine expertise in graphic design, product design, web design, branding, prototyping, and architectural rendering to deliver tailored solutions.",
+  "locations": [
+    {
+      "address": "Palermo, Italy",
+      "phone": "",
+      "email": "informazioni@figment.it"
+    }
+  ],
+  "vat_number": "",
+  "group_affiliation": "",
+  "technologies": [],
+  "services": [
+    "Graphic Design",
+    "Product Design",
+    "Web Design",
+    "Branding / Corporate Identity",
+    "Prototype",
+    "Architecture / Rendering"
+  ],
+  "notable_clients_partners": [],
+  "values": []
+}

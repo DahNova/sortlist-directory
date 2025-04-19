@@ -1,0 +1,44 @@
+{
+  "name": "Inrete Digital",
+  "description": "Digital agency performance driven specializzata in comunicazione online e digital marketing in ambito corporate e istituzionale.",
+  "services": [
+    "Digital corporate communication",
+    "Digital listening",
+    "Web & social advocacy",
+    "CEO Branding",
+    "Social Media",
+    "Web Design & Development",
+    "SEO",
+    "SEM & Google Ads",
+    "Content Creation"
+  ],
+  "locations": [
+    {
+      "name": "Milano Bicocca",
+      "address": "Viale Sarca, 336/f, 20126 Milano MI"
+    },
+    {
+      "name": "Milano Centrale",
+      "address": "Via G. Fara, 35, 20124 Milano MI"
+    },
+    {
+      "name": "Monza",
+      "address": "Via Bruno Buozzi 2/b, 20851 Lissone MB"
+    },
+    {
+      "name": "Roma",
+      "address": "Piazza di Pietra, 31, 00186 Roma RM"
+    }
+  ],
+  "contact": {
+    "phone": "+39 02 52513251",
+    "email": "info@inretedigital.it"
+  },
+  "social_media": {
+    "facebook": "https://www.facebook.com/inretedigital/",
+    "instagram": "https://www.instagram.com/inretedigital/",
+    "linkedin": "https://www.linkedin.com/company/inrete-digital/"
+  },
+  "website": "https://www.inretedigital.it/",
+  "logo": "https://www.inretedigital.it/wp-content/uploads/2020/05/firma-logo-inrete-digital_blu.png"
+}

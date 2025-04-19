@@ -1,0 +1,60 @@
+{
+  "name": "ALKIMEDIA",
+  "website_url": "https://www.inputcomm.it/web-agency-milano/",
+  "description": "ALKIMEDIA is a web agency operating in Milan, specializing in professional and quality website design, SEO, and web marketing. They help clients with new website projects and improving online presence.",
+  "services": [
+    "Website design and development",
+    "Professional and quality website creation",
+    "SEO (Search Engine Optimization)",
+    "Web marketing",
+    "Website maintenance and assistance",
+    "Content creation including video production",
+    "Hosting and domain registration",
+    "Social media integration",
+    "Consulting and training for website management"
+  ],
+  "location": {
+    "city": "Milan",
+    "region": "Lombardy",
+    "country": "Italy",
+    "service_areas": [
+      "Lecco",
+      "Como",
+      "Monza",
+      "Bergamo",
+      "Sondrio",
+      "Valtellina",
+      "Milan"
+    ]
+  },
+  "client_statistics": {
+    "active_clients": 500,
+    "websites_created_since_2007": 600,
+    "monthly_new_visits_on_client_sites": "2 million"
+  },
+  "social_media": {
+    "facebook": "https://www.facebook.com/alkimediasitiweb/",
+    "linkedin": "https://www.linkedin.com/company/27184726",
+    "instagram": "https://www.instagram.com/alkimedia/",
+    "youtube": "https://www.youtube.com/channel/UCl49_jdGH60DfKp5EcNubWA"
+  },
+  "contact": {
+    "phone": "+39 031 866886",
+    "address": "Near Lecco, serving Milan and all Lombardy",
+    "email": null
+  },
+  "unique_selling_points": [
+    "Focus on natural SEO positioning from the start of the project",
+    "Personalized face-to-face consultancy and support",
+    "High-quality work at a fair price",
+    "Training clients to manage and update their websites",
+    "Specialized in WordPress websites with modular assistance packages"
+  ],
+  "additional_info": {
+    "price_range": "900 to 3,000 Euro for professional websites",
+    "content_creation": "Professional content creation including short texts and corporate videos",
+    "hosting": "Professional hosting services to ensure fast and reliable website performance",
+    "web_marketing": "Consulting services to improve online visibility and business credibility"
+  },
+  "logo_url": "https://www.inputcomm.it/wp-content/uploads/2017/12/Web-agency-Alkimedia-digital-design-siti-internet.png"
+}

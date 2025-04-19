@@ -1,0 +1,57 @@
+{
+  "name": "Elastico Comunicazione",
+  "website": "https://www.elasticomunicazione.com/",
+  "description": "Elastico Comunicazione is a flexible web agency based in Milan offering communication and web marketing services. They create responsive websites, smartphone apps, e-commerce sites, DEM, blogs, and intranets. They also provide graphic and communication services including online and traditional advertising campaigns, logo design and restyling, printed communication (brochures, catalogs, leaflets), and coordinated image. Their web marketing campaigns are flexible, measurable, and concrete. Elastico Comunicazione is a Google Partner.",
+  "italian_studios": [
+    {
+      "city": "Milano",
+      "address": "Via Madre Cabrini, 7, 20122 Milano, Italy",
+      "phone": "",
+      "managing_director": "",
+      "location_description": "Located in Milan, Elastico Comunicazione offers a flexible team model with a core group of web developers, designers, communication and marketing experts, supplemented by external professionals as needed.",
+      "services": "Web development, Web marketing, Graphic and communication services, Advertising campaigns, Logo design, Printed communication, Coordinated image.",
+      "careers_url": "",
+      "employee_benefits_url": ""
+    }
+  ],
+  "key_people": [
+    {
+      "name": "Alessandro Di Lorenzo",
+      "role": "IT Manager",
+      "email": "",
+      "linkedin": "https://it.linkedin.com/in/alessandro-di-lorenzo-6a1344b"
+    },
+    {
+      "name": "Davide Mantegazza",
+      "role": "Digital Marketing Manager",
+      "email": "",
+      "linkedin": "https://it.linkedin.com/in/davidemantegazza"
+    }
+  ],
+  "services": [
+    "Web development: responsive websites, e-commerce portals, smartphone apps, landing pages, blogs, intranets.",
+    "Web marketing: SEO and Local SEO, Google Ads campaigns, Facebook and LinkedIn Ads, remarketing, email marketing/DEM, rich media and display advertising, YouTube video campaigns.",
+    "Graphic and communication services: online and traditional advertising campaigns, logo design and restyling, printed communication (brochures, catalogs, leaflets), coordinated image."
+  ],
+  "notable_clients": [],
+  "social_media": {
+    "linkedin": "http://www.linkedin.com/company/elastico-comunicazione",
+    "facebook": "http://www.facebook.com/elasticomunicazione"
+  },
+  "location": {
+    "address": "Via Madre Cabrini, 7",
+    "city": "Milano",
+    "postal_code": "20122",
+    "region": "Milano",
+    "country": "Italy"
+  },
+  "company_info": {
+    "industry": "Technology, information and internet",
+    "company_size": "2-10 employees",
+    "founded": 2008,
+    "type": "Società di persone",
+    "vat_number": "04294240967"
+  },
+  "slogan": "Comunicazione Flessibile",
+  "google_partner": true
+}

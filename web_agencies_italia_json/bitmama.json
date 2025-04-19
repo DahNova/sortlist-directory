@@ -1,0 +1,84 @@
+{
+  "agencyName": "Bitmama Reply",
+  "websiteURL": "https://www.bitmama.it/",
+  "description": "Bitmama Reply is a Creative & Design Consultancy founded in 2009 with the mission of empowering the business growth of companies. Driven by strategy, creativity, and innovative technologies, they offer integrated skills in brand strategy, performance, data & insight, omnichannel communication, design, and development of digital products and services. They emphasize brand experience starting with sharp strategy, creativity as a problem-solving asset, and technology for user-centric experiences.",
+  "location": "Milan, Italy: Via Ripamonti 104, 20141; Turin, Italy: Via Cardinal Massaia 83, 10147; London, UK: 38 Grosvenor Gardens, London SW1W 0TT",
+  "services": [
+    "Social Media",
+    "AI",
+    "UX",
+    "UI",
+    "Strategy",
+    "Digital Strategy",
+    "e-commerce",
+    "Web Design",
+    "Web Service Design",
+    "Content Strategy",
+    "Creativity",
+    "AR",
+    "Data Driven Marketing Strategy",
+    "Data Analytics & Insight Development",
+    "Chatbot & Voice Strategy",
+    "Digital Reputation Analysis",
+    "Crisis Monitoring",
+    "CRO",
+    "Coaching & Education",
+    "Brand Strategy & Positioning",
+    "Brand Purpose",
+    "Brand Experience",
+    "Cross Channel Campaigns (ATL, BTL, digital & social media)",
+    "Content Strategy & Production",
+    "Consumer Activation",
+    "Social Media Management",
+    "Community & Crisis Management",
+    "Cross Channel UX Research & Design",
+    "Data Driven Design",
+    "Service Design",
+    "eCommerce End-to-End",
+    "Design System Creation",
+    "Design Oriented Technologies",
+    "User Testing",
+    "Inclusive Design & Accessibility",
+    "Corporate Communication",
+    "Corporate Content Strategy",
+    "Corporate Design",
+    "Employee Experience",
+    "Digital Workplace Design and Development",
+    "On Site Digital Services"
+  ],
+  "socialMedia": {
+    "Facebook": "https://www.facebook.com/BitmamaReply",
+    "LinkedIn": "https://www.linkedin.com/company/bitmama",
+    "Vimeo": "https://vimeo.com/bitmamareply",
+    "Twitter": "https://twitter.com/bitmama"
+  },
+  "contactEmail": "info.bitmama@bitmama.it",
+  "contactPhone": "+39 02 535761",
+  "team": [
+    {
+      "name": "Nicola Gotti",
+      "role": "Chief Creative Officer (CCO) & Partner",
+      "linkedin": "https://it.linkedin.com/in/nicolagotti"
+    },
+    {
+      "name": "Matteo Abbà",
+      "role": "Senior Manager",
+      "linkedin": "https://it.linkedin.com/in/matteoabba"
+    },
+    {
+      "name": "Patrizia Chiaramonte",
+      "role": "",
+      "linkedin": "https://it.linkedin.com/in/patriziachiaramonte"
+    },
+    {
+      "name": "Gianandrea Manni",
+      "role": "Creative Director",
+      "linkedin": "https://it.linkedin.com/in/gianandreamanni"
+    },
+    {
+      "name": "Lucia Algisi",
+      "role": "",
+      "linkedin": "https://it.linkedin.com/in/lucia-algisi-20963a3"
+    }
+  ]
+}

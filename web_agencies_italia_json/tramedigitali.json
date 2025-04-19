@@ -1,0 +1,45 @@
+{
+  "name": "Trame Digitali",
+  "website_url": "https://www.trame-digitali.it/",
+  "description": "Trame Digitali provides tailored strategies for web growth with a full range of web development, e-commerce, marketing, and brand identity solutions. They emphasize a data-driven approach and build human relationships with clients to ensure quick and precise responses for critical applications.",
+  "locations": [
+    {
+      "address": "Via Frà Bartolomeo 82/A, Prato (PO)",
+      "phone": "+39 0574 020861",
+      "email": "info@trame-digitali.it"
+    }
+  ],
+  "vat_number": "02450300971",
+  "group_affiliation": "Partner of TDVB Group",
+  "technologies": [
+    "Gatsby",
+    "React",
+    "Next.js",
+    "Django",
+    "AWS",
+    "GitHub",
+    "Contentful",
+    "Saleor",
+    "Vercel",
+    "Figma",
+    "Notion",
+    "Adobe",
+    "Scaleway"
+  ],
+  "services": [
+    "Website and e-commerce development",
+    "Mobile app development",
+    "SEO",
+    "Web marketing"
+  ],
+  "notable_clients_partners": [
+    "Opera di Santa Maria del Fiore",
+    "Treedom",
+    "TDVB Group"
+  ],
+  "values": [
+    "Data-driven approach",
+    "Trust and human relationship with clients",
+    "Sustainability (planted 60 trees with Treedom)"
+  ]
+}

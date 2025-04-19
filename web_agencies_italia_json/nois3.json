@@ -1,0 +1,46 @@
+{
+  "name": "NOIS3",
+  "description": "NOIS3 is an Experience Design Agency based in Rome, Italy, specializing in Human-Centered Design, co-design, digital storytelling, and communication strategy. They focus on creating meaningful and enjoyable experiences through digital design thinking, responsive web design, and brand experience.",
+  "website": "https://www.nois3.it/",
+  "services": [
+    {
+      "category": "Brand Strategy",
+      "details": [
+        "Strong visual identity",
+        "Communication strategy to distinguish and characterize the brand",
+        "Building a sign that reflects the brand's philosophy and ideas"
+      ]
+    },
+    {
+      "category": "Experience Design",
+      "details": [
+        "Designs that engage users' hearts and minds",
+        "Simple, functional, touching, and captivating solutions",
+        "Reflecting user needs while enhancing brand effect"
+      ]
+    },
+    {
+      "category": "Frontend Development",
+      "details": [
+        "Development using Symfony, Code Igniter, Drupal, Wordpress",
+        "JavaScript including jQuery, Zepto, node.js",
+        "Ruby On Rails for ad hoc developments",
+        "PhoneGap and Titanium Appcelerator for mobility",
+        "Use of Zurb's Foundation framework"
+      ]
+    },
+    {
+      "category": "Training",
+      "details": [
+        "Sharing knowledge and skills",
+        "Building a new generation of digital design thinkers"
+      ]
+    },
+    {
+      "category": "Event Management",
+      "details": [
+        "Organizing events to meet users"
+      ]
+    }
+  ]
+}

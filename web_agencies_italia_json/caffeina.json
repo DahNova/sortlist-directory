@@ -1,0 +1,159 @@
+{
+  "name": "CAFFEINA SPA",
+  "website": "https://caffeina.com",
+  "description": "Caffeina è una Digital Native Agency che trasforma le marche in Experience Brand, grazie alla creazione di esperienze d’impatto che mettono a sistema Strategy, Design, Communication e Technology.",
+  "logo": "https://cdn.caffeina.com/app/uploads/2022/06/30101809/caffeina-ideas-never-sleep.png",
+  "social_media": {
+    "facebook": "https://www.facebook.com/CaffeinaLab",
+    "twitter": "https://twitter.com/caffeinalab",
+    "instagram": "https://www.instagram.com/caffeina/",
+    "linkedin": "https://www.linkedin.com/company/caffeina-agency",
+    "vimeo": "https://vimeo.com/caffeina",
+    "medium": "https://medium.com/caffeina-alla-grande"
+  },
+  "locations": [
+    {
+      "name": "Parma HQ",
+      "address": "Via La Spezia, 90, 43125 Parma",
+      "map_url": "http://www.google.com/maps/place/44.789828,10.306150"
+    },
+    {
+      "name": "Milano",
+      "address": "Via Tortona, 72, 20144 Milano",
+      "map_url": "http://www.google.com/maps/place/45.450953,9.158954"
+    },
+    {
+      "name": "Roma",
+      "address": "Via Marsala, 29H, 00185 Roma",
+      "map_url": "https://goo.gl/maps/tWjw6LX2Qk9hsem19"
+    }
+  ],
+  "core_services": [
+    "Campagne omnichannel",
+    "Prodotti digitali",
+    "Branded content on e offline",
+    "Campagne media di performance e awareness",
+    "Ricerche sulle abitudini e i bisogni dei consumatori"
+  ],
+  "case_studies": [
+    {
+      "title": "Fiesta®",
+      "url": "https://caffeina.com/case-studies/fiesta-non-te-la-togli-piu-dalla-testa"
+    },
+    {
+      "title": "Frecciarossa",
+      "url": "https://caffeina.com/case-studies/frecciarossa-emozioni-ad-alta-velocita"
+    },
+    {
+      "title": "Absurd",
+      "url": "https://caffeina.com/case-studies/absurd-nuovo-brand-beauty-gen-z"
+    },
+    {
+      "title": "Peroni Nastro Azzurro",
+      "url": "https://caffeina.com/case-studies/peroni-nastro-azzurro-from-feed-to-field"
+    },
+    {
+      "title": "Paramount +",
+      "url": "https://caffeina.com/case-studies/paramount-an-immersive-experience"
+    },
+    {
+      "title": "BeRebel",
+      "url": "https://caffeina.com/case-studies/ai-al-servizio-della-creativita"
+    },
+    {
+      "title": "Garmont",
+      "url": "https://caffeina.com/case-studies/garmont-scalare-le-vendite-online"
+    },
+    {
+      "title": "Arca Vita e Arca Assicurazioni",
+      "url": "https://caffeina.com/case-studies/arca-piattaforma-efficace-e-accessibile"
+    },
+    {
+      "title": "ActionAid",
+      "url": "https://caffeina.com/case-studies/actionaid-call-4-margherita"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Certified ISO Company",
+      "logo_url": "https://cdn.caffeina.com/app/uploads/2022/06/01142212/logo-f-1.png"
+    },
+    {
+      "name": "Great Place to Work",
+      "logo_url": "https://cdn.caffeina.com/app/uploads/2022/11/30144829/Certificazione-GPTW-APR-22-APR-23-1-1.png"
+    },
+    {
+      "name": "Google Premier Partner",
+      "logo_url": "https://cdn.caffeina.com/app/uploads/2024/03/01140459/PremierPartner-RGB.png"
+    },
+    {
+      "name": "Meta Business Partner",
+      "logo_url": "https://cdn.caffeina.com/app/uploads/2022/06/01142253/logo-f-4.png"
+    },
+    {
+      "name": "Amazon Ads Verified Partner",
+      "logo_url": "https://cdn.caffeina.com/app/uploads/2022/11/28160203/Badge-Amazon.png"
+    },
+    {
+      "name": "Certified UNI PdR 125:2022",
+      "logo_url": "https://cdn.caffeina.com/app/uploads/2025/02/06160226/Mask-group-1.png"
+    }
+  ],
+  "contact": {
+    "email": null,
+    "phone": null,
+    "address": [
+      "Via La Spezia, 90, 43125 Parma",
+      "Via Tortona, 72, 20144 Milano",
+      "Via Marsala, 29H, 00185 Roma"
+    ],
+    "privacy_policy_url": "https://www.privacylab.it/informativa.php?18835446901",
+    "company_data_url": "https://caffeina.com/company-data",
+    "whistleblowing_url": "https://whistleblowersoftware.com/secure/caffeina"
+  },
+  "legal": {
+    "company_type": "Società Benefit",
+    "parent_company": "IDEAS NEVER SLEEP S.R.L",
+    "vat_number": "IT07178080961"
+  },
+  "newsletter": {
+    "name": "Epistle",
+    "url": "http://epistle.caffeina.com"
+  },
+  "side_projects": [
+    {
+      "name": "Dynamo",
+      "url": "https://www.dynamoagency.io/"
+    },
+    {
+      "name": "Sparks",
+      "url": "https://sparks.caffeina.com/"
+    },
+    {
+      "name": "Ux Gazzettino",
+      "url": "https://www.uxgazzettino.com/"
+    }
+  ],
+  "careers": {
+    "total_creators": 220,
+    "open_positions": 13,
+    "positions": [
+      {
+        "title": "Creative Director",
+        "locations": ["Milano", "Parma"],
+        "status": "closed"
+      },
+      {
+        "title": "Assistant Art Director",
+        "locations": ["Milano", "Parma"],
+        "status": "closed"
+      },
+      {
+        "title": "Candidatura Spontanea",
+        "locations": ["Milano", "Parma", "Roma"],
+        "status": "open"
+      }
+    ],
+    "careers_url": "https://caffeina.com/jobs"
+  }
+}

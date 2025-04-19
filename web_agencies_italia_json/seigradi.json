@@ -1,0 +1,65 @@
+{
+  "nomeAgenzia": "SEIGRADI",
+  "descrizioneBreve": "A boutique agency specializing in Public Relations, Digital PR, and Marketing Communication.",
+  "descrizioneCompleta": "SEIGRADI is a forward-thinking public relations agency dedicated to empowering businesses with innovative communication strategies that enhance visibility, cultivate trust, and drive impactful results. Founded in 2003 in Milan by Barbara Gemma La Malfa, SEIGRADI specializes in media relations, corporate communications, digital PR, social media marketing, content production, crisis and reputation management, marketing communication, and event organization. The agency focuses on supporting international IT companies operating in Italy, helping clients navigate complex landscapes with precision and confidence. SEIGRADI emphasizes data-driven, tailored strategies, innovation, flexibility, and a human approach to build authentic and lasting relationships.",
+  "sedePrincipale": {
+    "indirizzoCompleto": "Via Felice Cavallotti, 15, 20122 Milano, Lombardia",
+    "citta": "Milano",
+    "provincia": "Lombardia",
+    "regione": "Lombardia"
+  },
+  "altreSedi": [],
+  "sitoWeb": "https://seigradi.com/",
+  "annoFondazione": 2003,
+  "numeroDipendentiApprox": "2-10",
+  "serviziOfferti": [
+    "Public Relations",
+    "Digital PR",
+    "Marketing Communication",
+    "Media Relations",
+    "Corporate Communications",
+    "Social Media Marketing",
+    "Content Production",
+    "Crisis and Reputation Management",
+    "Event Organization"
+  ],
+  "tecnologieUtilizzate": [
+    "Non disponibile"
+  ],
+  "settoriSpecializzazione": [
+    "Tech / SaaS",
+    "B2B",
+    "Public Relations",
+    "Marketing Communication"
+  ],
+  "portfolioLink": "Non disponibile",
+  "esempiLavori": [],
+  "premiRiconoscimenti": [
+    "Non disponibile"
+  ],
+  "contatti": {
+    "telefono": "Non disponibile",
+    "email": "info@seigradi.com",
+    "formContattoLink": "https://seigradi.com/contatti"
+  },
+  "socialLinks": {
+    "linkedin": "https://it.linkedin.com/company/seigradi",
+    "facebook": "https://www.facebook.com/seigradi/",
+    "instagram": "",
+    "altro": ""
+  },
+  "immagineLogoUrl": "https://media.licdn.com/dms/image/v2/C560BAQHD5fmhRYq5Aw/company-logo_200_200/company-logo_200_200/0/1631399481067?e=2147483647&v=beta&t=Hl_CHGQqw1oIu1LGhkQg_imuyy6Z-mXw6N2ZzZecgck",
+  "immagineSecondariaUrl": "https://media.licdn.com/dms/image/v2/C561BAQHWqxpiea2ZWQ/company-background_1536_768/company-background_1536_768/0/1584744900061?e=2147483647&v=beta&t=fEluz6HIWSJrFm32brGHVQPo4J9J7xizV2obRW62ifw",
+  "recensioniLink": {
+    "googleMaps": "",
+    "trustpilot": "",
+    "altro": ""
+  },
+  "puntiDiForzaUnici": [
+    "Approccio data-driven.",
+    "Strategie su misura per ogni cliente.",
+    "Innovazione e flessibilità.",
+    "Approccio umano e relazioni autentiche."
+  ],
+  "fonteDatiPrimaria": "https://seigradi.com/"
+}

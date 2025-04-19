@@ -1,0 +1,184 @@
+{
+  "name": "Team99",
+  "website": "https://team99.it/",
+  "founded": 1999,
+  "description": "Team99 is a Digital Web Agency based in Modena and Milan, specializing in branding, web design, e-commerce, and digital strategies. They combine creativity and digital technology to create unique projects and help companies position themselves clearly in complex markets.",
+  "mission": "Transform communication into a competitive advantage for businesses by providing strategic, creative, and digital solutions tailored to each client.",
+  "locations": [
+    {
+      "city": "Modena",
+      "address": "Via Agnini, 61/a - 41037 Mirandola"
+    },
+    {
+      "city": "Milano",
+      "address": "Via Panfilo Castaldi, 4 - 20124 Milano"
+    }
+  ],
+  "services": [
+    {
+      "name": "Brand & Positioning",
+      "description": "Strategic and recognizable brand definition or redefinition including naming, brand strategy, visual identity, and tone of voice.",
+      "url": "https://team99.it/branding-e-visual-identity/"
+    },
+    {
+      "name": "Website & E-commerce",
+      "description": "Building aesthetically pleasing, functional, and high-performance websites designed to tell the client's story and convert. Includes UX/UI, development, SEO, conversion, and performance.",
+      "url": "https://team99.it/web-design-e-sviluppo-dei-siti-internet/"
+    },
+    {
+      "name": "Content & Storytelling",
+      "description": "Creating images, texts, and videos that truly speak to the audience. Includes copywriting, shooting, corporate videos, and storytelling.",
+      "url": "https://team99.it/contenuti-e-storytelling/"
+    },
+    {
+      "name": "Digital Strategy & Campaigns",
+      "description": "Planning measurable digital actions without waste to achieve concrete goals. Includes digital strategy, ADV campaigns, automation, funnel, and KPI.",
+      "url": "https://team99.it/web-marketing-pmi/"
+    }
+  ],
+  "key_clients": [
+    "Banca del Sempione",
+    "Yogurt Müller",
+    "Acqua Guizza",
+    "Nerogiardini",
+    "Viridea Garden",
+    "Massimo Bottura",
+    "Bauer",
+    "Cannavacciuolo",
+    "Manuel Ritz",
+    "Caviro",
+    "Deles Group",
+    "Federbio",
+    "Alce Nero",
+    "Busoli Eyewear",
+    "Maranello",
+    "Averna",
+    "Provincia di Modena",
+    "Manila Grace",
+    "Gedebe",
+    "Adesital",
+    "Brian & Barry",
+    "Coop",
+    "Coopgas",
+    "Ferrari Prosciutti",
+    "ItalcarnI",
+    "Twinset",
+    "CNA",
+    "Baxter",
+    "BBraun",
+    "Villa Crespi",
+    "Artefiera",
+    "MSGM",
+    "Max Mara",
+    "Garcia",
+    "Mario Neri",
+    "Doteco",
+    "Shanghai Contemporary Art Fair",
+    "CIMA",
+    "Mantovanibenne",
+    "Accademia Cinema",
+    "Fondazione Acciaio Italiana",
+    "Comune di Mirandola",
+    "Comuni Bassa Modenese",
+    "Liviana Conti",
+    "Almawines",
+    "Laqua Resorts",
+    "Annarita N",
+    "International Film Festival di Venezia",
+    "Eurosets Cardiopulmonary",
+    "Feudi San Gregorio",
+    "Plaghia Charter"
+  ],
+  "team_size": 20,
+  "team": [
+    {
+      "name": "Luca",
+      "role": "Co-founder & E-commerce Specialist"
+    },
+    {
+      "name": "Sara",
+      "role": "UI/UX & Content Specialist"
+    },
+    {
+      "name": "Marco",
+      "role": "SEO & Web Marketing Specialist"
+    },
+    {
+      "name": "Federica",
+      "role": "Art Director Senior"
+    },
+    {
+      "name": "Dimitri",
+      "role": "Web Developer Senior"
+    },
+    {
+      "name": "Irene",
+      "role": "Content Creator"
+    },
+    {
+      "name": "Giorgia",
+      "role": "Visual & Web Designer"
+    },
+    {
+      "name": "Giuseppe",
+      "role": "E-commerce Developer"
+    },
+    {
+      "name": "Lorenzo",
+      "role": "Account"
+    },
+    {
+      "name": "Imo Vanni",
+      "role": "Co-founder & Marketing Manager"
+    },
+    {
+      "name": "Sara",
+      "role": "Financial Manager"
+    },
+    {
+      "name": "Giuseppe",
+      "role": "Co-founder & Multimedia Specialist"
+    },
+    {
+      "name": "Giada",
+      "role": "Social Media Specialist"
+    },
+    {
+      "name": "Mirko",
+      "role": "Multimedia Specialist"
+    },
+    {
+      "name": "Vittorio",
+      "role": "Social Media Manager"
+    },
+    {
+      "name": "Marco",
+      "role": "Web Developer Senior"
+    },
+    {
+      "name": "Giulio",
+      "role": "Web Developer"
+    },
+    {
+      "name": "Mauro",
+      "role": "Co-founder & Branding Strategist"
+    }
+  ],
+  "specialties": [
+    "Branding",
+    "Web Design",
+    "E-commerce",
+    "Digital Strategy",
+    "Content Creation",
+    "SEO",
+    "Social Media",
+    "Marketing Automation",
+    "Advertising",
+    "Packaging"
+  ],
+  "social_media": {
+    "facebook": "https://www.facebook.com/team99.it",
+    "linkedin": "https://www.linkedin.com/company/team99",
+    "instagram": "https://www.instagram.com/team99agency"
+  }
+}

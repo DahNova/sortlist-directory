@@ -1,0 +1,38 @@
+{
+  "agency_name": "Cantiere Creativo",
+  "website_url": "https://www.cantierecreativo.net/",
+  "description": "Cantiere Creativo is an Italian digital agency specializing in the design, development, and creation of professional and customized websites, SEO optimization, e-commerce, web and brand design. They focus on measurable results with attention to technological excellence, aesthetics, and accessibility.",
+  "services_offered": [
+    "Web design",
+    "UI/UX Design",
+    "Digital Marketing",
+    "Brand Design",
+    "Public Administration",
+    "Digital Products"
+  ],
+  "location": "Via Botticini 3 - 50143 Firenze (FI), Italy",
+  "contact_details": {
+    "email": "info@cantierecreativo.net",
+    "phone": "+39 055 5387851 (Mon-Fri, 9-13 and 14-18)"
+  },
+  "social_media_links": {
+    "facebook": "https://www.facebook.com/cantierecreativo",
+    "linkedin": "https://www.linkedin.com/company/cantiere-creativo/mycompany/?viewAsMember=true",
+    "instagram": "https://www.instagram.com/cantiere_creativo_/",
+    "twitter": "https://twitter.com/teamcantiere",
+    "medium": "https://medium.com/cantiere-creativo"
+  },
+  "additional_info": {
+    "about": "Cantiere Creativo is a remote-first company operating worldwide, offering easy-to-use solutions for complex business problems. Founded in Florence, it now has offices wherever there is power and internet connection.",
+    "notable_clients": [
+      "Gallerie degli Uffizi",
+      "Dipartimento Trasformazione Digitale",
+      "Santa Croce Opera",
+      "Oriente Occidente",
+      "Museo Ginori",
+      "Golab",
+      "Giardino di Boboli",
+      "Unicoop Firenze"
+    ]
+  }
+}

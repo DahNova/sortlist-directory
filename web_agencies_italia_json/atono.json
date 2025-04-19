@@ -1,0 +1,19 @@
+{
+  "agencyName": "A-Tono",
+  "websiteURL": "https://www.a-tono.com/it",
+  "description": "A-Tono is a Milan-based tech company and digital marketing agency specializing in multichannel interactive marketing, digital branding, and payment solutions. Founded in 2000, it combines creativity, technology, and marketing to offer innovative digital solutions and growth opportunities for businesses.",
+  "location": "Milan, Italy",
+  "services": [
+    "Digital Marketing",
+    "Multichannel Interactive Marketing",
+    "Digital Branding",
+    "Payment Solutions",
+    "Technology Lab Services",
+    "Product and Service Development"
+  ],
+  "socialMedia": {
+    "LinkedIn": "https://it.linkedin.com/company/a-tono",
+    "Facebook": "https://www.facebook.com/ATonoOfficial/"
+  },
+  "notes": "A-Tono is recognized as a 100% Made in Italy tech company with over 20 years of experience in digital transformation and marketing."
+}

@@ -1,0 +1,55 @@
+{
+  "name": "Pixell srl",
+  "description": "Pixell is a communication agency based in Rome, Italy, founded in 2000. They specialize in advertising, corporate identity, digital strategies, web design, SEO, social media management, e-commerce, branding, video production, photo shooting, copywriting, UI/UX, CRM, and analytics. With 25 years of experience, Pixell combines creativity and passion to create value for national and international brands. They have offices in Rome and Milan.",
+  "website": "https://www.pixell.it/",
+  "location": {
+    "rome": {
+      "address": "Via di San Giacomo 18, 00187 Rome, Italy",
+      "phone": "+39 06 3244293"
+    },
+    "milan": {
+      "email": "milano@pixell.it"
+    }
+  },
+  "services": [
+    {
+      "category": "Advertising & Corporate Identity",
+      "details": [
+        "Advertising campaigns",
+        "Corporate identity development",
+        "Branding and brand strategy"
+      ]
+    },
+    {
+      "category": "Digital & Web",
+      "details": [
+        "Web design and development",
+        "E-commerce solutions",
+        "SEO optimization",
+        "Social media management",
+        "Digital marketing strategies"
+      ]
+    },
+    {
+      "category": "Creative Production",
+      "details": [
+        "Video production",
+        "Photo shooting",
+        "Copywriting",
+        "UI/UX design"
+      ]
+    },
+    {
+      "category": "Analytics & CRM",
+      "details": [
+        "Sales CRM",
+        "Customer analytics"
+      ]
+    }
+  ],
+  "social_media": {
+    "facebook": "https://www.facebook.com/pixellcreativesolutions/",
+    "instagram": "https://www.instagram.com/pixell_creativeagency/",
+    "linkedin": "https://www.linkedin.com/company/pixell-it/"
+  }
+}

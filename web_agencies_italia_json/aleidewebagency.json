@@ -1,0 +1,83 @@
+{
+  "name": "ALEIDE Web Agency",
+  "website": "https://www.aleidewebagency.com/",
+  "location": "Milano and Padova, Italy",
+  "company_size": "Not explicitly stated",
+  "founded": 2009,
+  "type": "Digital Agency and Software House",
+  "industry": "Digital Marketing, Web Development, Software Development",
+  "description": "ALEIDE Web Agency, founded in 2009, is a leading digital agency and software house based in Milan and Padova, serving clients across Northern Italy. The agency specializes in custom website and ecommerce development, SEO consulting, mobile app development, custom software, online contests, and comprehensive digital marketing strategies. ALEIDE emphasizes project management, client collaboration, and quality, holding ISO 9001 certification and Google Partner status.",
+  "services_offered": [
+    "Custom Website Development",
+    "Ecommerce Development",
+    "SEO Consulting",
+    "Mobile App Development (iOS and Android)",
+    "Custom Software Development",
+    "Online Contests and Sweepstakes",
+    "Web Marketing",
+    "Google Ads Campaign Management",
+    "Facebook Ads Campaigns",
+    "Email Marketing (DEM)",
+    "Digital Strategy Consulting",
+    "ERP Software Solutions",
+    "Digital Transformation Consulting",
+    "Google Workspace Reseller",
+    "Totem Multimediali and Digital Signage Solutions",
+    "Chatbot AI Development",
+    "GDPR Compliance Consulting"
+  ],
+  "client_portfolio": [
+    "Green Records",
+    "Digicamere",
+    "Robur",
+    "Castellari Holding",
+    "CSI Centro Sportivo Italiano",
+    "Tecnostyl",
+    "Mokador",
+    "Dipharma",
+    "De Agostini Editore S.p.A",
+    "Italiaonline",
+    "Provincia di Piacenza",
+    "Emi Music Publishing Italia",
+    "ProAction",
+    "Scuola Librai UEM",
+    "Innovet",
+    "EXPLORA by De Agostini"
+  ],
+  "certifications_and_partnerships": [
+    "ISO 9001 Certification for IT Consulting and Assistance",
+    "Google Partner Certified for Google Ads",
+    "Google Cloud Partner for Google Workspace",
+    "SEMrush Certified Partner for SEO Consulting",
+    "Aruba Business Partner",
+    "MailUp Partner",
+    "Woocommerce Partner",
+    "Satispay Partner",
+    "Cookiebot Reseller",
+    "LegalBlink Reseller",
+    "Nexi Certified Partner",
+    "Assintel Member"
+  ],
+  "contact": {
+    "address": "Via Carlo Goldoni, 1, 20129 Milano, Italy",
+    "phone": "+39-02-45493139",
+    "email": "info@aleide.it"
+  },
+  "founders": [
+    {
+      "name": "Filippo Levizzani",
+      "role": "Responsabile Sviluppo | Responsabile Comunicazione",
+      "background": "Over 20 years of IT experience, previously worked at Studio Pontaccio, Portel, IDM Group."
+    },
+    {
+      "name": "Gianluca Gallinaro",
+      "role": "Responsabile Vendite | Responsabile ERP",
+      "background": "Started in IT in 1996, experience in ERP consulting, project management, and web/mobile projects."
+    },
+    {
+      "name": "Luca Galbiati",
+      "role": "Direttore Creativo",
+      "background": "Background in graphic design and web development, worked at Barabino & Partners and Drake."
+    }
+  ]
+}

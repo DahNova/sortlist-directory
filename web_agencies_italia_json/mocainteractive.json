@@ -1,0 +1,169 @@
+{
+  "name": "Moca Interactive",
+  "description": "Moca Interactive is a web marketing agency based in Treviso, Italy. Since 2004, they help companies maximize online investments and achieve tangible results through data-driven strategies and a people-centered approach.",
+  "website": "https://mocainteractive.com/",
+  "services": [
+    {
+      "category": "Digital Marketing Services",
+      "details": [
+        "Digital Advertising",
+        "Search Engine Optimization (SEO)",
+        "Conversion Optimization (CRO)",
+        "Web Analytics",
+        "Email Marketing Automation"
+      ]
+    }
+  ],
+  "methodology": [
+    "Listening and sharing to understand client needs and goals.",
+    "Ethical and professional approach in a respectful work environment.",
+    "Data-driven strategies to maximize online visibility, traffic, and efficiency.",
+    "Continuous collaboration and transparency with clients.",
+    "Focus on people and relationships as the core of their work."
+  ],
+  "location": {
+    "address": "Via Fonderia, 93 - 31100 Treviso, Italy",
+    "company_name": "Moca Interactive Srl - Unipersonale",
+    "vat_number": "IT02852430244",
+    "registration_number": "R.E.A. TV-308455",
+    "share_capital": "€ 51.000 i.v."
+  },
+  "contact": {
+    "phone": "+39 0422 421 171",
+    "fax": "+39 0422 969235",
+    "email": "info@mocainteractive.com",
+    "contact_page": "https://mocainteractive.com/contatti/"
+  },
+  "team": [
+    {
+      "name": "Andrea Sportillo",
+      "role": "Chief Executive Officer",
+      "tagline": "Insolente, lunatico, credo nel valore dell'amicizia e della pasta al forno"
+    },
+    {
+      "name": "Angela Venturin",
+      "role": "Head of Digital Advertising",
+      "tagline": "La curiosità è la mia scintilla, l'entusiasmo il mio carburante"
+    },
+    {
+      "name": "Giovanni Favero",
+      "role": "Head of Web Analytics & CRO",
+      "tagline": "Attivo e generoso per attitudine. Paladino del riciclaggio e nemico degli sprechi"
+    },
+    {
+      "name": "Elia Zanon",
+      "role": "Head of SEO",
+      "tagline": "Inguaribile romantico, assetato di Swing, affamato del prossimo Avenger"
+    },
+    {
+      "name": "Stefano Zago",
+      "role": "Digital Advertising Team Manager",
+      "tagline": "Esploratore, sognatore e spesso di buon umore"
+    },
+    {
+      "name": "Marco Mora",
+      "role": "Digital Strategist & Sales Account",
+      "tagline": "Anima Rock, mente digital una combo letale!"
+    },
+    {
+      "name": "Matteo Erodi",
+      "role": "Senior Digital Advertising & E-Commerce Specialist",
+      "tagline": "Estremamente curioso, intraprendente, chiaccherone e dalla battuta sempre pronta"
+    },
+    {
+      "name": "Federica Marchesin",
+      "role": "Senior SEO Specialist",
+      "tagline": "Ottimista e positiva, amo la natura e le persone che sorridono"
+    },
+    {
+      "name": "Federico Rugger",
+      "role": "Sales Account",
+      "tagline": "Cresciuto con un pallone tra i piedi e le battute di Aldo Giovanni e Giacomo"
+    },
+    {
+      "name": "Ilaria Casagrande",
+      "role": "Digital Advertising Team Manager & Project Manager",
+      "tagline": "Overthinker per definizione, il mio cassetto straripa di nuovi sogni e progetti"
+    }
+  ],
+  "notable_projects": [
+    {
+      "title": "Confezioni Peserico",
+      "description": "Feed management and SEO optimization of product catalog for Italy and USA.",
+      "link": "https://mocainteractive.com/casi-studio/confezioni-peserico/"
+    },
+    {
+      "title": "Farmacisti Preparatori",
+      "description": "Maximizing blog usage for increased visibility.",
+      "link": "https://mocainteractive.com/casi-studio/farmacisti-preparatori/"
+    },
+    {
+      "title": "Ludovico Martelli",
+      "description": "Awareness and Intent to Buy campaigns for 4 FMCG brands via Beintoo.",
+      "link": "https://mocainteractive.com/casi-studio/ludovico-martelli/"
+    },
+    {
+      "title": "Citizen",
+      "description": "Measurable awareness campaigns without e-commerce or mono-brand stores, including Netflix.",
+      "link": "https://mocainteractive.com/casi-studio/citizen/"
+    },
+    {
+      "title": "Seitron",
+      "description": "Increasing brand visibility through SEO.",
+      "link": "https://mocainteractive.com/casi-studio/seitron/"
+    },
+    {
+      "title": "CMP",
+      "description": "Collecting more and higher quality data with GTM Server-Side.",
+      "link": "https://mocainteractive.com/casi-studio/cmp-server-side/"
+    },
+    {
+      "title": "Mapei",
+      "description": "Increasing brand awareness and website traffic.",
+      "link": "https://mocainteractive.com/casi-studio/mapei/"
+    },
+    {
+      "title": "Randstad",
+      "description": "Optimizing job offer management and improving cost per candidate.",
+      "link": "https://mocainteractive.com/casi-studio/randstad/"
+    },
+    {
+      "title": "Pellizzari",
+      "description": "Facing the pandemic with a YouTube strategy.",
+      "link": "https://mocainteractive.com/casi-studio/pellizzari/"
+    }
+  ],
+  "clients": [
+    "Mapei",
+    "Bauli",
+    "Citizen",
+    "Eurospin",
+    "Deco",
+    "Proraso",
+    "AISM",
+    "Venezianico",
+    "Bofrost",
+    "Findomestic",
+    "Castelli",
+    "Farmacisti Preparatori",
+    "Marvis",
+    "Nice",
+    "Gruppo Hera",
+    "Santa Maria Novella",
+    "Pellizzari",
+    "Batist",
+    "Monnalisa",
+    "Pianegonda",
+    "Smeg",
+    "Randstad",
+    "Safilo",
+    "Unipolsai",
+    "D1 Milano",
+    "Sodastream",
+    "Polti",
+    "Terranova",
+    "Val d'Oca",
+    "Under Armour",
+    "Ticketsms"
+  ]
+}

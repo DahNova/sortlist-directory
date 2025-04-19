@@ -1,0 +1,46 @@
+{
+  "name": "AKQA",
+  "website": "https://www.akqa.com/",
+  "description": "AKQA is a global ideas and innovation company with a strong presence in Italy, specifically in Milan and Venice. They deliver multidisciplinary solutions in communication and product design, focusing on innovation, service, and performance.",
+  "italian_studios": [
+    {
+      "city": "Milan",
+      "address": "Via Morimondo, 26, 20143 Milan, Italy",
+      "phone": "+39 02 00644830",
+      "managing_director": "Umberto Basso",
+      "location_description": "Located in the WPP Milan Campus, a modern and innovative hub built in a historic industrial area providing unique spaces for co-creation. Positioned in Italy's economic and financial heart, enabling national and global connections.",
+      "services": "Communication and product design delivered through a synergic approach. Portfolio includes work for clients like Ducati, Calzedonia, Coca-Cola, Jägermeister, Nike, Molteni Group, and Technogym.",
+      "careers_url": "https://www.akqa.com/careers/?query=Milan",
+      "employee_benefits_url": "https://www.akqa.com/studios/italy/benefits/"
+    },
+    {
+      "city": "Venice",
+      "address": "Via Sile 41, Tenuta Ca’ Tron, 31056 Roncade, Treviso, Italy",
+      "phone": "+39 0422 789612",
+      "location_description": "Situated in the creative hub of Sile Valley, deeply rooted in Italy’s digital heart, creating connections between East and West. Inspired by local culture and global trends.",
+      "services": "Focus on innovation, service, and performance to drive change. Communication and creativity converge towards designing sophisticated customer-centred experiences. Clients include Ducati, Calzedonia, Coca-Cola, Jägermeister, Nike, Molteni Group, and Technogym.",
+      "careers_url": "https://www.akqa.com/careers/?query=Venice",
+      "employee_benefits_url": "https://www.akqa.com/studios/italy/benefits/"
+    }
+  ],
+  "awards_and_recognition": [
+    "Named Campaign’s 2023 Digital Agency Global Network of the Year",
+    "Winner of Fast Company World Changing Ideas awards in 2024, 2022, and 2021",
+    "Ranked 9th Most Loved Workplace in the World by Newsweek",
+    "Winner of 160 Webby Awards",
+    "Winner of 11 Cannes Lions in celebration of exceptional creativity"
+  ],
+  "notable_clients": [
+    "Ducati",
+    "Calzedonia",
+    "Coca-Cola",
+    "Jägermeister",
+    "Nike",
+    "Molteni Group",
+    "Technogym"
+  ],
+  "contact": {
+    "new_business_email": "Umberto.Basso@akqa.com",
+    "general_email": "hello@akqa.com"
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "nomeAgenzia": "Gruppo Roncaglia",
+  "descrizioneBreve": "Engage The Future",
+  "descrizioneCompleta": "Gruppo Roncaglia è una Comtech Company ispirata dall’eccellenza creativa e guidata dalla attenta lettura di insight estratti dai flussi dati. È una squadra di talenti complementari che si fondono in team multidisciplinari costruiti, di volta in volta, sulle esigenze di business del cliente, con l'obiettivo di creare esperienze innovative e misurabili per animare i brand e la relazione con i loro clienti.",
+  "sedePrincipale": {
+    "indirizzoCompleto": "Piazza Pio XI, 53 – 00165 Roma",
+    "citta": "Roma",
+    "provincia": "RM",
+    "regione": "Lazio"
+  },
+  "altreSedi": [],
+  "sitoWeb": "https://www.grupporoncaglia.it/",
+  "annoFondazione": 1977,
+  "numeroDipendentiApprox": "Non disponibile",
+  "serviziOfferti": [
+    "Marketing Strategy",
+    "Brand Positioning",
+    "Communication & Acquisition",
+    "Engagement & Loyalty"
+  ],
+  "tecnologieUtilizzate": [
+    "Piattaforme proprietarie Social Share, Engagement Platform, Contest Platform, NPS e Customer Experience Platform",
+    "Intelligenza Artificiale",
+    "Machine Learning",
+    "Natural Language Recognition"
+  ],
+  "settoriSpecializzazione": [
+    "Automotive",
+    "Elettronica e Elettrodomestici",
+    "Food & Beverage",
+    "Entertainment",
+    "Banche e Assicurazioni",
+    "Istituzioni",
+    "No Profit",
+    "Altro"
+  ],
+  "portfolioLink": "https://www.grupporoncaglia.it/brands/",
+  "esempiLavori": [
+    {
+      "nomeProgetto": "Enel Premia",
+      "descrizioneBreveProgetto": "Programma di loyalty per Enel Energia.",
+      "linkProgetto": "https://www.grupporoncaglia.it/portfolio/enel-premia/"
+    },
+    {
+      "nomeProgetto": "Best MB Fan",
+      "descrizioneBreveProgetto": "Concorso per Mercedes-Benz.",
+      "linkProgetto": "https://www.grupporoncaglia.it/portfolio/best-mb-fan/"
+    },
+    {
+      "nomeProgetto": "Winter Tour",
+      "descrizioneBreveProgetto": "Evento per Mercedes-Benz.",
+      "linkProgetto": "https://www.grupporoncaglia.it/portfolio/4matic-sound-extreme/"
+    },
+    {
+      "nomeProgetto": "Cena tra le stelle",
+      "descrizioneBreveProgetto": "Concorso per Coca Cola.",
+      "linkProgetto": "https://www.grupporoncaglia.it/portfolio/cena-tra-le-stelle/"
+    }
+  ],
+  "premiRiconoscimenti": [],
+  "contatti": {
+    "telefono": "Non disponibile",
+    "email": "info@grupporoncaglia.it",
+    "formContattoLink": "https://www.grupporoncaglia.it/contacts/"
+  },
+  "socialLinks": {
+    "linkedin": "https://www.linkedin.com/company/2514261/",
+    "facebook": "https://www.facebook.com/GruppoRoncaglia/",
+    "instagram": "",
+    "altro": "https://twitter.com/grupporoncaglia, https://www.youtube.com/user/GruppoRoncaglia"
+  },
+  "immagineLogoUrl": "https://www.grupporoncaglia.it/wp-content/uploads/2020/12/Logo_Gruppo_pos.png",
+  "immagineSecondariaUrl": "https://www.grupporoncaglia.it/wp-content/uploads/2020/12/Paolo.jpg",
+  "recensioniLink": {
+    "googleMaps": "",
+    "trustpilot": "",
+    "altro": ""
+  },
+  "puntiDiForzaUnici": [
+    "Approccio data-driven.",
+    "Team multidisciplinare interno.",
+    "Metodologia Agile.",
+    "Forte focus sulla User Experience.",
+    "Esperienza pluridecennale nel settore.",
+    "Innovazione continua e tecnologie proprietarie."
+  ],
+  "fonteDatiPrimaria": "https://www.grupporoncaglia.it/"
+}

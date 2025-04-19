@@ -1,0 +1,140 @@
+{
+  "name": "Envision Digital Agency",
+  "website": "https://www.envisiondigital.it/",
+  "description": "Envision cura la creazione e il posizionamento di siti web nei motori di ricerca. Richiedi una consulenza per campagne Google Ads e Social Marketing. Envision nasce da qualcosa di più di un’idea. Potremmo chiamarla una passione per il digitale. Ecco perchè ci definiamo una Digital Agency.",
+  "italian_studios": [
+    {
+      "city": "Lecce",
+      "address": "",
+      "phone": "+39 0833 1920009",
+      "managing_director": "",
+      "location_description": "Agenzia web con sedi a Lecce e Milano, specializzata in soluzioni digitali innovative e strategie di marketing concrete.",
+      "services": "Web development, Web marketing, SEO, Google Ads, Social Marketing, Content Creation, Data Analysis.",
+      "careers_url": "https://www.envisiondigital.it/jobs/",
+      "employee_benefits_url": ""
+    },
+    {
+      "city": "Milano",
+      "address": "",
+      "phone": "+39 0833 1920009",
+      "managing_director": "",
+      "location_description": "Agenzia web con sedi a Lecce e Milano, specializzata in soluzioni digitali innovative e strategie di marketing concrete.",
+      "services": "Web development, Web marketing, SEO, Google Ads, Social Marketing, Content Creation, Data Analysis.",
+      "careers_url": "https://www.envisiondigital.it/jobs/",
+      "employee_benefits_url": ""
+    }
+  ],
+  "key_people": [
+    {
+      "name": "Ernesto Torsello",
+      "role": "CEO",
+      "email": "",
+      "linkedin": ""
+    },
+    {
+      "name": "Alessia Nuzzo",
+      "role": "Graphic Designer / Art Director",
+      "email": "",
+      "linkedin": ""
+    },
+    {
+      "name": "Biagio Chiarello",
+      "role": "Web Developer",
+      "email": "",
+      "linkedin": ""
+    },
+    {
+      "name": "Donato Antonazzo",
+      "role": "SEO Specialist",
+      "email": "",
+      "linkedin": ""
+    },
+    {
+      "name": "Elena Chiffi",
+      "role": "Administrative Officer",
+      "email": "",
+      "linkedin": ""
+    },
+    {
+      "name": "Federico Petracca",
+      "role": "Digital Advertising Specialist",
+      "email": "",
+      "linkedin": ""
+    },
+    {
+      "name": "Francesca Chiuri",
+      "role": "Customer Care",
+      "email": "",
+      "linkedin": ""
+    },
+    {
+      "name": "Giacomo Lia",
+      "role": "Sales Account",
+      "email": "",
+      "linkedin": ""
+    },
+    {
+      "name": "Giulia Chiffi",
+      "role": "Social Media Manager",
+      "email": "",
+      "linkedin": ""
+    },
+    {
+      "name": "Laura De Francesco",
+      "role": "Social Media Manager",
+      "email": "",
+      "linkedin": ""
+    },
+    {
+      "name": "Matteo Bleve",
+      "role": "Full Stack Developer",
+      "email": "",
+      "linkedin": ""
+    },
+    {
+      "name": "Matteo Milo",
+      "role": "Data Analyst Specialist",
+      "email": "",
+      "linkedin": ""
+    },
+    {
+      "name": "Michele Rizzo",
+      "role": "Photographer e VideoMaker",
+      "email": "",
+      "linkedin": ""
+    },
+    {
+      "name": "Rossella Scarlino",
+      "role": "Social Media Manager",
+      "email": "",
+      "linkedin": ""
+    },
+    {
+      "name": "Valentino Orlando",
+      "role": "Head of Development",
+      "email": "",
+      "linkedin": ""
+    }
+  ],
+  "services": [
+    "Tech: Analisi User Experience, Sviluppo siti web ed e-commerce, Sviluppo web app, System integration, Hosting e server web.",
+    "Marketing: Comunicazione visiva, Produzione contenuti editoriali, Advertising, Social media marketing, SEO e motori di ricerca, Direct marketing.",
+    "Business: Data analysis, Analisi della concorrenza, Sentiment analysis, Finanza aziendale e agevolata, Controllo di gestione aziendale, Adeguati assetti organizzativi."
+  ],
+  "notable_clients": [
+    "SAMSUNG",
+    "HUMANITAS",
+    "PIERREFABRE",
+    "TIM",
+    "GASLINI",
+    "TRUSTPILOT",
+    "MAILUP"
+  ],
+  "social_media": {
+    "facebook": "https://www.facebook.com/envisiondigital.it",
+    "instagram": "https://www.instagram.com/envisiondigital.it/",
+    "linkedin": "https://www.linkedin.com/company/envision---web-marketing-strategies/",
+    "tiktok": "https://www.tiktok.com/@envisiondigital",
+    "behance": "https://www.behance.net/envision_digital/"
+  }
+}

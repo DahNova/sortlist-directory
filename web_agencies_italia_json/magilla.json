@@ -1,0 +1,48 @@
+{
+  "name": "Magilla",
+  "description": "Magilla is a MadTech company based in Bologna, Italy, specializing in integrated digital marketing, advertising, and technology solutions. They combine strategy and creativity to deliver marketing, communication, content production, digital media planning, platform development, UX/UI design, and system integration services.",
+  "website": "https://magilla.company/",
+  "services": [
+    {
+      "category": "Marketing and Communication",
+      "details": [
+        "Marketing e comunicazione digitale",
+        "Creativity",
+        "Strategy",
+        "Content production",
+        "Digital Media Planning"
+      ]
+    },
+    {
+      "category": "Platform Development",
+      "details": [
+        "Sviluppo piattaforme",
+        "UX & UI Design",
+        "System integration"
+      ]
+    }
+  ],
+  "methodology": [
+    "Ascolto: Interviews to understand the business, market, competition, strengths, and opportunities.",
+    "Analisi: Detailed analysis of customer audience and competitive benchmark.",
+    "Sviluppo: Brand image creation and strategic planning for marketing and digital communication.",
+    "Monitoraggio: Continuous monitoring of plan effectiveness with data-driven and qualitative audits.",
+    "Ottimizzazione: Optimization of strategy to protect investments and achieve goals."
+  ],
+  "location": {
+    "address": "Via Galliera 8 - Int. 22 - 40121 Bologna, Italy",
+    "company_name": "MagillaGuerrilla s.r.l.",
+    "vat_number": "03157711205",
+    "registration_number": "REA BO 496758",
+    "share_capital": "€ 13.500"
+  },
+  "contact": {
+    "website_contact_page": "https://magilla.company/contatti/"
+  },
+  "social_media": {
+    "linkedin": "https://it.linkedin.com/company/magillacompany",
+    "youtube": "https://www.youtube.com/@MagillaNetwork",
+    "instagram": "https://www.instagram.com/magilla.company/",
+    "tiktok": "https://www.tiktok.com/@magilla.company"
+  }
+}

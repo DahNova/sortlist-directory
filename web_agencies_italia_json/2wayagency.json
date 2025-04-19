@@ -1,0 +1,64 @@
+{
+  "name": "2WayAgency",
+  "website": "https://www.2wayagency.it",
+  "location": "Novara, Italy",
+  "company_size": "2-10 employees",
+  "founded": 2006,
+  "type": "Partnership",
+  "industry": "IT System Custom Software Development",
+  "description": "2WayAgency is a web agency started in 2006, passionate about design and programming, combining imagination with code. Experienced in mechanical, plant engineering, and construction sectors with 2D and 3D design and professional printing layouts. Services include web design, web mobile, PHP programming, AJAX, graphics, magazine layouts, 2D/3D design, intranet/extranet web applications, webmaster, and web marketing.",
+  "services_offered": [
+    "Web design and development",
+    "Custom websites",
+    "WordPress sites",
+    "E-commerce shops",
+    "Mobile web development",
+    "PHP programming",
+    "AJAX programming",
+    "Graphics and advertising design",
+    "2D and 3D design and layouts",
+    "Web applications (intranet and extranet)",
+    "Webmaster services",
+    "Web marketing and SEO",
+    "Social media management",
+    "ERP business management software",
+    "Mobile apps",
+    "Industrial applications",
+    "Cloud software and dedicated apps"
+  ],
+  "proprietary_services": [
+    "AllaRicerca.it – Real estate portal",
+    "FatturazioneAziendale.it – Electronic invoicing app",
+    "FTP-Center.com – File transfer business app"
+  ],
+  "client_portfolio": [
+    "Turisti per caso showTV",
+    "Guna Spa - Pharmacy and homeopathy supplements",
+    "Westlake",
+    "Movin France",
+    "Sergio Tacchini",
+    "Ecowaysrl",
+    "Manifattura Renata srl",
+    "Fabbro Giulio Airoldi Galliate",
+    "Archicona - Studio Architetti",
+    "Immobiliare Novara Nord",
+    "Valica"
+  ],
+  "key_people": [
+    {
+      "name": "Maria Pandele",
+      "role": "Co-founder"
+    },
+    {
+      "name": "Andrea Greco",
+      "role": "Owner"
+    }
+  ],
+  "contact_email": "info@2wayagency.it",
+  "linkedin_followers": 36,
+  "social_media": {
+    "facebook": "https://www.facebook.com/2wayagency/",
+    "instagram": "https://www.instagram.com/2way_agency/"
+  },
+  "opening_hours": "Monday to Sunday 09:00-17:00"
+}

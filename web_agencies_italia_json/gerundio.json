@@ -1,0 +1,98 @@
+{
+  "nomeAgenzia": "Gerundio",
+  "descrizioneBreve": "Agenzia di comunicazione a Roma specializzata in marketing, pubblicità, eventi, web design e social media marketing.",
+  "descrizioneCompleta": "Gerundio è una creative company attiva nel settore del Marketing Technology da oltre 20 anni. È un'azienda indipendente guidata da Ramon Sembianza e Andrea Sebastiani, con un team in crescita e un portfolio di oltre 30 clienti. Il talento creativo di alto profilo si concentra su progetti di comunicazione integrata per brand nazionali e internazionali in vari settori merceologici.",
+  "sedePrincipale": {
+    "indirizzoCompleto": "Vicolo del Buon Consiglio, 27, 00184 Roma",
+    "citta": "Roma",
+    "provincia": "RM",
+    "regione": "Lazio"
+  },
+  "altreSedi": [
+    {
+      "indirizzoCompleto": "Via Atto Vannucci, 13/1, 20135 Milano",
+      "citta": "Milano",
+      "provincia": "MI",
+      "regione": "Lombardia"
+    }
+  ],
+  "sitoWeb": "https://www.gerundio.net/en/",
+  "annoFondazione": "Oltre 20 anni fa",
+  "numeroDipendentiApprox": "Oltre 30",
+  "serviziOfferti": [
+    "Advertising strategy",
+    "Digital product",
+    "Social content & Media relation",
+    "Phygital events"
+  ],
+  "tecnologieUtilizzate": "Marketing Technology, Web Design, Social Media Marketing",
+  "settoriSpecializzazione": "Brand nazionali e internazionali in vari settori merceologici",
+  "portfolioLink": "https://www.gerundio.net/en/works/",
+  "key_people": [
+    {
+      "nome": "Ramon Sembianza",
+      "ruolo": "Co-founder"
+    },
+    {
+      "nome": "Andrea Sebastiani",
+      "ruolo": "Co-founder"
+    },
+    {
+      "nome": "Carmen Matarrese",
+      "ruolo": "Creative Director"
+    },
+    {
+      "nome": "Maria Anna Vismara",
+      "ruolo": "Media Relation Manager"
+    },
+    {
+      "nome": "Elena Buscemi",
+      "ruolo": "Event Manager"
+    },
+    {
+      "nome": "Andrea Fiorentini",
+      "ruolo": "IT Specialist"
+    },
+    {
+      "nome": "Giulia Valenti",
+      "ruolo": "Web Designer"
+    },
+    {
+      "nome": "Fiamma Pugliese",
+      "ruolo": "Account"
+    },
+    {
+      "nome": "Chiara Famooss Paolini",
+      "ruolo": "Social Media Manager"
+    },
+    {
+      "nome": "Elisa Bonelli",
+      "ruolo": "Graphic Designer"
+    },
+    {
+      "nome": "Andrea Santelli",
+      "ruolo": "Art Director"
+    },
+    {
+      "nome": "Jacopo Tofani",
+      "ruolo": "Video Maker"
+    },
+    {
+      "nome": "Ilaria Gallese",
+      "ruolo": "Graphic Designer"
+    }
+  ],
+  "contatti": {
+    "email": "info@gerundio.net",
+    "social": {
+      "facebook": "https://it-it.facebook.com/gerundio.net",
+      "linkedin": "https://www.linkedin.com/company/gerundio?originalSubdomain=it",
+      "instagram": "https://www.instagram.com/gerundio.company/",
+      "youtube": "https://www.youtube.com/channel/UCKNcGqSWChYg09Q8cUxMhOw"
+    }
+  },
+  "azienda": {
+    "ragioneSociale": "Idea Productions srl",
+    "partitaIva": "IT04137111003"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "name": "dunp",
+  "website": "https://www.dunp.it/",
+  "description": "dunp is an Italian communication agency based in Rome, founded in 2009. They work with entrepreneurs, startups, SMEs, large international players, and institutions. The agency offers tailored digital projects with measurable, realistic, and timely objectives.",
+  "services": [
+    "Communication",
+    "Brand Identity",
+    "Editorial Publishing",
+    "Digital Marketing",
+    "ADV Campaigns",
+    "Websites and e-Commerce",
+    "SEO",
+    "SEM",
+    "Software Development",
+    "Social Media Management",
+    "Audio and Video Spots",
+    "TV and Radio Advertising",
+    "OOH Advertising (Affissioni e Cartellonistica)",
+    "Training and e-Learning"
+  ],
+  "team": "Professionals with over 10 years of experience including graphic designers, social media managers, and journalists focused on creative and effective digital presence.",
+  "location": {
+    "agency_address": "Via G. Rosaccio, 6 - 00156 Roma",
+    "registered_office": "L.go N. Franchellucci, 61 - 00155 Roma",
+    "phone_numbers": ["+39 06 4066 184", "+39 366 675 7160"],
+    "emails": ["info@dunp.it", "ufficiostampa@dunp.it"]
+  },
+  "portfolio": [
+    {
+      "client": "Enel",
+      "services": "Editorial consulting and publishing for financial reports"
+    },
+    {
+      "client": "GCF",
+      "services": "Management software, Apps, and CRM"
+    },
+    {
+      "client": "Toscano Mutui",
+      "services": "Website, landing page, and social media management"
+    },
+    {
+      "client": "Uni.Riz.",
+      "services": "E-commerce platform, e-learning, CRM, and advertising"
+    },
+    {
+      "client": "Presidenza del Consiglio",
+      "services": "National anniversaries department"
+    },
+    {
+      "client": "Ministero degli Esteri",
+      "services": "Multichannel management of the Ideas project"
+    }
+  ],
+  "social_media": {
+    "instagram": "https://www.instagram.com/dunpcomunicazione/",
+    "facebook": "https://www.facebook.com/dunpcomunicazione",
+    "linkedin": "https://www.linkedin.com/company/dunp/",
+    "tiktok": "https://www.tiktok.com/@dunpcomunicazione",
+    "twitter": "https://twitter.com/dunpadv",
+    "youtube": "https://www.youtube.com/c/dunpRoma"
+  },
+  "certifications_and_partnerships": [
+    "Google Partner",
+    "Google Cloud Partner",
+    "Google Workspace Reseller",
+    "Google Workspace for Education Reseller",
+    "Chrome Enterprise Reseller",
+    "Maps Platform Reseller",
+    "Iubenda Gold Partner",
+    "Aruba Business Partner"
+  ],
+  "media_partners": [
+    "H2 APP",
+    "HIC MOBILE",
+    "MEDIAERA",
+    "CMA"
+  ],
+  "notes": "dunp emphasizes collaboration with clients, creativity, and building digital presence with measurable goals. They have a strong portfolio with notable clients and offer a wide range of digital marketing and communication services."
+}

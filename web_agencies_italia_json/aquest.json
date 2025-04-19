@@ -1,0 +1,28 @@
+{
+  "name": "AQuest",
+  "website": "https://www.aquest.it",
+  "description": "AQuest is a creative production and technology company that aims to capture and communicate the essence of a brand and its products by creating memorable experiences. They pride themselves on thorough exploration, attention to detail, and a focus on customer and user needs.",
+  "awards": [
+    "Highest number of digital excellence awards in Italy",
+    "4 Awwwards",
+    "1st Italian FWA (Favourite Website Awards) winner"
+  ],
+  "partnerships": [
+    {
+      "partner": "Ogilvy",
+      "since": "February 2022",
+      "type": "Global Partner"
+    }
+  ],
+  "events": [
+    {
+      "name": "DDDx Palermo",
+      "description": "Annual event hosted by AQuest to meet the needs of their community in central and southern Italy.",
+      "location": "Sicily",
+      "date": "June 27-28 (yearly)"
+    }
+  ],
+  "social_media": {
+    "linkedin": "https://www.linkedin.com/company/aquestdigital"
+  }
+}

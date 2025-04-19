@@ -1,0 +1,36 @@
+{
+  "name": "Leo Burnett Italia",
+  "website": "http://www.leoburnett.it/",
+  "description": "HumanKind è il nostro approccio per scoprire la ragion d'essere di una brand - il suo purpose - e connetterla alle persone e ai loro comportamenti attraverso le idee. Crediamo che ogni cosa che conti nel nostro lavoro inizi e finisca con due parole: People – Behaviour.",
+  "services": [
+    "Advertising",
+    "Marketing",
+    "Communication Campaigns"
+  ],
+  "team": "Key team members include Stelio Spadaro, Francesco Russo (Strategic Director), Ilaria Fruscio, Letizia Pettinari (Senior Art Director), among others.",
+  "clients": [
+    "McDonald's",
+    "Credem",
+    "Saudia"
+  ],
+  "location": {
+    "address": "Viale Edoardo Jenner, 19, 20159 Milan, Lombardy, Italy",
+    "city": "Milan",
+    "country": "Italy",
+    "other_offices": [
+      "Rome",
+      "Turin"
+    ]
+  },
+  "contact": {
+    "email_general": "italycareers@publicisgroupe.com"
+  },
+  "linkedin": "https://www.linkedin.com/company/leoburnettitalia",
+  "notes": [
+    "Founded in 1966",
+    "Public Company",
+    "201-500 employees",
+    "Known for award-winning campaigns such as 'Nocturnal Creatures' for McDonald's Italia",
+    "Offices in Milan, Rome, and Turin"
+  ]
+}

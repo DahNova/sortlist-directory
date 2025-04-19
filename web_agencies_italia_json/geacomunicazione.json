@@ -1,0 +1,119 @@
+{
+  "nomeAgenzia": "Geacomunicazione",
+  "descrizioneBreve": "Agenzia che opera da 10 anni nel campo della comunicazione e del marketing, sempre attenta ai trend comunicativi e in continua evoluzione digitale.",
+  "descrizioneCompleta": "Geacomunicazione è un'agenzia di pubblicità e marketing con 10 anni di esperienza, specializzata in organizzazione fieristica ed espositiva, comunicazione digitale, marketing fieristico e digitale, progettazione grafica e web design. L'agenzia si impegna a offrire servizi innovativi e aggiornati, seguendo i trend comunicativi del momento e adattandosi alle esigenze digitali dei clienti.",
+  "sedePrincipale": {
+    "indirizzoCompleto": "Via Mazzini, 205, c/o Centro Direzionale – 92100 Agrigento",
+    "citta": "Agrigento",
+    "provincia": "AG",
+    "regione": "Sicilia"
+  },
+  "altreSedi": [],
+  "sitoWeb": "https://www.geacomunicazione.it/",
+  "annoFondazione": "Non disponibile",
+  "numeroDipendentiApprox": "Non disponibile",
+  "serviziOfferti": [
+    "Organizzazione Fieristiche ed Espositive",
+    "Comunicazione e Strategie Digitali",
+    "Fiere ed Eventi",
+    "Realizzazione siti internet",
+    "Realizzazione e-commerce",
+    "Gestione Social Network",
+    "Realizzazione grafica pubblicitaria",
+    "Progettazione immagine coordinata",
+    "Stampa panelli ed insegne",
+    "Video aziendali",
+    "Spot pubblicitari",
+    "Video per social network",
+    "Still Life per cataloghi",
+    "Still Life per vetrine virtuali e-commerce",
+    "Marketing Fieristico",
+    "Marketing Digitale",
+    "Sito vetrina",
+    "Grafica & Social Network",
+    "Strategie Digitali",
+    "Consulenza Web Marketing",
+    "Piani di comunicazione",
+    "Organizzazione Mercatini di Prodotti Artigianali",
+    "Cartellonistica e Stampe",
+    "Progettista Grafico",
+    "Web Designer"
+  ],
+  "tecnologieUtilizzate": "Non disponibile",
+  "settoriSpecializzazione": "Non disponibile",
+  "portfolioLink": "https://www.geacomunicazione.it/portfolio_page/",
+  "esempiLavori": [
+    {
+      "nomeProgetto": "Una Fiera per Costruire",
+      "descrizioneBreveProgetto": "Organizzazione di fiere espositive tematiche con progettazione e allestimento spazi, ricerca espositori e sponsor, comunicazione.",
+      "linkProgetto": "https://www.geacomunicazione.it/portfolio_page/unafierapercostruire/"
+    },
+    {
+      "nomeProgetto": "Il Mese degli Sposi",
+      "descrizioneBreveProgetto": "Progetto di web design per eventi fieristici dedicati al settore sposi.",
+      "linkProgetto": "https://www.geacomunicazione.it/portfolio_page/web-design/"
+    },
+    {
+      "nomeProgetto": "Esposizione Artigianato e Prodotti Tipici",
+      "descrizioneBreveProgetto": "Promozione e comunicazione per esposizioni di artigianato e prodotti tipici.",
+      "linkProgetto": "https://www.geacomunicazione.it/portfolio_page/video-produzione/"
+    },
+    {
+      "nomeProgetto": "Sicilian Food Experience",
+      "descrizioneBreveProgetto": "Evento e progetto di marketing nel settore food e beverage siciliano.",
+      "linkProgetto": "https://www.geacomunicazione.it/portfolio_page/sicilian-food-experience/"
+    },
+    {
+      "nomeProgetto": "Progettazione Grafica",
+      "descrizioneBreveProgetto": "Servizi di progettazione grafica e immagine coordinata.",
+      "linkProgetto": "https://www.geacomunicazione.it/portfolio_page/progettazione-grafica/"
+    },
+    {
+      "nomeProgetto": "Social Network",
+      "descrizioneBreveProgetto": "Strategie di marketing e grafica per social network aziendali.",
+      "linkProgetto": "https://www.geacomunicazione.it/portfolio_page/social-network/"
+    },
+    {
+      "nomeProgetto": "Menù Digitale",
+      "descrizioneBreveProgetto": "Progettazione e realizzazione di menù digitali per ristorazione.",
+      "linkProgetto": "https://www.geacomunicazione.it/portfolio_page/menu-digitale/"
+    },
+    {
+      "nomeProgetto": "La stazione dell’artigianato",
+      "descrizioneBreveProgetto": "Organizzazione e comunicazione per eventi di artigianato locale.",
+      "linkProgetto": "https://www.geacomunicazione.it/portfolio_page/la-stazione-dellartigianato/"
+    }
+  ],
+  "premiRiconoscimenti": [],
+  "contatti": {
+    "telefono": [
+      "+39 3207213494",
+      "+39 3939970674"
+    ],
+    "email": [
+      "info@geacomunicazione.it"
+    ],
+    "formContattoLink": "https://www.geacomunicazione.it/contatti/"
+  },
+  "socialLinks": {
+    "linkedin": "Non disponibile",
+    "facebook": "https://www.facebook.com/geacomunicazione/",
+    "instagram": "Non disponibile",
+    "altro": []
+  },
+  "immagineLogoUrl": "https://www.geacomunicazione.it/wp-content/uploads/2020/07/Geacomunicazionelogo-1.png",
+  "immagineSecondariaUrl": "https://www.geacomunicazione.it/wp-content/uploads/2016/02/slide1-1.jpg",
+  "recensioniLink": {
+    "googleMaps": "Non disponibile",
+    "trustpilot": "Non disponibile",
+    "altro": []
+  },
+  "puntiDiForzaUnici": [
+    "Specializzazione in organizzazione fieristica ed espositiva",
+    "Approccio integrato tra marketing digitale e marketing fieristico",
+    "Esperienza decennale nel settore",
+    "Forte attenzione ai trend comunicativi e all'evoluzione digitale",
+    "Offerta di servizi personalizzati e consulenze gratuite"
+  ],
+  "fonteDatiPrimaria": "https://www.geacomunicazione.it/"
+}

@@ -1,0 +1,102 @@
+{
+  "nomeAgenzia": "Made In Magic",
+  "descrizioneBreve": "Web Agency Milano specializzata in SEO, posizionamento Google e comunicazione integrata.",
+  "descrizioneCompleta": "Made In Magic è una Web Agency di Milano, fondata nel 2004 da Erica Galeazzi, che si occupa di realizzazione siti web, ottimizzazione SEO, posizionamento Google, web marketing, grafica pubblicitaria e comunicazione. L'agenzia accompagna i clienti in tutte le fasi del marketing, dalla creazione dell'identità aziendale alla gestione della presenza online e offline, con un forte focus sulla qualità, originalità e risultati concreti. La MiM serve clienti principalmente nel nord Italia ma anche a livello nazionale e internazionale, offrendo servizi personalizzati e innovativi con un team affiatato e in continua formazione.",
+  "sedePrincipale": {
+    "indirizzoCompleto": "Via Figino, 6, 20016 Pero, Milano, Lombardia",
+    "citta": "Pero",
+    "provincia": "Milano",
+    "regione": "Lombardia"
+  },
+  "altreSedi": [],
+  "sitoWeb": "https://www.madeinmagic.it/",
+  "annoFondazione": 2004,
+  "numeroDipendentiApprox": "Non disponibile",
+  "serviziOfferti": [
+    "Sviluppo Web (Siti vetrina, gestionali)",
+    "E-commerce (Piattaforme come Shopify, Magento, custom)",
+    "SEO (Search Engine Optimization)",
+    "SEM / PPC (Google Ads, Meta Ads)",
+    "Social Media Marketing",
+    "Content Marketing / Blogging",
+    "Email Marketing",
+    "Branding / Corporate Identity",
+    "UI/UX Design",
+    "Consulenza Digitale",
+    "Grafica Pubblicitaria",
+    "Altro (Comunicazione integrata, Advertising)"
+  ],
+  "tecnologieUtilizzate": [
+    "Joomla",
+    "WordPress (menzionato come alternativa)",
+    "Altro (Non specificato)"
+  ],
+  "settoriSpecializzazione": [
+    "Turismo",
+    "Food & Beverage",
+    "Fashion & Luxury",
+    "Industria / B2B",
+    "Healthcare / Pharma",
+    "Tech / SaaS",
+    "No Profit",
+    "Pubblica Amministrazione",
+    "Altro (Non specificato)"
+  ],
+  "portfolioLink": "https://www.madeinmagic.it/portfolio-web-agency",
+  "esempiLavori": [
+    {
+      "nomeProgetto": "Metal Art Milano",
+      "descrizioneBreveProgetto": "Siti Web Aziendali per Metal Art Milano.",
+      "linkProgetto": "https://www.madeinmagic.it/siti-web-aziendali-metal-art-milano-ha-scelto-made-in-magic"
+    },
+    {
+      "nomeProgetto": "Scuola dell'Infanzia di Pero",
+      "descrizioneBreveProgetto": "Realizzazione sito internet per la scuola dell'infanzia di Pero.",
+      "linkProgetto": "https://www.madeinmagic.it/realizzazione-siti-internet-milano-la-scuola-dell-infanzia-di-pero"
+    },
+    {
+      "nomeProgetto": "Fondazione Chelli di Grosseto",
+      "descrizioneBreveProgetto": "Creazione sito web per la Fondazione Chelli di Grosseto.",
+      "linkProgetto": "https://www.madeinmagic.it/creazione-siti-web-milano-la-fondazione-chelli-di-grosseto"
+    },
+    {
+      "nomeProgetto": "Basso Informatica",
+      "descrizioneBreveProgetto": "Realizzazione sito web per Basso Informatica.",
+      "linkProgetto": "https://www.madeinmagic.it/realizzazione-siti-web-milano-basso-informatica"
+    }
+  ],
+  "premiRiconoscimenti": [
+    "Miglior Sito Joomla d’Italia 2018 - Terzo posto per Paracas Group",
+    "Concorso Mediastars 2019 - Special Star Interaction Design per Albergo e Motel Motta",
+    "Concorso Mediastars 2019 - 5° posto SEO per Albergo e Motel Motta",
+    "Concorso Mediastars 2019 - 3° posto SEO per Paracas Group",
+    "Concorso Mediastars 2019 - 6° posto SEO per Architetto Daniele Gabetta"
+  ],
+  "contatti": {
+    "telefono": "+39 02 32932518",
+    "email": "info@madeinmagic.it",
+    "formContattoLink": "https://www.madeinmagic.it/web-agency-milano-pero-contatti"
+  },
+  "socialLinks": {
+    "linkedin": "https://www.linkedin.com/company/made-in-magic-web-agency-milano/",
+    "facebook": "https://www.facebook.com/web.agency.milano.madeinmagic",
+    "instagram": "https://www.instagram.com/madeinmagic_agency",
+    "altro": "https://api.whatsapp.com/send?phone=393491249397"
+  },
+  "immagineLogoUrl": "https://www.madeinmagic.it/images/logo_mim_nuvole.png",
+  "immagineSecondariaUrl": "https://www.madeinmagic.it/templates/yootheme/cache/web-agency-milano-pero-hero-e3cecbf0.png",
+  "recensioniLink": {
+    "googleMaps": "Non disponibile",
+    "trustpilot": "Non disponibile",
+    "altro": "Non disponibile"
+  },
+  "puntiDiForzaUnici": [
+    "Approccio data-driven e integrato",
+    "Specializzazione verticale in SEO e posizionamento Google",
+    "Team multidisciplinare interno con formazione continua",
+    "Metodologia Agile",
+    "Forte focus sulla User Experience",
+    "Altro (attenzione al dettaglio e originalità)"
+  ],
+  "fonteDatiPrimaria": "https://www.madeinmagic.it/"
+}

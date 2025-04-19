@@ -1,0 +1,240 @@
+{
+  "name": "Bake Agency",
+  "website": "https://bakeagency.it/",
+  "description": "Bake Agency is a communication agency based in Rome specializing in marketing, advertising, and creative services. They focus on delivering quality projects with passion, interpreting client visions, and providing comprehensive digital communication strategies.",
+  "services": [
+    {
+      "name": "Branding",
+      "details": "Brand strategy, Restyling, Naming & Payoff, Logo design, Brand manual. Creating a recognizable image to differentiate from competitors."
+    },
+    {
+      "name": "Digital Marketing",
+      "details": "SEO, Social Media Marketing, Email Marketing, Market and user analysis. Tailored digital marketing strategies to reach target audiences."
+    },
+    {
+      "name": "Digital Advertising",
+      "details": "Google Ads, Facebook Ads, Instagram Ads, Spotify Ads, Promotional campaigns, Google Tag Manager. Personalized and measurable online advertising campaigns."
+    },
+    {
+      "name": "Social Media Management",
+      "details": "Editorial planning, Social channel management, Content creation, Sponsored posts. Managing social media to achieve client goals."
+    },
+    {
+      "name": "Copywriting",
+      "details": "Article writing, Website copy, Social post copy, Keyword analysis, SEO. Crafting marketing-oriented texts to engage customers."
+    },
+    {
+      "name": "Brand Identity",
+      "details": "Graphic design, Logos, Brochures, Business cards, Gadgets, 3D animation, Packaging. Creating a strong visual identity for brands."
+    },
+    {
+      "name": "Websites",
+      "details": "Showcase sites, E-commerce, Blogs, Landing pages, News sites, GDPR compliance. Custom websites reflecting client vision and usability."
+    },
+    {
+      "name": "Photo & Video",
+      "details": "Photo shoots, Spots, Animations, Promotional videos. Professional visual content to engage audiences."
+    },
+    {
+      "name": "PR & Events",
+      "details": "Digital PR, Radio, Press, TV, Online sites, Brand reputation management. Initiatives and content to enhance brand image."
+    }
+  ],
+  "portfolio": [
+    {
+      "title": "Motion Graphic: Fondartigianato rende chiare le opportunità formative",
+      "category": "Motion Graphic",
+      "client": "Fondartigianato",
+      "url": "https://bakeagency.it/cases/fondartigianato/"
+    },
+    {
+      "title": "Solomon’s: dagli Artwork al Packaging Design",
+      "category": "Art direction | Illustration",
+      "client": "Solomon's",
+      "url": "https://bakeagency.it/cases/artwork-solomons/"
+    },
+    {
+      "title": "The home of Italian distillers",
+      "category": "Brand Identity | Graphic design",
+      "client": "Assodistil",
+      "url": "https://bakeagency.it/cases/assodistil/"
+    },
+    {
+      "title": "Ideas: Il Sito Istituzionale che celebra l’Innovazione italiana",
+      "category": "Art direction | Video | Web design",
+      "client": "Ministero degli Affari Esteri e della Cooperazione Internazionale",
+      "url": "https://bakeagency.it/cases/ideasitaly/"
+    },
+    {
+      "title": "Tradizionalmente innovativi | Logo Design",
+      "category": "Brand Identity | Graphic design | Web design",
+      "client": "Fe.Metal",
+      "url": "https://bakeagency.it/cases/femetal/"
+    },
+    {
+      "title": "JOE e il futuro del lavoro: Un approccio innovativo al Posizionamento del Brand",
+      "category": "Brand Identity | Graphic design | Web design",
+      "client": "Work Experience",
+      "url": "https://bakeagency.it/cases/joe/"
+    },
+    {
+      "title": "Il Rebranding di 026969 nel Mondo dei Taxi di Milano",
+      "category": "Branding | UX | Social Media | Web Marketing",
+      "client": "026969",
+      "url": "https://bakeagency.it/cases/say-yes-to-yellow/"
+    },
+    {
+      "title": "Solomon’s: L’evoluzione stilistica nella creazione della Brand Identity",
+      "category": "Branding | Social media | Graphic design",
+      "client": "Solomon's",
+      "url": "https://bakeagency.it/cases/natural-products-for-man-care-and-well-being-2/"
+    },
+    {
+      "title": "Active thinking",
+      "category": "Branding | Graphic Design | Illustration",
+      "client": "I-Think Italia",
+      "url": "https://bakeagency.it/cases/active-thinking/"
+    },
+    {
+      "title": "Human galaxy",
+      "category": "Art Direction | Copywriting | Illustration",
+      "client": "Samsung",
+      "url": "https://bakeagency.it/cases/human-galaxy-2/"
+    },
+    {
+      "title": "Vino e Passione: Il racconto della Creazione del Logo di Tenimenti d’Alessandro",
+      "category": "Art Direction | Branding | Photography | Comunicazione | Marketing | Pubblicità",
+      "client": "Tenimenti d'Alessandro",
+      "url": "https://bakeagency.it/cases/winery-secrets-2/"
+    },
+    {
+      "title": "PUBLICA: Ridefinire il futuro con uno Sviluppo del Brand deciso",
+      "category": "Branding | UX Design",
+      "client": "ANCI - Publica",
+      "url": "https://bakeagency.it/cases/value-of-knowledge-2/"
+    },
+    {
+      "title": "L’arte del UX Design: Il nuovo Portale Offerte",
+      "category": "Art direction | Branding | Ux design",
+      "client": "Acquirente Unico S.p.a. - Portale Offerte",
+      "url": "https://bakeagency.it/cases/energy-is-fair-if-aware-2/"
+    },
+    {
+      "title": "Il nuovo gusto del web: Il Restyling dei siti web Löwengrube",
+      "category": "Art Direction | Graphic Design | Comunicazione & web marketing | Pubblicità",
+      "client": "Löwengrube",
+      "url": "https://bakeagency.it/cases/let-it-beer-2/"
+    },
+    {
+      "title": "L’Evoluzione Artistica di MM con il Restyling del Logo",
+      "category": "Brand Identity | Graphic Design | UX Design | Social media",
+      "client": "MM - Agency & Management",
+      "url": "https://bakeagency.it/cases/talent-creation/"
+    },
+    {
+      "title": "Your export managers team",
+      "category": "Branding | UX Design",
+      "client": "Roberto Ceraudo",
+      "url": "https://bakeagency.it/cases/your-export-managers-team-2/"
+    },
+    {
+      "title": "On the way back",
+      "category": "Branding | Graphic Design",
+      "client": "International Organization of Migrants - Mo.Tu.Se.",
+      "url": "https://bakeagency.it/cases/on-the-way-back/"
+    },
+    {
+      "title": "A fair deal",
+      "category": "Art Direction | Web Design | Web Developement",
+      "client": "Articolo UNO - MDP",
+      "url": "https://bakeagency.it/cases/a-fair-deal/"
+    }
+  ],
+  "vision": "Bake Agency is committed to quality work, interpreting client visions with passion and delivering projects that balance creativity and precision. Their manifesto emphasizes trust in brand building, the importance of digital communication, and exploring the full potential of communication to help brands express themselves and achieve their goals. They operate primarily from Rome with a network of professionals.",
+  "team": [
+    {
+      "name": "Daniele Votta",
+      "role": "CEO & Founder",
+      "photo": "https://bakeagency.it/wp-content/uploads/2021/03/Daniele-300x300.png"
+    },
+    {
+      "name": "Guido Catalusci",
+      "role": "Full Stack Developer",
+      "photo": "https://bakeagency.it/wp-content/uploads/2022/05/guidocatalusci_2-300x300.png"
+    },
+    {
+      "name": "Andrea Ferretti",
+      "role": "Graphic Designer",
+      "photo": "https://bakeagency.it/wp-content/uploads/2022/05/andreaferretti-300x300.png"
+    },
+    {
+      "name": "Enrico Cogno",
+      "role": "Communication Strategist",
+      "photo": "https://bakeagency.it/wp-content/uploads/2021/03/enricocogno-300x300.png"
+    },
+    {
+      "name": "Alessandro Petroni",
+      "role": "Digital Analyst",
+      "photo": "https://bakeagency.it/wp-content/uploads/2022/09/Alex-Petroni.png",
+      "certifications": ["Google & Iubenda certified"]
+    },
+    {
+      "name": "Vincenza Squitti",
+      "role": "Administration",
+      "photo": "https://bakeagency.it/wp-content/uploads/2021/03/vincenzasquitti-300x300.png"
+    },
+    {
+      "name": "Sara Furlanetto",
+      "role": "Digital Marketing",
+      "photo": "https://bakeagency.it/wp-content/uploads/2024/03/S-Sara-Furlanetto-300x300.webp"
+    },
+    {
+      "name": "Sara Nicosia",
+      "role": "Social Media Manager",
+      "photo": "https://bakeagency.it/wp-content/uploads/2022/05/sarahmarzi-300x300.png"
+    },
+    {
+      "name": "Giovanni Biasi",
+      "role": "Web Development",
+      "photo": "https://bakeagency.it/wp-content/uploads/2023/12/G1-300x300.png"
+    },
+    {
+      "name": "Gabriele Rigon",
+      "role": "Photographer",
+      "photo": "https://bakeagency.it/wp-content/uploads/2023/12/G2-300x300.png"
+    },
+    {
+      "name": "Alessandro Lozupone",
+      "role": "Art Director & Graphic Designer",
+      "photo": "https://bakeagency.it/wp-content/uploads/2021/03/alessandrolozupone-300x300.png"
+    },
+    {
+      "name": "Tommaso Guerra",
+      "role": "Art Director",
+      "photo": "https://bakeagency.it/wp-content/uploads/2021/10/tommasoguerra.jpg"
+    },
+    {
+      "name": "Francesco Andreani",
+      "role": "IT specialist",
+      "photo": "https://bakeagency.it/wp-content/uploads/2021/03/francescoandreani-300x300.png"
+    },
+    {
+      "name": "Marzia Votta",
+      "role": "Graphic Designer Junior",
+      "photo": "https://bakeagency.it/wp-content/uploads/2022/07/marzia-300x300.jpg"
+    }
+  ],
+  "contact": {
+    "address": "Viale Gorizia, 24/B, 00198 Roma, Italia",
+    "phone": "+39 06 888 05 627",
+    "email": "info@bakeagency.it"
+  },
+  "social_media": {
+    "facebook": "https://www.facebook.com/bakeagency",
+    "twitter": "https://x.com/BakeAgency",
+    "instagram": "https://www.instagram.com/bakeagency/",
+    "linkedin": "https://www.linkedin.com/company/bake-agency/",
+    "behance": "https://www.behance.net/bakeagency"
+  },
+  "brochure_pdf": "https://bakeagency.it/wp-content/uploads/2024/03/Bake-CompanyProfile-ITA.pdf"
+}

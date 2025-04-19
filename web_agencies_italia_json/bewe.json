@@ -1,0 +1,107 @@
+{
+  "name": "Be-We srl",
+  "website": "https://www.bewesrl.com/",
+  "founded": 2011,
+  "description": "Be-We helps companies promote their business on the web through many opportunities to increase sales, bookings, and inquiries. They design and create web strategies tailored to each company by analyzing current data and improving it day by day.",
+  "mission": "Enable companies to use innovative digital marketing strategies to strengthen their digital positioning through a team updated on new trends.",
+  "services": [
+    {
+      "name": "Piano di digital Marketing",
+      "url": "https://www.bewesrl.com/servizi-web/piano-digital-marketing"
+    },
+    {
+      "name": "SEO e posizionamento",
+      "url": "https://www.bewesrl.com/servizi-web/seo-posizionarsi-google"
+    },
+    {
+      "name": "Digital Advertising",
+      "url": "https://www.bewesrl.com/servizi-web/adv-campagne-web-marketing"
+    },
+    {
+      "name": "Comparatori di prezzo",
+      "url": "https://www.bewesrl.com/servizi-web/comparatori-di-prezzo"
+    },
+    {
+      "name": "Brand communication",
+      "url": "https://www.bewesrl.com/servizi-web/brand-communication"
+    },
+    {
+      "name": "Web Analytics e CRO",
+      "url": "https://www.bewesrl.com/servizi-web/web-analytics-e-cro"
+    }
+  ],
+  "team": [
+    {
+      "name": "Filippo Sogus",
+      "role": "CEO & SEO Manager",
+      "linkedin": "https://www.linkedin.com/in/filipposogus/",
+      "calendly": "https://calendly.com/be-we-srl/consulenza-con-filippo-sogus-be-we"
+    },
+    {
+      "name": "Laura Serrenti",
+      "role": "Copywriter & Email Marketing Manager",
+      "linkedin": "https://www.linkedin.com/in/laura-serrenti/"
+    },
+    {
+      "name": "Marco Durzu",
+      "role": "SEO Specialist",
+      "linkedin": "https://www.linkedin.com/in/marco-durzu/"
+    },
+    {
+      "name": "Rossana Meloni",
+      "role": "Copywriter Specialist",
+      "linkedin": "https://www.linkedin.com/in/rossana-meloni/"
+    },
+    {
+      "name": "Valeria Erriu",
+      "role": "SEO Manager",
+      "linkedin": "https://www.linkedin.com/in/valeria-erriu-b91362189/"
+    },
+    {
+      "name": "Azzurra Ariu",
+      "role": "Google Advertising Specialist",
+      "linkedin": "https://www.linkedin.com/in/azzurra-ariu/"
+    },
+    {
+      "name": "Ilario Gobbi",
+      "role": "SEO Specialist",
+      "linkedin": "https://www.linkedin.com/in/ilario-gobbi-7795102b/"
+    },
+    {
+      "name": "Alessio Mandis",
+      "role": "Strategist & SEO Manager",
+      "linkedin": "https://www.linkedin.com/in/alessio-mandis-09b11b72/"
+    },
+    {
+      "name": "Luca Lampis",
+      "role": "SEO Specialist",
+      "linkedin": "https://www.linkedin.com/in/luca-lampis/"
+    }
+  ],
+  "contact": {
+    "address": "Via Cavour 25 Gonnosfanadiga (SU)",
+    "phone": "+39 070 773 2344",
+    "email": "[email protected]"
+  },
+  "social_media": {
+    "facebook": "https://www.facebook.com/bewesrl/",
+    "linkedin": "https://it.linkedin.com/company/be-we-srl",
+    "instagram": "https://www.instagram.com/bewesrl/",
+    "twitter": "https://twitter.com/BeWesrl"
+  },
+  "certifications": [
+    {
+      "name": "Google Premier Partner",
+      "url": "https://www.google.com/partners/agency?id=2232383937"
+    }
+  ],
+  "reputation": {
+    "reviews": [
+      {
+        "source": "DesignRush",
+        "url": "https://www.designrush.com/agency/profile/bewe-srl",
+        "summary": "The agency is noted for competence, availability, flexibility, and the ability to listen to clients and understand their context while developing company logos, websites, and related materials."
+      }
+    ]
+  }
+}
