@@ -1,0 +1,27 @@
+{
+  "name": "We Are Social",
+  "website_url": "https://wearesocial.com/it/",
+  "description": "We are a global socially-led creative agency with unrivalled social media expertise. With 1,300 people in 19 offices spanning four continents, we deliver a global perspective to our clients in a time when social media is shaping culture.",
+  "locations": [
+    {
+      "address": "Corso S. Gottardo, 42A, 20136 Milano, Italy",
+      "phone": "+39 02 8970 8500",
+      "email": "info@wearesocial.net"
+    }
+  ],
+  "vat_number": "06969400966",
+  "group_affiliation": "",
+  "technologies": [],
+  "services": [
+    "Strategy",
+    "Creative",
+    "Production",
+    "Media & Distribution",
+    "Influence Marketing",
+    "Gaming",
+    "Sport",
+    "Studios"
+  ],
+  "notable_clients_partners": [],
+  "values": []
+}

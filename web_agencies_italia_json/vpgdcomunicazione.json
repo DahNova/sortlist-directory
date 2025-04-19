@@ -1,0 +1,30 @@
+{
+  "name": "VPGD Comunicazione & Marketing",
+  "website_url": "https://www.vpgdcomunicazione.it/",
+  "description": "VPGD Comunicazione & Marketing is an advertising agency and graphic office founded in 2002. They offer services including graphic design, communication and marketing, web marketing, SEO and SEM, social media marketing, and event organization. The agency has offices in Rome and Milan and focuses on helping clients gain online contacts and improve their Google rankings.",
+  "locations": [
+    {
+      "address": "Rome, Italy",
+      "phone": "",
+      "email": ""
+    },
+    {
+      "address": "Milan, Italy",
+      "phone": "",
+      "email": ""
+    }
+  ],
+  "vat_number": "",
+  "group_affiliation": "",
+  "technologies": [],
+  "services": [
+    "Graphic design",
+    "Communication and marketing",
+    "Web marketing",
+    "SEO and SEM",
+    "Social media marketing",
+    "Event organization"
+  ],
+  "notable_clients_partners": [],
+  "values": []
+}

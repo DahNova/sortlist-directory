@@ -1,0 +1,26 @@
+{
+  "name": "The Rope",
+  "website_url": "https://therope.it/en/",
+  "description": "The Rope is a web agency based in Milan, Italy. They specialize in creating structured digital projects and offer 360° services, from design management to multi-channel strategy development. The agency focuses on helping companies innovate, understand user needs, and create digital products and services.",
+  "locations": [
+    {
+      "address": "Milan, Italy",
+      "phone": "",
+      "email": ""
+    }
+  ],
+  "vat_number": "",
+  "group_affiliation": "",
+  "technologies": [],
+  "services": [
+    "Web design",
+    "Branding",
+    "Web development",
+    "E-commerce solutions",
+    "SEO/SEM optimization",
+    "SEM campaigns",
+    "Remarketing using Google AdWords"
+  ],
+  "notable_clients_partners": [],
+  "values": []
+}
