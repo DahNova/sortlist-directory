@@ -1,0 +1,32 @@
+{
+  "name": "WEB DOMUS DI SANTORO CARMINE",
+  "website_url": "https://www.webdomus.net/",
+  "description": "Realizzazione App Mobile-Siti Web ed E-commerce: Da 15 anni offriamo ai nostri clienti soluzioni professionali adatto a ogni tipo di business.",
+  "locations": [
+    {
+      "address": "Via Colle Dell’Orso, 21, 86100 Campobasso, Italy",
+      "phone": "+39 0874 484661",
+      "email": "info@webdomus.net",
+      "opening_hours": "Monday to Friday, 9:00 - 18:00"
+    }
+  ],
+  "vat_number": "00986660702",
+  "group_affiliation": "",
+  "technologies": [],
+  "services": [
+    "Realizzazione Siti Web",
+    "E-commerce",
+    "Sviluppo e realizzazione APP per iPhone e Android",
+    "Social Media Marketing",
+    "Web Marketing",
+    "Servizi SEO Professionali"
+  ],
+  "notable_clients_partners": [],
+  "values": [],
+  "social_media": {
+    "facebook": "https://www.facebook.com/webdomusitalia",
+    "twitter": "https://x.com/webdomus",
+    "linkedin": "https://www.linkedin.com/company/web-domus-italia",
+    "instagram": "https://www.instagram.com/webdomus/"
+  }
+}

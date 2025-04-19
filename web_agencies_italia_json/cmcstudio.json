@@ -1,0 +1,38 @@
+{
+  "name": "CMC Studio S.r.l.",
+  "website_url": "https://www.cmc-studio.it/cmc/",
+  "description": "CMC Studio è un’agenzia di comunicazione integrata: ci occupiamo di comunicare i tuoi progetti, di dare forma alle tue idee, di raccontare la tua storia. Ti ascoltiamo e pianifichiamo insieme le migliori strategie per il tuo business.",
+  "locations": [
+    {
+      "address": "Agrigento e Capo d'Orlando (ME), Italia",
+      "phone": "",
+      "email": "info@cmc-studio.it",
+      "opening_hours": ""
+    }
+  ],
+  "vat_number": "02648570840",
+  "group_affiliation": "",
+  "technologies": [],
+  "services": [
+    "Sviluppo immagine",
+    "Ideazione brand",
+    "Siti web",
+    "Social media management",
+    "Logo design",
+    "Immagine coordinata",
+    "Ufficio stampa",
+    "Event design",
+    "Servizi fotografici e video",
+    "Marketing e advertising",
+    "Packaging",
+    "Campagne elettorali",
+    "Comunicazione aziendale e CSR"
+  ],
+  "social_media": {
+    "facebook": "https://www.facebook.com/cmcstudiosrl/",
+    "twitter": "https://twitter.com/CMC_Studio",
+    "linkedin": "https://www.linkedin.com/company-beta/10980805",
+    "youtube": "https://www.youtube.com/channel/UCGHhEhJrrCP6h2vtMbnrXRA",
+    "instagram": "https://www.instagram.com/cmc_studio.it/"
+  }
+}

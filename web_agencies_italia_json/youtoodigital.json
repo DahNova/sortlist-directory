@@ -1,0 +1,30 @@
+{
+  "name": "YOUTOO DIGITAL S.R.L.",
+  "website_url": "http://www.youtoo.digital",
+  "description": "Youtoo Digital è un’innovativa web agency con sede a Milano, che fornisce soluzioni di comunicazione digitale: dalla progettazione di siti al creative design e al seo marketing. Supporta i clienti con progetti strategici finalizzati al raggiungimento di obiettivi specifici lavorando quotidianamente a contatto col cliente.",
+  "locations": [
+    {
+      "address": "Via Francesco Melzi D'eril 44, 20154 Milano, Italia",
+      "phone": "+39 344 2726861",
+      "email": "ciao@youtoo.digital",
+      "opening_hours": ""
+    },
+    {
+      "address": "Bastioni di Porta Nuova, 21, 20121 Milano MI, Italia"
+    },
+    {
+      "address": "Viale Luigi Majno, 21, Milano, MI 20122, Italia"
+    }
+  ],
+  "vat_number": "09809570964",
+  "group_affiliation": "",
+  "technologies": [],
+  "services": [
+    "Digital Marketing",
+    "Social Media Management",
+    "Web Design",
+    "Brand Identity",
+    "SEO Strategy",
+    "Photo & Video Production"
+  ]
+}

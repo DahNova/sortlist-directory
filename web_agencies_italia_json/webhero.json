@@ -1,0 +1,81 @@
+{
+  "name": "Webhero SRL",
+  "website_url": "https://www.webhero.it",
+  "description": "Webhero è la Performance Marketing Agency agenzia Partner di Google e Meta che mette i Superpoteri alla tua azienda. Siamo un team data-driven specializzato in SEO e Advertising, posizionati nel top 3% delle migliori agenzie in Italia come Google Premier Partner.",
+  "locations": [
+    {
+      "address": "Via Giacomo Peroni 452, 00131 Rome, Lazio, Italy",
+      "phone": "+39 068 386 005",
+      "email": "info@webhero.it",
+      "opening_hours": "Monday to Friday, 9:00 - 18:00"
+    }
+  ],
+  "vat_number": "15845821006",
+  "group_affiliation": "",
+  "technologies": [
+    "Google Ads",
+    "Meta Ads",
+    "TikTok Ads",
+    "SEO",
+    "E-commerce",
+    "AI",
+    "Web Development"
+  ],
+  "services": [
+    "Agenzia SEO",
+    "Google ADS",
+    "Meta ADS",
+    "TikTok ADS",
+    "Link Building e Digital PR",
+    "Google ADS Ecommerce",
+    "Meta ADS ecommerce",
+    "TikTok ADS Ecommerce",
+    "Sky Advertising",
+    "Realizzazione siti SEO",
+    "Realizzazione Ecommerce",
+    "ecommerce WordPress",
+    "Consulente SEO",
+    "Consulenza SEO Ecommerce",
+    "Consulente Google ADS",
+    "Consulente GA4",
+    "Consulenza Web Analytics",
+    "Consulenza AI"
+  ],
+  "notable_clients_partners": [
+    "Caleffi",
+    "Salvatore Aranzulla",
+    "Ansa",
+    "Adnkronos",
+    "Metro",
+    "Milano Finanza",
+    "La Repubblica",
+    "Eco Bio Boutique",
+    "Emporio Chesterfield",
+    "Scuola Comics",
+    "BricoShop 24",
+    "EfficaceMente",
+    "Devid Label",
+    "Fisio Store",
+    "Venova",
+    "Studiolfattivo",
+    "Unikem",
+    "SharkNet Company",
+    "Miteco",
+    "Eurmotor BMW",
+    "bSoul"
+  ],
+  "values": [
+    "Data-driven approach",
+    "Client success focus",
+    "Innovation with AI and neuromarketing",
+    "Continuous optimization",
+    "Transparency and communication"
+  ],
+  "social_media": {
+    "facebook": "https://www.facebook.com/webherowebagencyroma/",
+    "youtube": "https://www.youtube.com/channel/UCKPxUihgtOLp0X_idww6_7w",
+    "tiktok": "https://www.tiktok.com/@webhero_agency/",
+    "linkedin": "https://www.linkedin.com/company/webhero-web-agency-roma/",
+    "instagram": "https://www.instagram.com/webhero_agency/"
+  }
+}
