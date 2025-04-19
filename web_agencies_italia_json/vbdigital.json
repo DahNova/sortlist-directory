@@ -1,0 +1,36 @@
+{
+  "name": "V.B. DIGITAL",
+  "url": "https://www.vbdigital.it/",
+  "location": {
+    "legal_address": "Via Micca, 24/26",
+    "legal_postal_code": "28100",
+    "legal_city": "Novara",
+    "operational_address": "Via Micca, 24/26",
+    "operational_postal_code": "28100",
+    "operational_city": "Novara",
+    "country": "Italy"
+  },
+  "contact": {
+    "phone": [
+      "+39 346 0251689"
+    ],
+    "email": "info@vbdigital.it"
+  },
+  "social_media": {
+    "facebook": "https://www.facebook.com/vbdigitalsrls/",
+    "instagram": "https://www.instagram.com/vb_digital/",
+    "twitter": null,
+    "linkedin": "https://www.linkedin.com/company/vb-digital/",
+    "youtube": "https://www.youtube.com/channel/UCrikmkuDFZIJ_mEoJwV9T4w"
+  },
+  "description": "V.B. DIGITAL è una web marketing agency innovativa che opera in tutta Italia per aiutare le aziende a sviluppare la loro presenza digitale a 360°.",
+  "services": [
+    "Analisi Web Marketing",
+    "Consulenza Web Marketing",
+    "Siti Web & E-commerce",
+    "Pubblicità Online",
+    "Posizionamento SEO",
+    "Social Media Marketing"
+  ],
+  "logo_url": "https://www.vbdigital.it/wp-content/uploads/2025/03/logo-vbdigital.svg"
+}

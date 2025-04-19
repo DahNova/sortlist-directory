@@ -1,0 +1,52 @@
+{
+  "name": "Marcosh.net",
+  "url": "https://marcosh.net/",
+  "location": {
+    "address": "Via Piero Gobetti, 7",
+    "city": "Pavia",
+    "postal_code": "27100",
+    "province": "PV",
+    "country": "Italy"
+  },
+  "contact": {
+    "email": "info@marcosh.net",
+    "phone": "+39 0382.24566"
+  },
+  "social_media": {
+    "facebook": "https://www.facebook.com/Marcoshnet-Agenzia-pubblicitaria-91825545300",
+    "instagram": "https://www.instagram.com/marcoshnet/",
+    "linkedin": "https://www.linkedin.com/company/marcoshnet/"
+  },
+  "description": "Web agency based in Pavia since 2004, specializing in communication, marketing, and website creation for clients in Pavia province and all over Italy. Marcosh.net offers comprehensive digital communication services including website creation, advertising on web and print, web marketing (SEO, SEM, social media, email marketing), and traditional communication such as brochures, branding, packaging, and video production.",
+  "services": [
+    "Website creation (static and dynamic)",
+    "Advertising on web and print",
+    "Web marketing: SEO, SEM, social media marketing, email marketing",
+    "Traditional communication: brochures, branding, packaging, video production"
+  ],
+  "notable_info": {
+    "certifications_partners": [
+      "Google Partner",
+      "Meta Business Partner",
+      "Bancomail",
+      "Digital Mentor"
+    ],
+    "ceo": "Marco Signorelli",
+    "marketing_book": "IL MARKETING CHE FUNZIONA"
+  },
+  "portfolio_url": "https://marcosh.net/portfolio.html",
+  "blog_url": "https://marcosh.net/blog/",
+  "areas_served": [
+    "Pavia",
+    "Alessandria",
+    "Arona",
+    "Gallarate",
+    "Genova",
+    "Milano",
+    "Novara",
+    "Varese",
+    "Vercelli",
+    "Vigevano",
+    "Voghera"
+  ]
+}

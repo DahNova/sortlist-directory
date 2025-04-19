@@ -1,0 +1,77 @@
+{
+  "name": "Creativemotions di Gabriele Taffi",
+  "website": "https://www.creativemotions.it",
+  "description": "Creativemotions è un'agenzia web di Ancona specializzata nella creazione di siti web ad Ancona e provincia, offrendo soluzioni personalizzate per aziende e professionisti. La nostra web agency di Ancona si occupa di progettazione e sviluppo di siti internet, con particolare attenzione alla realizzazione di e-commerce moderni e performanti. Offriamo consulenza web e consulenza SEO ad Ancona e provincia per migliorare il posizionamento su Google, adottando strategie SEO efficaci e mirate. Grazie alla nostra esperienza, aiutiamo i clienti a valorizzare la loro presenza online, creando soluzioni digitali su misura per massimizzare visibilità e conversioni. Oltre che ad Ancona e provincia, operiamo anche su tutto il territorio nazionale.",
+  "logo": "https://www.creativemotions.it/wp-content/uploads/2014/11/LogoCreativeMotions@2x.png",
+  "social_media": {
+    "facebook": "https://www.facebook.com/creativemotions.it",
+    "twitter": "https://twitter.com/Creativemotion1",
+    "instagram": "https://www.instagram.com/creativemotions/",
+    "linkedin": "https://www.linkedin.com/company/creativemotions",
+    "pinterest": "https://it.pinterest.com/creativemnts/",
+    "youtube": "https://www.youtube.com/@creativemotions1585"
+  },
+  "locations": [
+    {
+      "name": "Ancona HQ",
+      "address": "Via Rovereto, 31/a, 60124 Ancona, Italia",
+      "map_url": "https://www.google.com/maps/place/44.4056,13.5103"
+    }
+  ],
+  "contact": {
+    "email": "info@creativemotions.it",
+    "phone": "3931983577"
+  },
+  "founding_date": "2011",
+  "vat_id": "IT02584330423",
+  "legal_name": "Gabriele Taffi",
+  "team_size": 2,
+  "core_services": [
+    "Realizzazione siti web ed e-commerce professionali",
+    "SEO Audit",
+    "Consulenza SEO",
+    "Posizionamento sui motori di ricerca (SEO)",
+    "Web marketing e social media marketing",
+    "Assistenza e manutenzione WordPress",
+    "Rimozione malware da WordPress"
+  ],
+  "specialties": [
+    "Web design",
+    "E-commerce development",
+    "SEO optimization",
+    "Web marketing",
+    "Social media marketing",
+    "WordPress support and maintenance",
+    "Malware removal"
+  ],
+  "solutions": [
+    "Siti per hotel e B&B",
+    "Siti per agenzie immobiliari"
+  ],
+  "portfolio": [
+    {
+      "title": "Sito web Studio Benetazzo",
+      "description": "Migrazione del sito web dell’Ing. Flavia Benetazzo dello Studio Benetazzo, consulenza in Brevetti e Design presso altro hosting, revisione."
+    },
+    {
+      "title": "Sito web impresa edile Baldini Sandro",
+      "description": "Sito web realizzato per l’impresa edile Baldini Sandro di Camerano (ANCONA)."
+    },
+    {
+      "title": "Sito web b&b Locanda del Picchio Loreto",
+      "description": "Sito web realizzato per il bed & Breakfast Locanda del Picchio di Loreto (Ancona)."
+    },
+    {
+      "title": "E-commerce rosa della natura",
+      "description": "Ecommerce realizzato per lo shop dell’azienda Dorica Cosmetics srl. di Ancona per la vendita di prodotti cosmetici bio."
+    },
+    {
+      "title": "Sito web System di Rosati s.r.l.",
+      "description": "Sito web realizzato per l’azienda System di Rosati, leader nella progettazione e produzione di prodotti elettromeccanici."
+    },
+    {
+      "title": "Sito web per l’azienda CMV Cylinders",
+      "description": "Sito web realizzato in partnership con Exceed Italia per l’azienda CMV Cylinders s.r.l. specializzata nella produzione di bombole di gas."
+    }
+  ]
+}

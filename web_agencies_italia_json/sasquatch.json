@@ -1,0 +1,37 @@
+{
+  "name": "SASQUATCH",
+  "url": "https://www.sasquatch.it/",
+  "location": {
+    "legal_address": "Via Lamarmora, 73",
+    "legal_postal_code": "10128",
+    "legal_city": "Torino",
+    "operational_address": "Via Moncalvo, 3/C",
+    "operational_postal_code": "15121",
+    "operational_city": "Alessandria",
+    "country": "Italy"
+  },
+  "contact": {
+    "phone": [
+      "+39 0131 250094",
+      "+39 331 9019320"
+    ],
+    "email": "[email protected]"
+  },
+  "social_media": {
+    "facebook": "https://www.facebook.com/sasquatchwebagency/",
+    "instagram": "https://www.instagram.com/sasquatch_adv/",
+    "twitter": "https://twitter.com/sasquatchweb",
+    "linkedin": null
+  },
+  "description": "SASQUATCH is an advertising communication agency specialized in Graphic Design, Printing, and Website Creation in Alessandria. They offer comprehensive communication services for private clients and companies, including website creation, e-commerce, graphic design, printing center, personalized clothing, custom application development, and web marketing.",
+  "services": [
+    "Realizzazione Siti Web",
+    "E-Commerce",
+    "Studio Grafico",
+    "Centro Stampa",
+    "Abbigliamento Personalizzato",
+    "Sviluppo Applicativi",
+    "Web Marketing"
+  ],
+  "logo_url": "https://www.sasquatch.it/storage/2017/01/logo-piccolo.png"
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Differens",
+  "website": "https://www.differens.it/en/home-english/",
+  "description": "Differens Marketing & Innovation was founded in 2008 by two partners to provide advanced integrated services in marketing, digital marketing, and online communication. The team includes creatives, web designers, UX/UI designers, developers, SEO specialists, web marketing specialists, communication technicians, and video production.",
+  "logo": "https://www.differens.it/wp-content/uploads/2022/03/differens-logo-2.png",
+  "social_media": {},
+  "locations": [
+    {
+      "name": "Ancona HQ",
+      "address": "Via Caduti del Lavoro, 4, 60131 Ancona, Italy",
+      "map_url": "https://www.google.com/maps/place/Via+Caduti+del+Lavoro,+4,+60131+Ancona,+Italy"
+    }
+  ],
+  "contact": {
+    "email": "info@differens.it",
+    "phone": "+39 071 2901273"
+  },
+  "founding_date": "2008",
+  "vat_id": "IT02359160427",
+  "legal_name": "Differens Srl",
+  "team_size": null,
+  "core_services": [
+    "Digital Strategy: online strategy design, social media marketing, search engine optimization, data analytics",
+    "Growth Marketing: digital marketing for fast customer growth, programmatic advertising, marketing automation, conversion rate optimization",
+    "Demand Generation: lead & demand generation campaigns, inbound marketing, pay per click advertising",
+    "Web/Mobile Apps and Media: UX/UI design, web and app development, mobile development, video storytelling"
+  ],
+  "specialties": [
+    "Digital marketing",
+    "Web design and development",
+    "SEO",
+    "Growth marketing",
+    "Demand generation",
+    "Mobile app development",
+    "Video storytelling"
+  ],
+  "certifications": [
+    "Google Partner certified"
+  ]
+}

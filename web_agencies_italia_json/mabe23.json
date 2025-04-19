@@ -1,0 +1,36 @@
+{
+  "name": "MABE23 Web Consulting",
+  "url": "https://mabe23.it/",
+  "description": "La web agency di Alessandria e Milano fornisce consulenze di Web Design, Web Marketing e grafica per piccole e grandi aziende di tutta Italia e Svizzera. Avviciniamo le persone al digitale.",
+  "services": [
+    "Web Marketing",
+    "Web Design",
+    "Studio Grafico",
+    "Siti eCommerce",
+    "UI e UX design",
+    "Web Advertising",
+    "SEO",
+    "Social Media Marketing",
+    "Content Marketing",
+    "Brand Identity",
+    "Formazione Digitale"
+  ],
+  "contact": {
+    "phone": "0131060003",
+    "linkedin": "http://it.linkedin.com/in/mberetta",
+    "skype": "skype:mabe23"
+  },
+  "vat_id": "02437110063",
+  "founding_date": "2014-05-15",
+  "offices": [
+    {
+      "address": "Via Milano 117, 15121 Alessandria [AL]"
+    },
+    {
+      "address": "Via Copernico 38, 20125 Milano [MI]"
+    }
+  ],
+  "legal_office": "Via Moccagatta, 15121 Alessandria [AL]",
+  "logo_url": "https://mabe23.it/wp-content/uploads/cropped-logo_MB_2018_b.jpg",
+  "main_image_url": "https://mabe23.it/wp-content/uploads/sf_bg_1.jpg"
+}

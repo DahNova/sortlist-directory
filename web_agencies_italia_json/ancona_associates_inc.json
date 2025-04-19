@@ -1,0 +1,32 @@
+{
+  "name": "Ancona + Associates, Inc.",
+  "website": "https://ancona-a.com/",
+  "description": "Experience strategy & design for visitor attractions, retail experiences and digital environments.",
+  "business_model": "Core team of creative leaders assembling seasoned associates on a project basis, with over 30 years of experience managing multi-disciplinary projects for museums, government agencies, and global corporations. Focus on client needs with on-demand methodologies and virtual services.",
+  "services": [
+    "Experience Strategy",
+    "Brand & Identity Design",
+    "Digital Design",
+    "Exhibit Design",
+    "Retail Design"
+  ],
+  "address": "1220 SW Morrison Street #1200 Portland, OR 97205",
+  "contact": {
+    "email": "portland@ancona-a.com",
+    "phone": "(503) 274-4444",
+    "fax": "(503) 961-7797"
+  },
+  "social_media": {
+    "facebook": "https://www.facebook.com/ancona.associates/",
+    "linkedin": "https://www.linkedin.com/company/ancona-associates-inc-/",
+    "vimeo": "https://vimeo.com",
+    "twitter": "http://twitter.com"
+  },
+  "key_people": [
+    {
+      "name": "Tomas Ancona",
+      "role": "Founder",
+      "bio": "Tomas Ancona has over thirty years of international experience designing and directing large-scale interdisciplinary projects for government, cultural and corporate clients. He has a background in architecture and design, and has held leadership roles including Global Creative Director of Nike Retail."
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Kiway",
+  "website": "https://www.kiway.it",
+  "logo": "https://www.kiway.it/wp-content/uploads/2021/04/kiway-logo-sq-pos.png",
+  "description": "Kiway is a web agency and communication company located in Alessandria, Italy. They have developed over 500 projects including e-commerce sites and advertising campaigns online and offline.",
+  "address": {
+    "street": "via Pistoia 17",
+    "city": "Alessandria",
+    "postal_code": "15121",
+    "country": "Italy"
+  },
+  "phone": "+39 0131 536257",
+  "opening_hours": "Monday to Friday 09:00-17:00",
+  "services": [
+    "Branding",
+    "E-commerce Development",
+    "SEO",
+    "Social Media Management",
+    "Web Marketing",
+    "Website Development"
+  ],
+  "social_media": {
+    "facebook": "https://www.facebook.com/kiwaycreative/"
+  },
+  "notable_clients": [
+    "Fineco",
+    "Campari",
+    "Casamartini",
+    "Fondazione Albero della Vita",
+    "Che Amordicaffe",
+    "Bosca",
+    "Giraudi",
+    "Mazzetti",
+    "Safa",
+    "Gefit",
+    "OMEF Group",
+    "Prisma Impianti"
+  ],
+  "portfolio_url": "https://www.kiway.it/portfolio/",
+  "case_study_url": "https://www.kiway.it/case-study/"
+}

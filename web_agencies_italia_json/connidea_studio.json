@@ -1,0 +1,28 @@
+{
+  "name": "Connidea Studio",
+  "website": "https://www.connidea.com/",
+  "description": "Connidea is a young, dynamic, and creative group focused on digital, websites, e-commerce, and web marketing, helping companies achieve their goals and project towards the future. Based in Ancona, Marche, Italy.",
+  "address": {
+    "street": "Via Giordano Bruno, 34",
+    "postal_code": "60127",
+    "city": "Ancona",
+    "province": "AN",
+    "country": "Italy"
+  },
+  "phone": "+39 0719903082",
+  "email": "info@connidea.com",
+  "services": [
+    "3D Rendering",
+    "Web Design",
+    "Graphic Design",
+    "E-Commerce",
+    "Branding",
+    "SEO & Analytics",
+    "Digital Marketing"
+  ],
+  "social_media": {
+    "facebook": "https://www.facebook.com/connidea/",
+    "instagram": "https://www.instagram.com/connidea/"
+  },
+  "logo_url": "https://www.connidea.com/wp-content/uploads/2020/05/Logo-Connidea-Siti-Web-App-2.png"
+}
