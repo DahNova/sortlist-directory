@@ -1,0 +1,39 @@
+{
+  "nomeAgenzia": "Italiaonline Web Agency",
+  "descrizioneBreve": "Italiaonline supports the digital growth of Italian companies through a network of 45 web agencies across Italy, offering comprehensive digital solutions.",
+  "descrizioneCompleta": "Italiaonline is a leading digital operator in Italy, providing a wide range of digital products and services tailored for Italian SMEs. With approximately 700 consultants distributed across 45 locations nationwide, Italiaonline offers solutions including digital presence, website development, e-commerce, marketplace solutions, advertising campaigns, social media management, and custom projects. The company serves around 700 large enterprises, 1,800 public entities, and 205,000 SMEs, supporting major economic players and media centers in digital communication campaigns. Italiaonline reaches over 25 million unique users monthly through its portals like Libero and Virgilio, emphasizing brand safety and user protection with advanced technologies.",
+  "sedePrincipale": {
+    "indirizzoCompleto": "Via Carlo Farini, 1, 20159 Milano MI, Italia",
+    "citta": "Milano",
+    "provincia": "MI",
+    "regione": "Lombardia"
+  },
+  "altreSedi": [
+    "45 locations throughout Italy"
+  ],
+  "sitoWeb": "https://www.italiaonline.it/",
+  "annoFondazione": "Non disponibile",
+  "numeroDipendentiApprox": 700,
+  "serviziOfferti": [
+    "Digital presence solutions",
+    "Website development",
+    "E-commerce solutions",
+    "Marketplace solutions",
+    "Advertising campaigns",
+    "Social media management",
+    "Custom projects",
+    "Digital advertising solutions (iOL Advertising)"
+  ],
+  "tecnologieUtilizzate": [
+    "Web portals",
+    "Email services",
+    "Directories",
+    "GeoEdge technology for brand safety"
+  ],
+  "settoriSpecializzazione": [
+    "SMEs",
+    "Large enterprises",
+    "Public entities",
+    "Digital communication campaigns"
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "nomeAgenzia": "B4web",
+  "descrizioneBreve": "Web agency and software house specializing in custom software, cyber security, IT consulting, and web solutions.",
+  "descrizioneCompleta": "B4web is a web agency and software house with over 20 years of experience since 2001. They specialize in custom software development, cyber security, IT consulting, CRM, business intelligence, app development, SEO, marketing, backup cloud, virtualizzazione, and IPbox solutions. With a team of 15 professionals, B4web serves over 1,200 clients and has completed more than 500 projects. The agency is certified ISO 9001 EA 37 and is committed to delivering innovative and secure IT solutions tailored to client needs.",
+  "sedePrincipale": {
+    "indirizzoCompleto": "Via Giordano Bruno 51/A, Alessandria, Italia",
+    "citta": "Alessandria",
+    "provincia": "AL",
+    "regione": "Piemonte"
+  },
+  "altreSedi": [
+    {
+      "indirizzoCompleto": "Via la Pira 17, Trofarello, Italia",
+      "citta": "Trofarello",
+      "provincia": "TO",
+      "regione": "Piemonte"
+    }
+  ],
+  "sitoWeb": "https://www.b4web.biz/",
+  "annoFondazione": 2001,
+  "numeroDipendentiApprox": 15,
+  "numeroClientiApprox": 1200,
+  "numeroProgettiApprox": 500,
+  "telefono": "0131 1926569",
+  "email": "Unavailable (obfuscated on website)",
+  "socialMedia": {
+    "facebook": "https://www.facebook.com/b4web.it",
+    "twitter": "https://twitter.com/b4web_it",
+    "pinterest": "https://www.pinterest.it/b4web",
+    "linkedin": "https://www.linkedin.com/company/b4web",
+    "youtube": "https://www.youtube.com/channel/b4web"
+  },
+  "serviziOfferti": [
+    "Software house",
+    "Cyber security",
+    "IT consulting",
+    "Web solutions",
+    "Custom software development",
+    "CRM",
+    "Business intelligence",
+    "App development",
+    "SEO",
+    "Marketing",
+    "Backup cloud",
+    "Virtualizzazione",
+    "IPbox"
+  ],
+  "missione": "Deliver innovative, secure, and customized IT solutions to empower businesses and protect their digital assets.",
+  "certificazioni": [
+    "ISO 9001 EA 37"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Forse Cercavi",
+  "website_url": "https://forsecercavi.it/",
+  "description": "Forse Cercavi è una web agency specializzata in realizzazione siti web. L’attività di creazione di siti internet della nostra agenzia con sede in Sicilia, si rivolge a quelle aziende e professionisti di tutta Italia che vogliono presentare online i propri servizi/prodotti e acquisire nuovi clienti. Attraverso studi approfonditi sui concorrenti dei nostri clienti, l’analisi del mercato e le strategie di web marketing mirate, dedichiamo le nostre energie ad aumentare il numero di accessi verso un sito e ad ottimizzare il tasso di conversione, aumentando di conseguenza le vendite.",
+  "locations": [
+    {
+      "address": "Via Toscana 93, 94012 Barrafranca (EN), Sicilia, Italy",
+      "phone": "+39 351 8606077",
+      "email": "info@forsecercavi.it",
+      "opening_hours": ""
+    }
+  ],
+  "vat_number": "01265920866",
+  "group_affiliation": "",
+  "technologies": [],
+  "services": [
+    "Realizzazione siti web",
+    "Siti vetrina",
+    "Siti aziendali",
+    "Siti web economici",
+    "Siti e-commerce",
+    "Restyling sito web",
+    "Web marketing",
+    "Posizionamento siti web (SEO)",
+    "Pubblicità sui social network"
+  ],
+  "social_media": {
+    "facebook": "https://www.facebook.com/forsecercaviweb",
+    "instagram": "https://www.instagram.com/forse_cercavi_web/"
+  }
+}

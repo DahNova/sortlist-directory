@@ -1,0 +1,32 @@
+{
+  "name": "Dedalux S.R.L.S.",
+  "website_url": "https://dedalux.com/",
+  "description": "Dedalux è una Web Marketing Agency che crea progetti per aziende e professionisti. Siti Web, E-Commerce, SEO, Social Media, App, Gestionali.",
+  "locations": [
+    {
+      "address": "",
+      "phone": "+39 327 375 5671, +39 389 424 0616",
+      "email": "info@dedalux.com",
+      "opening_hours": ""
+    }
+  ],
+  "vat_number": "IT07101810823",
+  "group_affiliation": "",
+  "technologies": [],
+  "services": [
+    "Siti Web",
+    "E-Commerce",
+    "SEO",
+    "Social Media",
+    "Advertising",
+    "App",
+    "Gestionali",
+    "Design"
+  ],
+  "social_media": {
+    "facebook": "https://www.facebook.com/wearededalux",
+    "instagram": "https://www.instagram.com/wearededalux/",
+    "linkedin": "https://www.linkedin.com/company/dedalux/",
+    "threads": "https://www.threads.net/@wearededalux"
+  }
+}

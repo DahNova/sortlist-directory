@@ -1,0 +1,39 @@
+{
+  "name": "Dexa Agency",
+  "legal_name": "Dexa SRL",
+  "website": "https://www.dexanet.com/",
+  "address": "P.le Europa, 43 - 25068 Sarezzo (Brescia), Italy",
+  "phone": "030 8908024",
+  "description": "Dexa is a web agency and communication agency specializing in websites, online advertising, social media marketing, and marketing strategies. With 23 years of experience, 40 collaborators, and 500 clients across Italy, Dexa offers digital business transformation, communication, digital marketing, strategic marketing, web and app development, SEO, e-commerce, CRM, cyber security, AI and metaverse solutions, and more.",
+  "services": [
+    "Digital business transformation",
+    "Communication",
+    "Digital marketing",
+    "Strategic marketing",
+    "Web and app development",
+    "SEO",
+    "E-commerce",
+    "CRM",
+    "Cyber security",
+    "Artificial Intelligence and Metaverse solutions"
+  ],
+  "certifications": [
+    "Google Ads Partner",
+    "Google My Business management",
+    "Google Analytics expertise",
+    "SEMRUSH",
+    "Acquia Certified Drupal",
+    "Magento 2 Certified",
+    "Hubspot Certified Team"
+  ],
+  "social_media": {
+    "facebook": "https://www.facebook.com/dexa.agency",
+    "instagram": "https://www.instagram.com/dexa.agency/",
+    "linkedin": "https://www.linkedin.com/company/dexaagency/",
+    "youtube": "https://www.youtube.com/@dexa.agency/",
+    "spotify": "https://open.spotify.com/user/rz1f5ypuikw4s0d2td1ubvu72?si=G9noyzWES829CFBM4XE2OQ"
+  },
+  "employee_count": 40,
+  "client_count": 500,
+  "location": "Brescia, Italy"
+}

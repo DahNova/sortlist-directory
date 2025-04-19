@@ -1,0 +1,37 @@
+{
+  "nomeAgenzia": "UP&UP",
+  "descrizioneBreve": "UP&UP is a communication agency in Brescia, certified Google Premier Partner, known for its innovative 'Formula del Risultato' approach that links fees to client results.",
+  "descrizioneCompleta": "UP&UP is a digital agency that combines technology and creativity to deliver the perfect marketing mix for business growth. Certified as a Google Premier Partner, part of the top 3% of Google Partners, and awarded Best in Quality by Google, UP&UP offers strategic marketing, visual identity, website and e-commerce design and development, SEO consulting, social media marketing, and digital marketing services. The agency operates with a win-win 'Formula del Risultato' approach, aligning their compensation with client success. The team consists of over 40 professionals with diverse skills working in synergy to achieve measurable results for clients.",
+  "sedePrincipale": {
+    "indirizzoCompleto": "Via Caselle, 4, 25081 Bedizzole (BS), Italia",
+    "citta": "Bedizzole",
+    "provincia": "BS",
+    "regione": "Lombardia"
+  },
+  "altreSedi": [],
+  "sitoWeb": "https://www.up3up.it/",
+  "annoFondazione": "Non disponibile",
+  "numeroDipendentiApprox": 40,
+  "serviziOfferti": [
+    "Analisi e Strategia",
+    "Comunicazione e Branding",
+    "Progettazione e sviluppo siti web ed e-commerce",
+    "Consulenza SEO",
+    "Social Media Marketing",
+    "Digital Marketing"
+  ],
+  "tecnologieUtilizzate": [
+    "Google Ads",
+    "Prestashop",
+    "Magento",
+    "HubSpot",
+    "Channable"
+  ],
+  "settoriSpecializzazione": [
+    "E-commerce",
+    "B2B",
+    "B2C",
+    "Digital Marketing",
+    "Branding"
+  ]
+}
